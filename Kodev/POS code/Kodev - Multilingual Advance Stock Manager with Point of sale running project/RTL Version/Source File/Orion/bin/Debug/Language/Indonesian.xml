@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Kami mengeksplorasi impian Anda dengan menyediakan solusi terbaik</comments>
+	<ctrlSave>MENYIMPAN</ctrlSave>
+	<ctrlClose>DEKAT</ctrlClose>
+	<ctrlAlter>MENGUBAH</ctrlAlter>
+	<ctrlDelete>MENGHAPUS</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>MENYEGARKAN</ctrlRefresh>
+	<ctrlBrowsePhoto>Telusuri Foto</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>MENGHAPUS SEMUA</ctrlRemoveAll>
+	<ctrlSearch>PENCARIAN</ctrlSearch>
+	<ctrlComplete>LENGKAP</ctrlComplete>
+	<ctrlNew>BARU</ctrlNew>
+	<ctrlPrint>MENCETAK</ctrlPrint>
+	<ctrlShipping>PENGIRIMAN DAN PENAGIHAN</ctrlShipping>
+	<ctrlAdd>MENAMBAHKAN</ctrlAdd>
+	<ctrlSaveOnly>SIMPAN HANYA</ctrlSaveOnly>
+	<ctrlDeleteAll>HAPUS SEMUA</ctrlDeleteAll>
+	<ctrlCollect>MENGUMPULKAN</ctrlCollect>
+	<ctrlRefund>PENGEMBALIAN DANA</ctrlRefund>
+	<ctrlLogin>MASUK</ctrlLogin>
+	<lnkChangePassword>GANTI KATA SANDI</lnkChangePassword>
+	<btnSetUp>MEMPERSIAPKAN</btnSetUp>
+	<btnItem>BARANG</btnItem>
+	<btnStock>PERSEDIAAN</btnStock>
+	<btnSale>PENJUALAN</btnSale>
+	<btnPurchase>MEMBELI</btnPurchase>
+	<btnReturn>KEMBALI</btnReturn>
+	<btnCredit>KREDIT</btnCredit>
+	<btnEmployee>KARYAWAN</btnEmployee>
+	<btnExpense>BIAYA</btnExpense>
+	<btnReport>MELAPORKAN</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>ALAT</btnTools>
+	<linkLogOut>KELUAR</linkLogOut>
+	<tsmlBusinessInformation>Informasi bisnis</tsmlBusinessInformation>
+	<tsmlCustomer>Pelanggan</tsmlCustomer>
+	<tsmlSupplier>pemasok</tsmlSupplier>
+	<tsmlVAT>TONG</tsmlVAT>
+	<tsmlWareHouse>Gudang</tsmlWareHouse>
+	<tsmlShelf>Rak</tsmlShelf>
+	<tsmlItemInformation>informasi barang</tsmlItemInformation>
+	<tsmlListOfItem>Daftar Of Barang</tsmlListOfItem>
+	<tsmlImport>Impor</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>persediaan</tsmlStock>
+	<tsmlExpiredItem>Expired Barang</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>transfer saham</tsmlStockTransfer>
+	<tsmlSales>Penjualan</tsmlSales>
+	<tsmlPOS>Titik penjualan</tsmlPOS>
+	<tsmlInvoiceList>Daftar faktur</tsmlInvoiceList>
+	<tsmlPurchase>Membeli</tsmlPurchase>
+	<tsmlPurchaseList>Daftar pembelian</tsmlPurchaseList>
+	<tsmlSalesReturn>penjualan Kembali</tsmlSalesReturn>
+	<tsmlPurchaseReturn>pembelian Kembali</tsmlPurchaseReturn>
+	<tsmlCreditSale>kredit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>Pembelian kredit</tsmlCreditPurchase>
+	<tsmlEmployee>Karyawan</tsmlEmployee>
+	<tsmlAttendance>Kehadiran</tsmlAttendance>
+	<tsmlEmployeeSalary>Gaji karyawan</tsmlEmployeeSalary>
+	<tsmlItemReport>item</tsmlItemReport>
+	<tsmlStockReport>persediaan</tsmlStockReport>
+	<tsmlSalesReport>Penjualan</tsmlSalesReport>
+	<tsmlPurchaseReport>Membeli</tsmlPurchaseReport>
+	<tsmlReturnReport>Kembali</tsmlReturnReport>
+	<tsmlCreditReport>Kredit</tsmlCreditReport>
+	<tsmlEmployeeReport>Karyawan</tsmlEmployeeReport>
+	<tsmlExpenseReport>beban</tsmlExpenseReport>
+	<tsmlLanguage>Bahasa</tsmlLanguage>
+	<tsmlResetDB>ulang database</tsmlResetDB>
+	<l1000>Informasi bisnis</l1000>
+	<l1001>Anda diminta untuk mengisi rincian sebagai berikut Perusahaan:</l1001>
+	<l1002>Nama Perusahaan</l1002>
+	<l1003>Nama hukum</l1003>
+	<l1004>Alamat</l1004>
+	<l1005>Telepon</l1005>
+	<l1006>E-mail</l1006>
+	<l1007>Situs web</l1007>
+	<l1008>Slogan</l1008>
+	<l1009>informasi pengguna</l1009>
+	<l1010>Untuk Pelanggan Calon: Silahkan isi formulir ini selengkap mungkin.</l1010>
+	<l1011>Nama Pelanggan</l1011>
+	<l1014>Tanggal pembukaan</l1014>
+	<l1015>Keseimbangan</l1015>
+	<l1016>Informasi pemasok</l1016>
+	<l1017>Untuk Pemasok Calon: Silahkan isi formulir ini selengkap mungkin</l1017>
+	<l1018>nama pemasok</l1018>
+	<l1019>TONG</l1019>
+	<l1020>Pajak dapat didefinisikan sebagai persentase uang</l1020>
+	<l1021>PPN (%)</l1021>
+	<l1022>Gudang</l1022>
+	<l1023>Ini berisi kolom berikut ke gudang</l1023>
+	<l1024>gudang Nama</l1024>
+	<l1025>Rak</l1025>
+	<l1026>Ini berisi kolom berikut untuk menjaga rak:</l1026>
+	<l1027>Nama Shelf</l1027>
+	<l1028>informasi barang</l1028>
+	<l1029>Anda diminta untuk mengisi rincian sebagai berikut item:</l1029>
+	<l1030>Nama barang</l1030>
+	<l1031>Satuan</l1031>
+	<l1032>setumpuk</l1032>
+	<l1033>Nama grup</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Auto menghasilkan Barcode</l1035>
+	<l1036>PPN Berlaku</l1036>
+	<l1037>Biaya pembelian</l1037>
+	<l1038>Harga jual</l1038>
+	<l1039>Susun ulang Titik</l1039>
+	<l1040>Gudang default</l1040>
+	<l1041>Stok pembuka</l1041>
+	<l1042>Gudang</l1042>
+	<l1043>Rak</l1043>
+	<l1044>Satuan pembukaan</l1044>
+	<l1045>Tanggal kedaluwarsa</l1045>
+	<l1046>Tanggal kadaluarsa</l1046>
+	<l1047>Daftar Barang</l1047>
+	<l1048>Untuk mengubah atau menghapus, klik dua kali pada informasi item.</l1048>
+	<l1049>Impor Barang dari Excel</l1049>
+	<l1050>.xlsx yang dapat mengimpor dalam Orion.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Anda dapat mencetak barcode sesuai dengan kebutuhan Anda</l1052>
+	<l1053>Kuantitas</l1053>
+	<l1054>Sertakan nama perusahaan</l1054>
+	<l1055>persediaan</l1055>
+	<l1056>Untuk mengubah atau menghapus, klik dua kali pada nomor faktur.</l1056>
+	<l1057>Persediaan Expired</l1057>
+	<l1058>transfer saham</l1058>
+	<l1059>Untuk menghapus, klik dua kali pada informasi item.</l1059>
+	<l1060>dari Gudang</l1060>
+	<l1061>untuk Gudang</l1061>
+	<l1062>Alasan</l1062>
+	<l1063>Tanggal transfer</l1063>
+	<l1064>Persediaan Expired</l1064>
+	<l1065>Tanggal</l1065>
+	<l1066>FAKTUR PAJAK</l1066>
+	<l1067>NOMOR FAKTUR</l1067>
+	<l1068>KOTOR</l1068>
+	<l1069>TONG</l1069>
+	<l1070>DISKON</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>OLEH</l1072>
+	<l1073>KAS</l1073>
+	<l1074>KARTU</l1074>
+	<l1075>PEMBAYARAN</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Pelanggan Tampilan</l1077>
+	<l1078>Item Tampilan</l1078>
+	<l1079>Daftar faktur</l1079>
+	<l1080>Dari</l1080>
+	<l1081>Untuk</l1081>
+	<l1082>ALAMAT PENGIRIMAN</l1082>
+	<l1083>ALAMAT TAGIHAN</l1083>
+	<l1084>KOMENTAR</l1084>
+	<l1085>Nama</l1085>
+	<l1086>Membeli</l1086>
+	<l1087>Total keseluruhan</l1087>
+	<l1088>Daftar pembelian</l1088>
+	<l1089>penjualan Kembali</l1089>
+	<l1090>Daftar Penjualan Barang</l1090>
+	<l1091>Kembali Daftar Barang</l1091>
+	<l1092>pembelian Kembali</l1092>
+	<l1093>Pembelian Daftar Barang</l1093>
+	<l1094>Koleksi</l1094>
+	<l1095>total Karena</l1095>
+	<l1096>penjualan Tanggal</l1096>
+	<l1097>dijual By</l1097>
+	<l1098>Pembayaran</l1098>
+	<l1099>Tanggal Pembelian</l1099>
+	<l1100>Tanggal pembayaran</l1100>
+	<l1101>Pembelian Tidak ada</l1101>
+	<l1102>informasi Pegawai</l1102>
+	<l1103>Ini berisi kolom berikut untuk mempertahankan catatan karyawan:</l1103>
+	<l1104>nama karyawan</l1104>
+	<l1105>Penunjukan</l1105>
+	<l1106>Kehadiran</l1106>
+	<l1107>Pengguna kehadiran bentuk entri data</l1107>
+	<l1108>kehadiran Tanggal</l1108>
+	<l1109>Status</l1109>
+	<l1110>Menyajikan</l1110>
+	<l1111>Tidak hadir</l1111>
+	<l1112>Keterangan</l1112>
+	<l1113>Pembayaran Karyawan</l1113>
+	<l1114>Ini berisi kolom berikut untuk mempertahankan catatan pembayaran karyawan:</l1114>
+	<l1115>Deskripsi</l1115>
+	<l1116>Jumlah pembayaran</l1116>
+	<l1117>Biaya</l1117>
+	<l1118>Ini berisi kolom berikut untuk mempertahankan Beban</l1118>
+	<l1119>Akun belanja</l1119>
+	<l1120>dibayar Tanggal</l1120>
+	<l1121>Barang</l1121>
+	<l1122>Semua item daftar</l1122>
+	<l1123>Cari berdasarkan Kelompok</l1123>
+	<l1124>persediaan</l1124>
+	<l1125>Cari berdasarkan Gudang</l1125>
+	<l1126>Cari berdasarkan Shelf</l1126>
+	<l1127>Penjualan</l1127>
+	<l1128>hari ini</l1128>
+	<l1129>Gunakan ................ Kriteria</l1129>
+	<l1130>Cari berdasarkan POS</l1130>
+	<l1131>Cari berdasarkan QuickSale</l1131>
+	<l1132>Terbaik Jual Produk</l1132>
+	<l1133>Cari berdasarkan Pelanggan</l1133>
+	<l1134>Cari berdasarkan Barang</l1134>
+	<l1135>Membeli</l1135>
+	<l1136>Cari berdasarkan Tanggal</l1136>
+	<l1137>Cari berdasarkan Pemasok</l1137>
+	<l1138>Kembali</l1138>
+	<l1139>Kembali penjualan hari ini</l1139>
+	<l1140>Hari ini Kembali pembelian</l1140>
+	<l1141>Cari penjualan Kembali oleh tanggal</l1141>
+	<l1142>Cari pembelian Kembali berdasarkan tanggal</l1142>
+	<l1143>Cari penjualan Kembali oleh item</l1143>
+	<l1144>Cari pembelian Kembali oleh item</l1144>
+	<l1145>Kredit</l1145>
+	<l1146>koleksi hari ini</l1146>
+	<l1147>pembayaran hari ini</l1147>
+	<l1148>Koleksi pencarian berdasarkan tanggal</l1148>
+	<l1149>pembayaran pencarian berdasarkan tanggal</l1149>
+	<l1150>Cari berdasarkan Pemasok</l1150>
+	<l1151>Karyawan</l1151>
+	<l1152>Daftar Karyawan</l1152>
+	<l1153>Cari kehadiran berdasarkan tanggal</l1153>
+	<l1154>pembayaran pencarian berdasarkan tanggal</l1154>
+	<l1155>pembayaran karyawan pencarian berdasarkan tanggal</l1155>
+	<l1156>Biaya</l1156>
+	<l1157>Pencarian biaya berdasarkan tanggal</l1157>
+	<l1158>Pengaturan pengguna</l1158>
+	<l1159>Buat pengguna (memiliki hak yang berbeda)</l1159>
+	<l1160>Nama pengguna</l1160>
+	<l1161>Nama lengkap</l1161>
+	<l1162>Kata sandi</l1162>
+	<l1163>Masukkan Kembali password</l1163>
+	<l1164>Hak istimewa</l1164>
+	<l1165>Hak pengguna</l1165>
+	<l1166>MENAMBAHKAN</l1166>
+	<l1167>MEMODIFIKASI</l1167>
+	<l1168>MENGHAPUS</l1168>
+	<l1169>MENCETAK</l1169>
+	<l1170>Reset data pabrik</l1170>
+	<l1171>Menggunakan modul ini dengan sangat hati-hati. Jika database ulang, maka data sebelumnya tidak dapat pulih bagaimanapun.</l1171>
+	<l1172>Kelompok</l1172>
+	<l1173>Ini berisi kolom berikut untuk menjaga kelompok barang.</l1173>
+	<l1174>Nama grup</l1174>
+	<l1175>Akun belanja</l1175>
+	<l1176>Ini berisi kolom berikut untuk mempertahankan Akun Pengeluaran:</l1176>
+	<l1177>Nama akun</l1177>
+	<l1178>Ingat saya</l1178>
+	<l1179>Ganti kata sandi</l1179>
+	<l1180>Ini berisi kolom berikut untuk mempertahankan sandi perubahan:</l1180>
+	<l1181>kata sandi saat ini</l1181>
+	<l1182>ID</l1182>
+	<l1183>Harga</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>tanggal registrasi</l1186>
+	<l1187>ID Pelanggan</l1187>
+	<l1188>pemasok ID</l1188>
+	<l1189>Tidak ada izin.</l1189>
+	<l1190>Informasi berhasil disimpan.</l1190>
+	<l1191>Informasi telah diperbarui berhasil.</l1191>
+	<l1192>Informasi telah berhasil dihapus.</l1192>
+	<l1193>Tidak ada data ditemukan</l1193>
+	<l1194>Produk ini telah ditambahkan ke Bursa.</l1194>
+	<l1195>WAKTU</l1195>
+	<l1196>KEUNTUNGAN</l1196>
+	<l1197>SYARAT DAN KONDISI</l1197>
+	<l1198>Semua barang yang dikembalikan untuk penggantian harus dalam kondisi dijual dengan kemasan asli.</l1198>
+	<l1199>Kami tidak bertanggung jawab atas kerusakan angkutan kerugian atau kebocoran.</l1199>
+	<l1200>Alamat Pengiriman</l1200>
+	<l1201>alamat tagihan</l1201>
+	<l1202>Tanda tangan resmi</l1202>
+	<l1203>komentar</l1203>
+	<l1204>HARGA KOTOR</l1204>
+	<l1205>SATUAN</l1205>
+	<l1206>TOTAL HARGA</l1206>
+	<l1207>PPN UNIT</l1207>
+	<l1208>PPN TOTAL</l1208>
+	<l1209>FAKTUR PAJAK</l1209>
+	<l1210>BARANG SEKALI SOLD TIDAK DAPAT DIKEMBALIKAN ATAU EXCHANGE.</l1210>
+</language>

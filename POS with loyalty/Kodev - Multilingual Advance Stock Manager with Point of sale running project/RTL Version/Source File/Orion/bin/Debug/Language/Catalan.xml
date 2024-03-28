@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Ens explora el seu somni, proporcionant millor solució</comments>
+	<ctrlSave>GUARDAR</ctrlSave>
+	<ctrlClose>TANCAR</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>ESBORRAR</ctrlDelete>
+	<ctrlReset>REINICIAR</ctrlReset>
+	<ctrlRefresh>ACTUALITZACIÓ</ctrlRefresh>
+	<ctrlBrowsePhoto>Cercar fotos</ctrlBrowsePhoto>
+	<ctrlPreview>VISTA PRÈVIA</ctrlPreview>
+	<ctrlRemoveAll>ESBORRA-HO TOT</ctrlRemoveAll>
+	<ctrlSearch>CERCA</ctrlSearch>
+	<ctrlComplete>COMPLETA</ctrlComplete>
+	<ctrlNew>NOU</ctrlNew>
+	<ctrlPrint>IMPRIMIR</ctrlPrint>
+	<ctrlShipping>Enviament i de facturació</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>només guardar</ctrlSaveOnly>
+	<ctrlDeleteAll>ELIMINAR TOTS</ctrlDeleteAll>
+	<ctrlCollect>COBRAR</ctrlCollect>
+	<ctrlRefund>REEMBORSAMENT</ctrlRefund>
+	<ctrlLogin>INICIAR SESSIÓ</ctrlLogin>
+	<lnkChangePassword>CANVIAR CONTRASENYA</lnkChangePassword>
+	<btnSetUp>CONFIGURACIÓ</btnSetUp>
+	<btnItem>ARTICLE</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>VENDA</btnSale>
+	<btnPurchase>COMPRA</btnPurchase>
+	<btnReturn>RETORN</btnReturn>
+	<btnCredit>CRÈDIT</btnCredit>
+	<btnEmployee>EMPLEATS</btnEmployee>
+	<btnExpense>DESPESES</btnExpense>
+	<btnReport>INFORME</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>EINES</btnTools>
+	<linkLogOut>TANCAR SESSIÓ</linkLogOut>
+	<tsmlBusinessInformation>Informació de contacte</tsmlBusinessInformation>
+	<tsmlCustomer>client</tsmlCustomer>
+	<tsmlSupplier>proveïdor</tsmlSupplier>
+	<tsmlVAT>IVA</tsmlVAT>
+	<tsmlWareHouse>celler</tsmlWareHouse>
+	<tsmlShelf>Prestatge</tsmlShelf>
+	<tsmlItemInformation>Informació de l'article</tsmlItemInformation>
+	<tsmlListOfItem>Llista d'article</tsmlListOfItem>
+	<tsmlImport>importació</tsmlImport>
+	<tsmlBarcode>codi de barres</tsmlBarcode>
+	<tsmlStock>valors</tsmlStock>
+	<tsmlExpiredItem>article caducat</tsmlExpiredItem>
+	<tsmlBadStock>mal de</tsmlBadStock>
+	<tsmlStockTransfer>de Transferència</tsmlStockTransfer>
+	<tsmlSales>venda</tsmlSales>
+	<tsmlPOS>Punt de venda</tsmlPOS>
+	<tsmlInvoiceList>Llista de factures</tsmlInvoiceList>
+	<tsmlPurchase>compra</tsmlPurchase>
+	<tsmlPurchaseList>Llista de compra</tsmlPurchaseList>
+	<tsmlSalesReturn>Retorn de vendes</tsmlSalesReturn>
+	<tsmlPurchaseReturn>devolució de compra</tsmlPurchaseReturn>
+	<tsmlCreditSale>Venda de crèdit</tsmlCreditSale>
+	<tsmlCreditPurchase>Compra de crèdits</tsmlCreditPurchase>
+	<tsmlEmployee>empleat</tsmlEmployee>
+	<tsmlAttendance>assistència</tsmlAttendance>
+	<tsmlEmployeeSalary>Salari dels empleats</tsmlEmployeeSalary>
+	<tsmlItemReport>articles</tsmlItemReport>
+	<tsmlStockReport>valors</tsmlStockReport>
+	<tsmlSalesReport>venda</tsmlSalesReport>
+	<tsmlPurchaseReport>compra</tsmlPurchaseReport>
+	<tsmlReturnReport>retorn</tsmlReturnReport>
+	<tsmlCreditReport>crèdit</tsmlCreditReport>
+	<tsmlEmployeeReport>empleat</tsmlEmployeeReport>
+	<tsmlExpenseReport>despeses</tsmlExpenseReport>
+	<tsmlLanguage>Llenguatge</tsmlLanguage>
+	<tsmlResetDB>Base de dades de reinici</tsmlResetDB>
+	<l1000>Informació de contacte</l1000>
+	<l1001>Vostè està obligat a omplir les següents dades de l'Empresa:</l1001>
+	<l1002>Nom de la companyia</l1002>
+	<l1003>nom legal</l1003>
+	<l1004>adreça</l1004>
+	<l1005>telèfon</l1005>
+	<l1006>e-mail</l1006>
+	<l1007>lloc web</l1007>
+	<l1008>eslògan</l1008>
+	<l1009>Informació del consumidor</l1009>
+	<l1010>Per als clients potencials: Ompli aquest formulari el més completament possible.</l1010>
+	<l1011>Nom del client</l1011>
+	<l1014>Data d'obertura</l1014>
+	<l1015>equilibri</l1015>
+	<l1016>informació anunciant</l1016>
+	<l1017>Als proveïdors potencials: Si us plau, ompli aquest formulari tan completament com sigui possible</l1017>
+	<l1018>Nom del proveïdor</l1018>
+	<l1019>IVA</l1019>
+	<l1020>Impostos pot ser definida com el percentatge de diners</l1020>
+	<l1021>IVA (%)</l1021>
+	<l1022>magatzem</l1022>
+	<l1023>Conté els següents camps per a magatzem</l1023>
+	<l1024>Nom del magatzem</l1024>
+	<l1025>Prestatge</l1025>
+	<l1026>Conté els següents camps per mantenir la plataforma:</l1026>
+	<l1027>nom prestatgeria</l1027>
+	<l1028>Informació de l'article</l1028>
+	<l1029>Vostè està obligat a omplir els següents detalls de la màquina:</l1029>
+	<l1030>Nom de l'ítem</l1030>
+	<l1031>unitat</l1031>
+	<l1032>lot</l1032>
+	<l1033>Nom del grup</l1033>
+	<l1034>codi de barres</l1034>
+	<l1035>Generar automàticament codi de barres</l1035>
+	<l1036>IVA aplicable</l1036>
+	<l1037>Cost d'adquisició</l1037>
+	<l1038>Preu de venda</l1038>
+	<l1039>reordenar Point</l1039>
+	<l1040>Magatzem per defecte</l1040>
+	<l1041>l'obertura de la</l1041>
+	<l1042>magatzem</l1042>
+	<l1043>Prestatge</l1043>
+	<l1044>Unitat d'obertura</l1044>
+	<l1045>Una data de caducitat</l1045>
+	<l1046>Data de caducitat</l1046>
+	<l1047>Llista d'article</l1047>
+	<l1048>Per a alterar o suprimir, feu doble clic a la informació de l'article.</l1048>
+	<l1049>Importació d'articles des d'Excel</l1049>
+	<l1050>.xlsx pot importar a Orió.</l1050>
+	<l1051>codi de barres</l1051>
+	<l1052>Podeu imprimir codis de barres d'acord a les seves necessitats</l1052>
+	<l1053>quantitat</l1053>
+	<l1054>Incloure nom de l'empresa</l1054>
+	<l1055>valors</l1055>
+	<l1056>Per canviar o eliminar, feu doble clic al número de la factura.</l1056>
+	<l1057>inventari caducat</l1057>
+	<l1058>de Transferència</l1058>
+	<l1059>Per eliminar, feu doble clic a la informació de l'article.</l1059>
+	<l1060>de Magatzem</l1060>
+	<l1061>per a Magatzem</l1061>
+	<l1062>raó</l1062>
+	<l1063>Data de Cobrament</l1063>
+	<l1064>inventari caducat</l1064>
+	<l1065>Data</l1065>
+	<l1066>FACTURA D'IMPOSTOS</l1066>
+	<l1067>INVOICE NO</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>IVA</l1069>
+	<l1070>DISCOUNT</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>CASH</l1073>
+	<l1074>CARD</l1074>
+	<l1075>PAYMENT</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Customer Display</l1077>
+	<l1078>Item Display</l1078>
+	<l1079>Llista de factures</l1079>
+	<l1080>From</l1080>
+	<l1081>To</l1081>
+	<l1082>SHIPPING ADDRESS</l1082>
+	<l1083>BILLING ADDRESS</l1083>
+	<l1084>COMMENTS</l1084>
+	<l1085>Name</l1085>
+	<l1086>compra</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>Llista de compra</l1088>
+	<l1089>Retorn de vendes</l1089>
+	<l1090>Sales Item List</l1090>
+	<l1091>Return Item List</l1091>
+	<l1092>devolució de compra</l1092>
+	<l1093>Purchase Item List</l1093>
+	<l1094>Collection</l1094>
+	<l1095>Total Due</l1095>
+	<l1096>Sales Date</l1096>
+	<l1097>Sold By</l1097>
+	<l1098>Payment</l1098>
+	<l1099>Purchase Date</l1099>
+	<l1100>Payment Date</l1100>
+	<l1101>Purchase No</l1101>
+	<l1102>Employee Information</l1102>
+	<l1103>It contains the following fields to maintain employee records:</l1103>
+	<l1104>Employee Name</l1104>
+	<l1105>Designation</l1105>
+	<l1106>assistència</l1106>
+	<l1107>Manual attendance data entry form</l1107>
+	<l1108>Attendance Date</l1108>
+	<l1109>Status</l1109>
+	<l1110>Present</l1110>
+	<l1111>Absent</l1111>
+	<l1112>Remarks</l1112>
+	<l1113>Employee Payment</l1113>
+	<l1114>It contains the following fields to maintain employee payment records:</l1114>
+	<l1115>Description</l1115>
+	<l1116>Paid Amount</l1116>
+	<l1117>Expense</l1117>
+	<l1118>It contains the following fields to maintain Expense</l1118>
+	<l1119>Expenditure Account</l1119>
+	<l1120>Paid Date</l1120>
+	<l1121>Item</l1121>
+	<l1122>All item list</l1122>
+	<l1123>Search by Group</l1123>
+	<l1124>valors</l1124>
+	<l1125>Search by Warehouse</l1125>
+	<l1126>Search by Shelf</l1126>
+	<l1127>Sale</l1127>
+	<l1128>Today's</l1128>
+	<l1129>Use Criteria ................</l1129>
+	<l1130>Search by POS</l1130>
+	<l1131>Search by QuickSale</l1131>
+	<l1132>Best Product Sale</l1132>
+	<l1133>Search by Customer</l1133>
+	<l1134>Search by Item</l1134>
+	<l1135>compra</l1135>
+	<l1136>Search by Date</l1136>
+	<l1137>Search by Supplier</l1137>
+	<l1138>retorn</l1138>
+	<l1139>Today's sales Return</l1139>
+	<l1140>Today's purchase Return</l1140>
+	<l1141>Search sales Return by date</l1141>
+	<l1142>Search purchase Return by date</l1142>
+	<l1143>Search sales Return by item</l1143>
+	<l1144>Search purchase Return by item</l1144>
+	<l1145>crèdit</l1145>
+	<l1146>Today's collection</l1146>
+	<l1147>Today's payment</l1147>
+	<l1148>Search collection by date</l1148>
+	<l1149>Search payment by date</l1149>
+	<l1150>Search by Supplier</l1150>
+	<l1151>empleat</l1151>
+	<l1152>Employee List</l1152>
+	<l1153>Search attendance by date</l1153>
+	<l1154>Search payment by date</l1154>
+	<l1155>Search employee payment by date</l1155>
+	<l1156>Expense</l1156>
+	<l1157>Search expense by date</l1157>
+	<l1158>User Settings</l1158>
+	<l1159>Create users (having different privileges)</l1159>
+	<l1160>User Name</l1160>
+	<l1161>Full Name</l1161>
+	<l1162>Password</l1162>
+	<l1163>Re-enter password</l1163>
+	<l1164>Privilege</l1164>
+	<l1165>User Rights</l1165>
+	<l1166>ADD</l1166>
+	<l1167>MODIFY</l1167>
+	<l1168>ESBORRAR</l1168>
+	<l1169>IMPRIMIR</l1169>
+	<l1170>Factory Data Reset</l1170>
+	<l1171>Use this module with very carefully. If the database is reset, then previous data can not be recovered anyhow.</l1171>
+	<l1172>Group</l1172>
+	<l1173>It contains the following fields to maintain item group.</l1173>
+	<l1174>Nom del grup</l1174>
+	<l1175>Expenditure Account</l1175>
+	<l1176>It contains the following fields to maintain Expenditure Account:</l1176>
+	<l1177>Account Name</l1177>
+	<l1178>Remember Me</l1178>
+	<l1179>Change Password</l1179>
+	<l1180>It contains the following fields to maintain change password:</l1180>
+	<l1181>Current Password</l1181>
+	<l1182>ID</l1182>
+	<l1183>preu</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>ID de pagament</l1185>
+	<l1186>Data de Registre</l1186>
+	<l1187>ID de client</l1187>
+	<l1188>Identificació del proveïdor</l1188>
+	<l1189>Sense permís.</l1189>
+	<l1190>La informació s'ha guardat correctament.</l1190>
+	<l1191>La informació s'ha actualitzat correctament.</l1191>
+	<l1192>La informació s'ha eliminat correctament.</l1192>
+	<l1193>No s'han trobat dades</l1193>
+	<l1194>Aquest producte ja ha estat afegit a la borsa.</l1194>
+	<l1195>TEMPS</l1195>
+	<l1196>GUANYS</l1196>
+	<l1197>TERMES I CONDICIONS</l1197>
+	<l1198>Tots els productes retornats per al seu reemplaçament ha d'estar en condicions de ser venudes amb l'embalatge original.</l1198>
+	<l1199>No ens fem responsables de qualsevol pèrdua o danys durant el transport de fugida.</l1199>
+	<l1200>Adreça d'enviament</l1200>
+	<l1201>Adreça de facturació</l1201>
+	<l1202>Signatura autoritzada</l1202>
+	<l1203>Comentaris</l1203>
+	<l1204>PREU BRUT</l1204>
+	<l1205>UNITAT</l1205>
+	<l1206>PREU TOTAL</l1206>
+	<l1207>UNITAT D'IVA</l1207>
+	<l1208>total IVA</l1208>
+	<l1209>FACTURA D'IMPOSTOS</l1209>
+	<l1210>Mercaderies venudes una vegada no pot ser retornat o intercanvi.</l1210>
+</language>

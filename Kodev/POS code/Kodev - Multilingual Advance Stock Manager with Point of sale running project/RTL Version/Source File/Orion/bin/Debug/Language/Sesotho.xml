@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Re hlahloba toro ea hao ka ho fana ka tharollo e molemohali</comments>
+	<ctrlSave>Boloka</ctrlSave>
+	<ctrlClose>MOTSOALLE</ctrlClose>
+	<ctrlAlter>ho fetola</ctrlAlter>
+	<ctrlDelete>Tlosa</ctrlDelete>
+	<ctrlReset>Reset</ctrlReset>
+	<ctrlRefresh>KHATHOLLA '</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>selelekela</ctrlPreview>
+	<ctrlRemoveAll>tlosa TSOHLE</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>Feletseng</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>Print</ctrlPrint>
+	<ctrlShipping>SHIPPING AND go dirisana le tshupomolato</ctrlShipping>
+	<ctrlAdd>Eketsa</ctrlAdd>
+	<ctrlSaveOnly>Boloka FEELA</ctrlSaveOnly>
+	<ctrlDeleteAll>Tlosa TSOHLE</ctrlDeleteAll>
+	<ctrlCollect>LI BOKELLENG '</ctrlCollect>
+	<ctrlRefund>puseletso</ctrlRefund>
+	<ctrlLogin>KENA</ctrlLogin>
+	<lnkChangePassword>FETOLA SENOTLOLO</lnkChangePassword>
+	<btnSetUp>TLHOPHISO</btnSetUp>
+	<btnItem>Item</btnItem>
+	<btnStock>Stock</btnStock>
+	<btnSale>SALE</btnSale>
+	<btnPurchase>re reka</btnPurchase>
+	<btnReturn>Khutlela</btnReturn>
+	<btnCredit>Tlhaloso ea Moo</btnCredit>
+	<btnEmployee>Employee</btnEmployee>
+	<btnExpense>litšenyehelo</btnExpense>
+	<btnReport>TLALEHO</btnReport>
+	<btnAdmin>admin</btnAdmin>
+	<btnTools>Tools</btnTools>
+	<linkLogOut>Loka KA HO</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>moreki</tsmlCustomer>
+	<tsmlSupplier>mofani wa thepa</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>polokelo</tsmlWareHouse>
+	<tsmlShelf>raka, athe</tsmlShelf>
+	<tsmlItemInformation>ntho Information</tsmlItemInformation>
+	<tsmlListOfItem>List Of Item</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>Stock</tsmlStock>
+	<tsmlExpiredItem>e khutlile Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>Ho fetiswa Stock</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point thekiso</tsmlPOS>
+	<tsmlInvoiceList>List lefiswang</tsmlInvoiceList>
+	<tsmlPurchase>theko</tsmlPurchase>
+	<tsmlPurchaseList>List theko</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Kgutlisa</tsmlSalesReturn>
+	<tsmlPurchaseReturn>theko Kgutlisa</tsmlPurchaseReturn>
+	<tsmlCreditSale>mokitlane sale</tsmlCreditSale>
+	<tsmlCreditPurchase>mokitlane re reka</tsmlCreditPurchase>
+	<tsmlEmployee>Employee</tsmlEmployee>
+	<tsmlAttendance>ba teng</tsmlAttendance>
+	<tsmlEmployeeSalary>Employee moputso</tsmlEmployeeSalary>
+	<tsmlItemReport>Items</tsmlItemReport>
+	<tsmlStockReport>Stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>theko</tsmlPurchaseReport>
+	<tsmlReturnReport>Kgutlisa</tsmlReturnReport>
+	<tsmlCreditReport>mokitlane</tsmlCreditReport>
+	<tsmlEmployeeReport>Employee</tsmlEmployeeReport>
+	<tsmlExpenseReport>ditshenyehelo</tsmlExpenseReport>
+	<tsmlLanguage>puo</tsmlLanguage>
+	<tsmlResetDB>K gopotswa</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>O lokela ho tlatsa lintlha tse latelang tsa Company a re:</l1001>
+	<l1002>Lebitso la K'hamphani</l1002>
+	<l1003>Lebitso Molao</l1003>
+	<l1004>Address</l1004>
+	<l1005>Phone</l1005>
+	<l1006>Email</l1006>
+	<l1007>Website</l1007>
+	<l1008>tsekedi</l1008>
+	<l1009>Information moreki</l1009>
+	<l1010>Ho Customers moso: Thusa tlatsa foromo ena ka ho feletseng ha ho khoneha.</l1010>
+	<l1011>Lebitso moreki</l1011>
+	<l1014>a qalang Date</l1014>
+	<l1015>Teka-tekano</l1015>
+	<l1016>mofani wa thepa Information</l1016>
+	<l1017>Ho Suppliers moso: Thusa tlatsa foromo ena ka ho feletseng ha ho khoneha</l1017>
+	<l1018>Lebitso mofani wa thepa</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Lekhetho ka hlalosoa e le karolo ea chelete</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>polokelo</l1022>
+	<l1023>E na le masimo latelang ho polokelo</l1023>
+	<l1024>Lebitso polokelo</l1024>
+	<l1025>raka, athe</l1025>
+	<l1026>E na le masimo latelang ho boloka raka, athe:</l1026>
+	<l1027>Lebitso raka, athe</l1027>
+	<l1028>ntho Information</l1028>
+	<l1029>O lokela ho tlatsa lintlha tse latelang ya ntlha ya:</l1029>
+	<l1030>Lebitso ntho</l1030>
+	<l1031>Unit</l1031>
+	<l1032>methaka</l1032>
+	<l1033>Lebitso Group</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>Auto hlahisa Barcode</l1035>
+	<l1036>VAT ho tshwanetseng</l1036>
+	<l1037>theko Litšenyehelo</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>Reorder Point</l1039>
+	<l1040>Default polokelo</l1040>
+	<l1041>bula Stock</l1041>
+	<l1042>polokelo</l1042>
+	<l1043>raka, athe</l1043>
+	<l1044>a qalang Unit</l1044>
+	<l1045>E letsatsi tla felloa ke matla</l1045>
+	<l1046>Letsatsi la ho felloa ke nako</l1046>
+	<l1047>List of Item</l1047>
+	<l1048>Ho fetola kapa hlakola, habeli Penya ka lesedi ntho.</l1048>
+	<l1049>Import Item tloha ipabola</l1049>
+	<l1050>.xlsx faele ka Import ka Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>U ka hatisa barcodes ho latela litlhoko tsa hao</l1052>
+	<l1053>palo</l1053>
+	<l1054>Kenyelletsa khampani lebitso</l1054>
+	<l1055>Stock</l1055>
+	<l1056>Ho fetola kapa ho tlosa, penya habeli palo ea invoice.</l1056>
+	<l1057>e khutlile Inventory</l1057>
+	<l1058>Ho fetiswa Stock</l1058>
+	<l1059>Ho hlakola, habeli Penya ka lesedi ntho.</l1059>
+	<l1060>From polokelo</l1060>
+	<l1061>ho polokelo</l1061>
+	<l1062>lebaka</l1062>
+	<l1063>phetiso Date</l1063>
+	<l1064>e khutlile Inventory</l1064>
+	<l1065>letsatsi</l1065>
+	<l1066>lekhetho invoese ya</l1066>
+	<l1067>invoese ya NO</l1067>
+	<l1068>Gross</l1068>
+	<l1069>VAT</l1069>
+	<l1070>theolelo</l1070>
+	<l1071>Kakaretso</l1071>
+	<l1072>bY</l1072>
+	<l1073>chelete</l1073>
+	<l1074>KARETE</l1074>
+	<l1075>Tefo</l1075>
+	<l1076>Ka lebaka la</l1076>
+	<l1077>Display moreki</l1077>
+	<l1078>ntho Display</l1078>
+	<l1079>List lefiswang</l1079>
+	<l1080>From</l1080>
+	<l1081>ho</l1081>
+	<l1082>ATERESE EA SEBAKA SEO HO ROMELLOANG</l1082>
+	<l1083>ATERESE EA TEFISO</l1083>
+	<l1084>maikutlo</l1084>
+	<l1085>lebitso</l1085>
+	<l1086>theko</l1086>
+	<l1087>Kakaretso e felletseng</l1087>
+	<l1088>List theko</l1088>
+	<l1089>Sales Kgutlisa</l1089>
+	<l1090>Sales Item List</l1090>
+	<l1091>Kgutlisa Item List</l1091>
+	<l1092>theko Kgutlisa</l1092>
+	<l1093>Theko Item List</l1093>
+	<l1094>pokello</l1094>
+	<l1095>Kakaretso lebaka</l1095>
+	<l1096>Sales Date</l1096>
+	<l1097>rekiswa By</l1097>
+	<l1098>tefo</l1098>
+	<l1099>Date theko</l1099>
+	<l1100>tefo Date</l1100>
+	<l1101>reka No</l1101>
+	<l1102>Employee Information</l1102>
+	<l1103>E na le masimo latelang ho boloka direkoto tsa mohiruoa:</l1103>
+	<l1104>Lebitso mohiruoa</l1104>
+	<l1105>kgetho</l1105>
+	<l1106>ba teng</l1106>
+	<l1107>Manual ba teng foromo ya data ho kena</l1107>
+	<l1108>ba bileng teng Date</l1108>
+	<l1109>boemo ba</l1109>
+	<l1110>joale</l1110>
+	<l1111>siyo</l1111>
+	<l1112>lipolelo</l1112>
+	<l1113>Employee Tefo</l1113>
+	<l1114>E na le masimo latelang ho boloka direkoto tsa tefo mohiruoa:</l1114>
+	<l1115>Tlhaloso</l1115>
+	<l1116>lefile chelete</l1116>
+	<l1117>litšenyehelo</l1117>
+	<l1118>E na le masimo latelang ho boloka Litšenyehelo</l1118>
+	<l1119>Account ditshenyehelo</l1119>
+	<l1120>lefile Date</l1120>
+	<l1121>ntho</l1121>
+	<l1122>All lethathamo ntho</l1122>
+	<l1123>Search ke Group</l1123>
+	<l1124>Stock</l1124>
+	<l1125>Batla ka polokelo</l1125>
+	<l1126>Search ke Shelf</l1126>
+	<l1127>Sale</l1127>
+	<l1128>kajeno</l1128>
+	<l1129>Sebelisa litekanyetso ................</l1129>
+	<l1130>Search ke POS</l1130>
+	<l1131>Search ke QuickSale</l1131>
+	<l1132>Libaka tse Hloahloa tsa Product Sale</l1132>
+	<l1133>Batla ka Customer</l1133>
+	<l1134>Search ke Item</l1134>
+	<l1135>theko</l1135>
+	<l1136>Batla ka Date</l1136>
+	<l1137>Search ke thepa</l1137>
+	<l1138>Kgutlisa</l1138>
+	<l1139>thekiso kajeno Kgutlisa</l1139>
+	<l1140>theko kajeno Kgutlisa</l1140>
+	<l1141>Search thekiso Khutla ka letsatsi</l1141>
+	<l1142>Search theko Khutla ka letsatsi</l1142>
+	<l1143>Search thekiso Kgutlisa ke ntho</l1143>
+	<l1144>Search theko Kgutlisa ke ntho</l1144>
+	<l1145>mokitlane</l1145>
+	<l1146>pokello kajeno</l1146>
+	<l1147>tefello ea kajeno</l1147>
+	<l1148>Search pokello ka letsatsi</l1148>
+	<l1149>Search tefo ka letsatsi</l1149>
+	<l1150>Search ke thepa</l1150>
+	<l1151>Employee</l1151>
+	<l1152>List mohiruoa</l1152>
+	<l1153>Search neng ba le teng ka letsatsi</l1153>
+	<l1154>Search tefo ka letsatsi</l1154>
+	<l1155>Search mohiruoa tefo ka letsatsi</l1155>
+	<l1156>litšenyehelo</l1156>
+	<l1157>Search litšenyehelo ka letsatsi</l1157>
+	<l1158>Settings mosebedisi</l1158>
+	<l1159>Bopa basebelisi (le litokelo fapaneng)</l1159>
+	<l1160>Lebitso la mosebedisi le</l1160>
+	<l1161>Mabitso a felletseng</l1161>
+	<l1162>Password</l1162>
+	<l1163>Kenya phasewete hape</l1163>
+	<l1164>tokelo e</l1164>
+	<l1165>Litokelo mosebedisi</l1165>
+	<l1166>Eketsa</l1166>
+	<l1167>fetoloa</l1167>
+	<l1168>Tlosa</l1168>
+	<l1169>Print</l1169>
+	<l1170>Factory Data Reset</l1170>
+	<l1171>Sebelisa mojulung ona sena ka hloko haholo. Ha polokelongtshedimosetso ke gopotswa, moo ya data fetileng a ke ke a fola anyhow.</l1171>
+	<l1172>Group</l1172>
+	<l1173>E na le masimo latelang ho boloka ntho sehlopha.</l1173>
+	<l1174>Lebitso Group</l1174>
+	<l1175>Account ditshenyehelo</l1175>
+	<l1176>E na le masimo latelang ho boloka Account ditshenyehelo:</l1176>
+	<l1177>Lebitso la ak'haonte</l1177>
+	<l1178>Nkhopole</l1178>
+	<l1179>Fetola senotlolo</l1179>
+	<l1180>E na le masimo latelang ho boloka phetoho phasewete:</l1180>
+	<l1181>Senotlolo sa Hajoale</l1181>
+	<l1182>ID</l1182>
+	<l1183>theko</l1183>
+	<l1184>THEMINALE</l1184>
+	<l1185>Lefa ID</l1185>
+	<l1186>Date ngodiso</l1186>
+	<l1187>ID moreki</l1187>
+	<l1188>mofani wa thepa ID</l1188>
+	<l1189>Ha ho tumello.</l1189>
+	<l1190>Information e se e bolokoa ka katleho.</l1190>
+	<l1191>Information e se e ntjhafatswa ka katleho.</l1191>
+	<l1192>Information e se e hlakolwa ka katleho.</l1192>
+	<l1193>Ha ho ya data fumanwa</l1193>
+	<l1194>sehlahisoa sena e se e phaella ka ho re ho Stock.</l1194>
+	<l1195>NAKO</l1195>
+	<l1196>phaello e</l1196>
+	<l1197>MELAO 'me boemo ba</l1197>
+	<l1198>thepa eohle ea ka khutlela ho Phetolo e lokela ho ba boemong bo salable le paka pele.</l1198>
+	<l1199>Ha re ke eena ea ikarabellang bakeng sa leha e le efe ho lahleheloa ke ya transit tshenyo kapa dutla.</l1199>
+	<l1200>Aterese ea Sebaka seo ho Romelloang</l1200>
+	<l1201>Aterese ea Tefiso</l1201>
+	<l1202>Authorized Signature</l1202>
+	<l1203>maikutlo</l1203>
+	<l1204>Price Gross</l1204>
+	<l1205>Unit</l1205>
+	<l1206>Price Kakaretso</l1206>
+	<l1207>Unit VAT</l1207>
+	<l1208>Kakaretso ea VAT</l1208>
+	<l1209>lekhetho invoese ya</l1209>
+	<l1210>Thepa ea hang rekisitsoe KA SE tla khutlisetsoa OR EXCHANGE.</l1210>
+</language>

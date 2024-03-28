@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Mu duba your mafarki ta samar da mafi kyau bayani</comments>
+	<ctrlSave>ajiye</ctrlSave>
+	<ctrlClose>KUSANTAR</ctrlClose>
+	<ctrlAlter>musanyãwa</ctrlAlter>
+	<ctrlDelete>share</ctrlDelete>
+	<ctrlReset>Sake saitin</ctrlReset>
+	<ctrlRefresh>refresh</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>Preview</ctrlPreview>
+	<ctrlRemoveAll>cire duk</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>kammala</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>BUGA</ctrlPrint>
+	<ctrlShipping>Shipping da lissafin kuɗi</ctrlShipping>
+	<ctrlAdd>Add</ctrlAdd>
+	<ctrlSaveOnly>ajiye KAWAI</ctrlSaveOnly>
+	<ctrlDeleteAll>share duk</ctrlDeleteAll>
+	<ctrlCollect>tattara</ctrlCollect>
+	<ctrlRefund>kudinku</ctrlRefund>
+	<ctrlLogin>SHIGA</ctrlLogin>
+	<lnkChangePassword>CANZA KALMAR SHIGA</lnkChangePassword>
+	<btnSetUp>Saita</btnSetUp>
+	<btnItem>abu</btnItem>
+	<btnStock>stock</btnStock>
+	<btnSale>SALE</btnSale>
+	<btnPurchase>sayi</btnPurchase>
+	<btnReturn>MAYARWA</btnReturn>
+	<btnCredit>Credit</btnCredit>
+	<btnEmployee>ma'aikaci</btnEmployee>
+	<btnExpense>kudi</btnExpense>
+	<btnReport>rAHOTO</btnReport>
+	<btnAdmin>admin</btnAdmin>
+	<btnTools>Tools</btnTools>
+	<linkLogOut>fita daga</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>Abokin ciniki</tsmlCustomer>
+	<tsmlSupplier>maroki</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>sito</tsmlWareHouse>
+	<tsmlShelf>shiryayye</tsmlShelf>
+	<tsmlItemInformation>Item Information</tsmlItemInformation>
+	<tsmlListOfItem>Jerin Item</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>kare Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock Canja wurin</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point of sale</tsmlPOS>
+	<tsmlInvoiceList>daftari List</tsmlInvoiceList>
+	<tsmlPurchase>Purchase</tsmlPurchase>
+	<tsmlPurchaseList>Sayi List</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales koma</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Sayi koma</tsmlPurchaseReturn>
+	<tsmlCreditSale>Credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>Credit Purchase</tsmlCreditPurchase>
+	<tsmlEmployee>ma'aikaci</tsmlEmployee>
+	<tsmlAttendance>kasancewa</tsmlAttendance>
+	<tsmlEmployeeSalary>ma'aikaci albashin da ake</tsmlEmployeeSalary>
+	<tsmlItemReport>Items</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>Purchase</tsmlPurchaseReport>
+	<tsmlReturnReport>Komawa</tsmlReturnReport>
+	<tsmlCreditReport>Credit</tsmlCreditReport>
+	<tsmlEmployeeReport>ma'aikaci</tsmlEmployeeReport>
+	<tsmlExpenseReport>kudi</tsmlExpenseReport>
+	<tsmlLanguage>harshe</tsmlLanguage>
+	<tsmlResetDB>Sake saitin Database</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>Kana da ake bukata domin cika wadannan bayanai na Company:</l1001>
+	<l1002>Company Name</l1002>
+	<l1003>Legal Name</l1003>
+	<l1004>address</l1004>
+	<l1005>Phone</l1005>
+	<l1006>email</l1006>
+	<l1007>Yanar Gizo</l1007>
+	<l1008>slogan</l1008>
+	<l1009>Abokin ciniki Information</l1009>
+	<l1010>Don yiwuwa Customers: Don Allah cika wannan tsari a matsayin gaba daya kamar yadda zai yiwu.</l1010>
+	<l1011>Abokin ciniki Name</l1011>
+	<l1014>Opening Kwanan wata</l1014>
+	<l1015>balance</l1015>
+	<l1016>maroki Information</l1016>
+	<l1017>Don yiwuwa kaya: Don Allah cika wannan tsari a matsayin gaba daya kamar yadda zai yiwu</l1017>
+	<l1018>maroki Name</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Tax za a iya bayyana a matsayin kaso na kudi</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>sito</l1022>
+	<l1023>Yana dauke da wadannan filayen zuwa sito</l1023>
+	<l1024>sito Name</l1024>
+	<l1025>shiryayye</l1025>
+	<l1026>Yana dauke da wadannan filayen don kula da shiryayye:</l1026>
+	<l1027>shiryayye Name</l1027>
+	<l1028>Item Information</l1028>
+	<l1029>Kana da ake bukata domin cika wadannan bayanai na abu:</l1029>
+	<l1030>Item Name</l1030>
+	<l1031>Unit</l1031>
+	<l1032>Batch</l1032>
+	<l1033>Group Name</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>Auto janye Barcode</l1035>
+	<l1036>VAT M</l1036>
+	<l1037>Sayi Cost</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>sake tsarawa Point</l1039>
+	<l1040>Default sito</l1040>
+	<l1041>bude Stock</l1041>
+	<l1042>sito</l1042>
+	<l1043>shiryayye</l1043>
+	<l1044>Opening Unit</l1044>
+	<l1045>An ranar karewa</l1045>
+	<l1046>karewa kwanan wata</l1046>
+	<l1047>List of Item</l1047>
+	<l1048>Don canja ko share, danna sau biyu a kan abu bayanai.</l1048>
+	<l1049>Import Item daga Excel</l1049>
+	<l1050>.xlsx fayil iya shigo da shi a Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>Za ka iya buga barcodes bisa ga bukatun</l1052>
+	<l1053>Quantity</l1053>
+	<l1054>Sun hada da kamfanin sunan</l1054>
+	<l1055>stock</l1055>
+	<l1056>Don canzawa ko share, danna sau biyu a lambar hajji.</l1056>
+	<l1057>kare Kaya</l1057>
+	<l1058>stock Canja wurin</l1058>
+	<l1059>Don share, danna sau biyu a kan abu bayanai.</l1059>
+	<l1060>daga sito</l1060>
+	<l1061>don sito</l1061>
+	<l1062>dalilin</l1062>
+	<l1063>Transfer Kwanan wata</l1063>
+	<l1064>kare Kaya</l1064>
+	<l1065>kwanan wata</l1065>
+	<l1066>haraji daftari</l1066>
+	<l1067>daftari NO</l1067>
+	<l1068>babban</l1068>
+	<l1069>VAT</l1069>
+	<l1070>rangwame</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>tsabar kudi</l1073>
+	<l1074>CARD</l1074>
+	<l1075>BIYA</l1075>
+	<l1076>saboda</l1076>
+	<l1077>Abokin ciniki Nuni</l1077>
+	<l1078>Item Nuni</l1078>
+	<l1079>daftari List</l1079>
+	<l1080>daga</l1080>
+	<l1081>don</l1081>
+	<l1082>ADIRESHIN SUFURI</l1082>
+	<l1083>Lissafin Kuɗi ADDRESS</l1083>
+	<l1084>comments</l1084>
+	<l1085>sunan</l1085>
+	<l1086>Purchase</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>Sayi List</l1088>
+	<l1089>Sales koma</l1089>
+	<l1090>Sales Item List</l1090>
+	<l1091>Komawa Item List</l1091>
+	<l1092>Sayi koma</l1092>
+	<l1093>Sayi Item List</l1093>
+	<l1094>collection</l1094>
+	<l1095>total Saboda</l1095>
+	<l1096>Sales Kwanan wata</l1096>
+	<l1097>sayar By</l1097>
+	<l1098>biya</l1098>
+	<l1099>Sayi Kwanan wata</l1099>
+	<l1100>biya Kwanan wata</l1100>
+	<l1101>sayi Babu</l1101>
+	<l1102>ma'aikaci Information</l1102>
+	<l1103>Yana dauke da wadannan filayen don kula da ma'aikaci records:</l1103>
+	<l1104>ma'aikaci Name</l1104>
+	<l1105>nadi</l1105>
+	<l1106>kasancewa</l1106>
+	<l1107>Manual kasancewa data shigarwa form</l1107>
+	<l1108>kasancewa Kwanan wata</l1108>
+	<l1109>Status</l1109>
+	<l1110>yanzu</l1110>
+	<l1111>fakowa</l1111>
+	<l1112>jawabinsa</l1112>
+	<l1113>ma'aikaci biya</l1113>
+	<l1114>Yana dauke da wadannan filayen don kula da ma'aikaci biyan bashin records:</l1114>
+	<l1115>description</l1115>
+	<l1116>biya Adadi</l1116>
+	<l1117>kudi</l1117>
+	<l1118>Yana dauke da wadannan filayen don kula da kudi</l1118>
+	<l1119>kashe kudi Account</l1119>
+	<l1120>biya Kwanan wata</l1120>
+	<l1121>Item</l1121>
+	<l1122>All abu jerin</l1122>
+	<l1123>Search ta Group</l1123>
+	<l1124>stock</l1124>
+	<l1125>Search ta sito</l1125>
+	<l1126>Search ta shata</l1126>
+	<l1127>sale</l1127>
+	<l1128>yau</l1128>
+	<l1129>Amfani Sharudda ................</l1129>
+	<l1130>Search ta POS</l1130>
+	<l1131>Search ta QuickSale</l1131>
+	<l1132>Mafi Product Sale</l1132>
+	<l1133>Search ta Abokin ciniki</l1133>
+	<l1134>Search ta Item</l1134>
+	<l1135>Purchase</l1135>
+	<l1136>Search ta Kwanan wata</l1136>
+	<l1137>Search ta maroki</l1137>
+	<l1138>Komawa</l1138>
+	<l1139>Yau tallace-tallace koma</l1139>
+	<l1140>Yau saya koma</l1140>
+	<l1141>Search tallace-tallace koma ta kwanan wata</l1141>
+	<l1142>Search saya koma ta kwanan wata</l1142>
+	<l1143>Search tallace-tallace koma ta abu</l1143>
+	<l1144>Search saya koma ta abu</l1144>
+	<l1145>Credit</l1145>
+	<l1146>Yau tarin</l1146>
+	<l1147>Yau biyan bashin</l1147>
+	<l1148>Search tarin ta kwanan wata</l1148>
+	<l1149>Search biya ta kwanan wata</l1149>
+	<l1150>Search ta maroki</l1150>
+	<l1151>ma'aikaci</l1151>
+	<l1152>ma'aikaci List</l1152>
+	<l1153>Search kasancewa ta kwanan wata</l1153>
+	<l1154>Search biya ta kwanan wata</l1154>
+	<l1155>Search ma'aikaci biya ta kwanan wata</l1155>
+	<l1156>kudi</l1156>
+	<l1157>Search kudi ta kwanan wata</l1157>
+	<l1158>User Saituna</l1158>
+	<l1159>Ƙirƙiri masu amfani (da ciwon daban-daban gata)</l1159>
+	<l1160>User Name</l1160>
+	<l1161>Cikakken suna</l1161>
+	<l1162>Kalmar sirri</l1162>
+	<l1163>Sake saka kalmar shiga</l1163>
+	<l1164>gata</l1164>
+	<l1165>User Rights</l1165>
+	<l1166>Add</l1166>
+	<l1167>gyara</l1167>
+	<l1168>share</l1168>
+	<l1169>BUGA</l1169>
+	<l1170>Factory Data Sake saitin</l1170>
+	<l1171>Amfani da wannan a koyaushe da sosai a hankali. Idan database ne sake saiti, sa'an nan suka gabata data ba za a iya gano ko ta yaya.</l1171>
+	<l1172>Group</l1172>
+	<l1173>Yana dauke da wadannan filayen don kula da abu kungiyar.</l1173>
+	<l1174>Group Name</l1174>
+	<l1175>kashe kudi Account</l1175>
+	<l1176>Yana dauke da wadannan filayen don kula da kashe kudi Account:</l1176>
+	<l1177>account Name</l1177>
+	<l1178>Ka tuna Ni</l1178>
+	<l1179>Canza kalmar shiga</l1179>
+	<l1180>Yana dauke da wadannan filayen don kula da canza kalmar sirri:</l1180>
+	<l1181>kalmar shiga na halin yanzu</l1181>
+	<l1182>ID</l1182>
+	<l1183>price</l1183>
+	<l1184>Terminal</l1184>
+	<l1185>biya ID</l1185>
+	<l1186>rijistar Kwanan wata</l1186>
+	<l1187>Abokin ciniki ID</l1187>
+	<l1188>maroki ID</l1188>
+	<l1189>Babu izni.</l1189>
+	<l1190>Bayani An ajiye nasara.</l1190>
+	<l1191>Bayani da aka sabunta samu nasarar.</l1191>
+	<l1192>Bayani An share nasara.</l1192>
+	<l1193>Babu data samu</l1193>
+	<l1194>Wannan samfurin, an riga an kara zuwa Stock.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>riba</l1196>
+	<l1197>Sharuddan da yanayin</l1197>
+	<l1198>All dukiya koma ga canji dole ne a salable yanayin da asali shiryawa.</l1198>
+	<l1199>Mu ne ba ta da alhakin duk wani sufuri lalacewar asara ko yayyo.</l1199>
+	<l1200>Adireshin sufuri</l1200>
+	<l1201>Lissafin Kuɗi Address</l1201>
+	<l1202>izini Sa hannu</l1202>
+	<l1203>comments</l1203>
+	<l1204>babban farashin</l1204>
+	<l1205>Naúrar</l1205>
+	<l1206>TOTAL farashin</l1206>
+	<l1207>Naúrar VAT</l1207>
+	<l1208>TOTAL VAT</l1208>
+	<l1209>haraji daftari</l1209>
+	<l1210>Dukiya da zarar sayar ba za a iya koma OR Exchange.</l1210>
+</language>

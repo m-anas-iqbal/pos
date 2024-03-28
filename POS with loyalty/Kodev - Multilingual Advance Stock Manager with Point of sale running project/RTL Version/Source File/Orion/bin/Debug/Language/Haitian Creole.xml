@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Nou eksplore rèv ou lè yo bay pi bon solisyon</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>PWÒCH</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>efase</ctrlDelete>
+	<ctrlReset>Reyajiste</ctrlReset>
+	<ctrlRefresh>Refresh</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>Preview</ctrlPreview>
+	<ctrlRemoveAll>RETIRE TOUT</ctrlRemoveAll>
+	<ctrlSearch>RECHERCHE</ctrlSearch>
+	<ctrlComplete>NÈT SOU TOUT PWEN</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>EKRI AN LÈT DETACHE</ctrlPrint>
+	<ctrlShipping>D 'ak bòdwo</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>SAVE SÈLMAN</ctrlSaveOnly>
+	<ctrlDeleteAll>EFASE TOUT</ctrlDeleteAll>
+	<ctrlCollect>COLLECT</ctrlCollect>
+	<ctrlRefund>ranbousman</ctrlRefund>
+	<ctrlLogin>OUVRI SESYON AN</ctrlLogin>
+	<lnkChangePassword>CHANJMAN modpas</lnkChangePassword>
+	<btnSetUp>SETUP</btnSetUp>
+	<btnItem>ATIK</btnItem>
+	<btnStock>VALÈ</btnStock>
+	<btnSale>VANN</btnSale>
+	<btnPurchase>ACHA</btnPurchase>
+	<btnReturn>RETURN</btnReturn>
+	<btnCredit>KREDI</btnCredit>
+	<btnEmployee>ANPLWAYE</btnEmployee>
+	<btnExpense>DEPANS</btnExpense>
+	<btnReport>RAPÒ</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>ZOUTI</btnTools>
+	<linkLogOut>DEKONEKTE</linkLogOut>
+	<tsmlBusinessInformation>Enfòmasyon Biznis</tsmlBusinessInformation>
+	<tsmlCustomer>Kliyan</tsmlCustomer>
+	<tsmlSupplier>Supplier</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>depo</tsmlWareHouse>
+	<tsmlShelf>etajè</tsmlShelf>
+	<tsmlItemInformation>Enfòmasyon Item</tsmlItemInformation>
+	<tsmlListOfItem>Lis nan atik</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>kod</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>ekspire Item</tsmlExpiredItem>
+	<tsmlBadStock>Move Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock Transfè</tsmlStockTransfer>
+	<tsmlSales>Komèsyal</tsmlSales>
+	<tsmlPOS>Pwen de vant</tsmlPOS>
+	<tsmlInvoiceList>facture Lis</tsmlInvoiceList>
+	<tsmlPurchase>achte</tsmlPurchase>
+	<tsmlPurchaseList>achte Lis</tsmlPurchaseList>
+	<tsmlSalesReturn>Komèsyal retounen</tsmlSalesReturn>
+	<tsmlPurchaseReturn>achte retounen</tsmlPurchaseReturn>
+	<tsmlCreditSale>vann Kredi</tsmlCreditSale>
+	<tsmlCreditPurchase>Kredi Achte</tsmlCreditPurchase>
+	<tsmlEmployee>Anplwaye</tsmlEmployee>
+	<tsmlAttendance>prezans</tsmlAttendance>
+	<tsmlEmployeeSalary>Anplwaye Salè</tsmlEmployeeSalary>
+	<tsmlItemReport>atik</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>Komèsyal</tsmlSalesReport>
+	<tsmlPurchaseReport>achte</tsmlPurchaseReport>
+	<tsmlReturnReport>retounen</tsmlReturnReport>
+	<tsmlCreditReport>Kredi</tsmlCreditReport>
+	<tsmlEmployeeReport>Anplwaye</tsmlEmployeeReport>
+	<tsmlExpenseReport>depans</tsmlExpenseReport>
+	<tsmlLanguage>Lang</tsmlLanguage>
+	<tsmlResetDB>Reyajiste baz done</tsmlResetDB>
+	<l1000>Enfòmasyon Biznis</l1000>
+	<l1001>Ou oblije ranpli detay sa yo nan Konpayi an:</l1001>
+	<l1002>Non biznis lan</l1002>
+	<l1003>Non legal</l1003>
+	<l1004>adrès</l1004>
+	<l1005>Telefòn</l1005>
+	<l1006>Imèl</l1006>
+	<l1007>Sit wèb</l1007>
+	<l1008>eslogan</l1008>
+	<l1009>Enfòmasyon sou Kliyan</l1009>
+	<l1010>Pou Kliyan Prospective: Tanpri ranpli fòm sa a kòm konplètman ke posib.</l1010>
+	<l1011>Non Kliyan</l1011>
+	<l1014>ouvèti Dat</l1014>
+	<l1015>Balans</l1015>
+	<l1016>Enfòmasyon Supplier</l1016>
+	<l1017>Nan Swèd Prospective: Tanpri ranpli fòm sa a kòm konplètman ke posib</l1017>
+	<l1018>Supplier Non</l1018>
+	<l1019>VAT</l1019>
+	<l1020>ka taks dwe defini kòm pousantaj la nan lajan</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>depo</l1022>
+	<l1023>Li genyen ladan li jaden ki annapre yo nan depo</l1023>
+	<l1024>Non depo</l1024>
+	<l1025>etajè</l1025>
+	<l1026>Li genyen ladan li jaden ki annapre yo yo kenbe etajè:</l1026>
+	<l1027>etajè Non</l1027>
+	<l1028>Enfòmasyon Item</l1028>
+	<l1029>Ou oblije ranpli detay sa yo nan atik la:</l1029>
+	<l1030>Item Name</l1030>
+	<l1031>inite</l1031>
+	<l1032>pakèt</l1032>
+	<l1033>Non Gwoup</l1033>
+	<l1034>kod</l1034>
+	<l1035>Auto jenere kod</l1035>
+	<l1036>VAT aplikab</l1036>
+	<l1037>achte Pri</l1037>
+	<l1038>Komèsyal pri</l1038>
+	<l1039>Reorganized Point</l1039>
+	<l1040>default Depo</l1040>
+	<l1041>ouvèti Stock</l1041>
+	<l1042>depo</l1042>
+	<l1043>etajè</l1043>
+	<l1044>Inite ouvèti</l1044>
+	<l1045>Yon dat ekspirasyon</l1045>
+	<l1046>ekspirasyon dat</l1046>
+	<l1047>Lis atik</l1047>
+	<l1048>Chanje oswa efase, doub-klike sou enfòmasyon ki atik.</l1048>
+	<l1049>Import Item soti nan Excel</l1049>
+	<l1050>Kslso dosye ka enpòte li nan Orion.</l1050>
+	<l1051>kod</l1051>
+	<l1052>Ou kapab enprime barcodes selon sa ou bezwen</l1052>
+	<l1053>kantite</l1053>
+	<l1054>Mete non konpayi</l1054>
+	<l1055>stock</l1055>
+	<l1056>Pou chanje oswa efase, double-klike sou nimewo a fakti.</l1056>
+	<l1057>ekspire Envantè</l1057>
+	<l1058>stock Transfè</l1058>
+	<l1059>Efase, doub-klike sou enfòmasyon ki atik.</l1059>
+	<l1060>Soti nan Depo</l1060>
+	<l1061>nan depo</l1061>
+	<l1062>rezon ki fè</l1062>
+	<l1063>Transfè Dat</l1063>
+	<l1064>ekspire Envantè</l1064>
+	<l1065>Dat</l1065>
+	<l1066>TAKS fakti</l1066>
+	<l1067>fakti NON</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>VAT</l1069>
+	<l1070>rabè</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>LAJAN KACH</l1073>
+	<l1074>KAT</l1074>
+	<l1075>PEYE</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Ekspozisyon Kliyan</l1077>
+	<l1078>Item Display</l1078>
+	<l1079>facture Lis</l1079>
+	<l1080>Soti nan</l1080>
+	<l1081>To</l1081>
+	<l1082>ADRES LIVREZON</l1082>
+	<l1083>Adrès Faktirasyon</l1083>
+	<l1084>KÒMANTÈ</l1084>
+	<l1085>non</l1085>
+	<l1086>achte</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>achte Lis</l1088>
+	<l1089>Komèsyal retounen</l1089>
+	<l1090>Komèsyal Item Lis</l1090>
+	<l1091>Retounen Item Lis</l1091>
+	<l1092>achte retounen</l1092>
+	<l1093>Achte atik Lis</l1093>
+	<l1094>koleksyon</l1094>
+	<l1095>Total Akòz</l1095>
+	<l1096>Komèsyal Dat</l1096>
+	<l1097>vann pa</l1097>
+	<l1098>Peman</l1098>
+	<l1099>achte Dat</l1099>
+	<l1100>Peman Dat</l1100>
+	<l1101>Achte Se pa</l1101>
+	<l1102>Enfòmasyon Anplwaye</l1102>
+	<l1103>Li genyen ladan li jaden ki annapre yo yo kenbe dosye anplwaye:</l1103>
+	<l1104>Non Anplwaye</l1104>
+	<l1105>Deziyasyon</l1105>
+	<l1106>prezans</l1106>
+	<l1107>Manyèl prezans fòm antre done</l1107>
+	<l1108>prezans Dat</l1108>
+	<l1109>Ki dènye nouvèl</l1109>
+	<l1110>prezante</l1110>
+	<l1111>absan</l1111>
+	<l1112>remak</l1112>
+	<l1113>Anplwaye Peman</l1113>
+	<l1114>Li genyen ladan li jaden ki annapre yo yo kenbe dosye peman anplwaye:</l1114>
+	<l1115>Deskripsyon</l1115>
+	<l1116>Peye Kantite lajan</l1116>
+	<l1117>depans</l1117>
+	<l1118>Li genyen ladan li jaden ki annapre yo yo kenbe Depans</l1118>
+	<l1119>depans Kont</l1119>
+	<l1120>Peye Dat</l1120>
+	<l1121>Item</l1121>
+	<l1122>Tout lis atik</l1122>
+	<l1123>Search by Group</l1123>
+	<l1124>stock</l1124>
+	<l1125>Search by Depo</l1125>
+	<l1126>Search by etajè</l1126>
+	<l1127>vann</l1127>
+	<l1128>jodi a</l1128>
+	<l1129>Sèvi ak Kritè ................</l1129>
+	<l1130>Search by POS</l1130>
+	<l1131>Search by QuickSale</l1131>
+	<l1132>Pi bon vann pwodwi</l1132>
+	<l1133>Search by Kliyan</l1133>
+	<l1134>Search by Item</l1134>
+	<l1135>achte</l1135>
+	<l1136>Search by Dat</l1136>
+	<l1137>Search by Supplier</l1137>
+	<l1138>retounen</l1138>
+	<l1139>lavant Retounen jodi a</l1139>
+	<l1140>achte Retounen jodi a</l1140>
+	<l1141>Search lavant Retounen dapre dat</l1141>
+	<l1142>Search achte Retounen dapre dat</l1142>
+	<l1143>Search lavant Retounen pa atik</l1143>
+	<l1144>Search achte Retounen pa atik</l1144>
+	<l1145>Kredi</l1145>
+	<l1146>koleksyon jodi a</l1146>
+	<l1147>peman jodi a</l1147>
+	<l1148>Search koleksyon dapre dat</l1148>
+	<l1149>Search peman dapre dat</l1149>
+	<l1150>Search by Supplier</l1150>
+	<l1151>Anplwaye</l1151>
+	<l1152>Lis Anplwaye</l1152>
+	<l1153>Search prezans dapre dat</l1153>
+	<l1154>Search peman dapre dat</l1154>
+	<l1155>peman Search anplwaye dapre dat</l1155>
+	<l1156>depans</l1156>
+	<l1157>Search depans dapre dat</l1157>
+	<l1158>itilizatè Anviwònman</l1158>
+	<l1159>Kreye itilizatè (ki gen privilèj diferan)</l1159>
+	<l1160>Non itilizatè</l1160>
+	<l1161>Non konplè</l1161>
+	<l1162>modpas</l1162>
+	<l1163>Re-antre nan modpas</l1163>
+	<l1164>privilèj</l1164>
+	<l1165>itilizatè Dwa</l1165>
+	<l1166>ADD</l1166>
+	<l1167>MOTIFYE</l1167>
+	<l1168>efase</l1168>
+	<l1169>EKRI AN LÈT DETACHE</l1169>
+	<l1170>Faktori Done Reyajiste</l1170>
+	<l1171>Sèvi ak modil sa a ak anpil atansyon. Si baz done a se reset, lè sa a done anvan pa ka refè kanmèm.</l1171>
+	<l1172>Gwoup</l1172>
+	<l1173>Li genyen ladan li jaden ki annapre yo yo kenbe atik gwoup.</l1173>
+	<l1174>Non Gwoup</l1174>
+	<l1175>depans Kont</l1175>
+	<l1176>Li genyen ladan li jaden ki annapre yo yo kenbe Kont Depans:</l1176>
+	<l1177>Non Kont</l1177>
+	<l1178>Sonje mwen</l1178>
+	<l1179>Chanje Modpas</l1179>
+	<l1180>Li genyen ladan li jaden ki annapre yo yo kenbe chanjman modpas:</l1180>
+	<l1181>Kouran Modpas</l1181>
+	<l1182>ID</l1182>
+	<l1183>pri</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PEYE ID</l1185>
+	<l1186>Enskripsyon Dat</l1186>
+	<l1187>ID Kliyan</l1187>
+	<l1188>Supplier ID</l1188>
+	<l1189>Pa gen pèmisyon pou sa.</l1189>
+	<l1190>Enfòmasyon ki te sove avèk siksè.</l1190>
+	<l1191>te Enfòmasyon te mete ajou avèk siksè.</l1191>
+	<l1192>te Enfòmasyon efase avèk siksè.</l1192>
+	<l1193>Pa gen done te jwenn</l1193>
+	<l1194>te pwodwi sa a deja te ajoute nan Stock a.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>PROFIT</l1196>
+	<l1197>TÈM ak kondisyon</l1197>
+	<l1198>Tout byen tounen pou ranplasman dwe nan yon kondisyon ki komèrsyalizabl ak procesna orijinal la.</l1198>
+	<l1199>Nou pa responsab pou okenn pèt domaj transpò piblik oswa flit.</l1199>
+	<l1200>adres livrezon</l1200>
+	<l1201>Faktirasyon adrès</l1201>
+	<l1202>otorize Siyati</l1202>
+	<l1203>kòmantè</l1203>
+	<l1204>GROSS PRICE</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>TOTAL PRICE</l1206>
+	<l1207>UNIT VAT</l1207>
+	<l1208>TOTAL VAT</l1208>
+	<l1209>TAKS fakti</l1209>
+	<l1210>MARCHANDISES ONCE VANN KA PA kapab retounen oubyen echanj.</l1210>
+</language>

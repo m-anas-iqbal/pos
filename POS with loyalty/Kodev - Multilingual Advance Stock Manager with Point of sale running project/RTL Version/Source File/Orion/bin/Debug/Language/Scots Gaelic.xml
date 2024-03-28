@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Tha sinn a 'rannsachadh agad aisling le bhith a' fuasgladh as fheàrr</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>DÙIN</ctrlClose>
+	<ctrlAlter>atharrachadh</ctrlAlter>
+	<ctrlDelete>Aithrisean-</ctrlDelete>
+	<ctrlReset>ATH-SHUIDHICH</ctrlReset>
+	<ctrlRefresh>Ath-nuadhaich</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>Preview</ctrlPreview>
+	<ctrlRemoveAll>falbh gach</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>DEISEIL</ctrlComplete>
+	<ctrlNew>ÙR</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>Luingeis is Bileachaidh</ctrlShipping>
+	<ctrlAdd>RIS</ctrlAdd>
+	<ctrlSaveOnly>SAVE-MHÀIN</ctrlSaveOnly>
+	<ctrlDeleteAll>Aithrisean-UILE</ctrlDeleteAll>
+	<ctrlCollect>a 'cruinneachadh</ctrlCollect>
+	<ctrlRefund>ath-dhìoladh</ctrlRefund>
+	<ctrlLogin>LOG A-STEACH</ctrlLogin>
+	<lnkChangePassword>ATHARRACHADH facal-faire</lnkChangePassword>
+	<btnSetUp>CUIR AIR CHOIS</btnSetUp>
+	<btnItem>NÌ</btnItem>
+	<btnStock>AIRE</btnStock>
+	<btnSale>IESLA</btnSale>
+	<btnPurchase>a cheannach</btnPurchase>
+	<btnReturn>AIS</btnReturn>
+	<btnCredit>creideis</btnCredit>
+	<btnEmployee>neach-obrach</btnEmployee>
+	<btnExpense>Chosgais</btnExpense>
+	<btnReport>AITHISG</btnReport>
+	<btnAdmin>rianachd</btnAdmin>
+	<btnTools>TOOLS</btnTools>
+	<linkLogOut>LOG A-MACH</linkLogOut>
+	<tsmlBusinessInformation>Fiosrachadh Gnothachais</tsmlBusinessInformation>
+	<tsmlCustomer>Luchd-cleachdaidh</tsmlCustomer>
+	<tsmlSupplier>solaraiche</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>Bathar-thaigh</tsmlWareHouse>
+	<tsmlShelf>sgeilp</tsmlShelf>
+	<tsmlItemInformation>Notaichean Fiosrachaidh</tsmlItemInformation>
+	<tsmlListOfItem>Liosta de Notaichean a '</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>còd-loidhne</tsmlBarcode>
+	<tsmlStock>Stock</tsmlStock>
+	<tsmlExpiredItem>Dh'fhalbh an ùine Notaichean</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>gluasad thairis</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Rubha reic</tsmlPOS>
+	<tsmlInvoiceList>Litir List</tsmlInvoiceList>
+	<tsmlPurchase>ceannach</tsmlPurchase>
+	<tsmlPurchaseList>ceannach Clàr</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>ceannach Return</tsmlPurchaseReturn>
+	<tsmlCreditSale>Creideas Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>Creideas Ceannach</tsmlCreditPurchase>
+	<tsmlEmployee>Luchd-obrach</tsmlEmployee>
+	<tsmlAttendance>Frithealadh</tsmlAttendance>
+	<tsmlEmployeeSalary>Luchd-obrach Tuarastal</tsmlEmployeeSalary>
+	<tsmlItemReport>Items</tsmlItemReport>
+	<tsmlStockReport>Stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>ceannach</tsmlPurchaseReport>
+	<tsmlReturnReport>Return</tsmlReturnReport>
+	<tsmlCreditReport>Creideas</tsmlCreditReport>
+	<tsmlEmployeeReport>Luchd-obrach</tsmlEmployeeReport>
+	<tsmlExpenseReport>cosgaisean</tsmlExpenseReport>
+	<tsmlLanguage>Cànain</tsmlLanguage>
+	<tsmlResetDB>ath-shuidheachadh Stòr-dàta</tsmlResetDB>
+	<l1000>Fiosrachadh Gnothachais</l1000>
+	<l1001>Tha thu a dhìth gus a lìonadh am fiosrachadh a leanas a 'Chompanaidh:</l1001>
+	<l1002>Ainm a 'Chompanaidh</l1002>
+	<l1003>laghail Ainm</l1003>
+	<l1004>Seòladh</l1004>
+	<l1005>Phone</l1005>
+	<l1006>Cuir post-dealain</l1006>
+	<l1007>Làrach-lìn</l1007>
+	<l1008>sluagh-ghairm</l1008>
+	<l1009>Fiosrachadh Luchd-cleachdaidh</l1009>
+	<l1010>Do dhaoine Customers: Lìonaibh am foirm seo a-mach mar gu tur 'sa ghabhas.</l1010>
+	<l1011>Luchd-cleachdaidh Ainm</l1011>
+	<l1014>Fosgladh Ceann-là</l1014>
+	<l1015>Balance</l1015>
+	<l1016>solaraiche Fiosrachadh</l1016>
+	<l1017>Do dhaoine a 'BhBC: Lìonaibh am foirm seo a-mach mar gu tur sa ghabhas</l1017>
+	<l1018>solaraiche Ainm</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Cìs dh'fhaodar a mhìneachadh mar an àireamh sa cheud de dh'airgead</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Bathar-thaigh</l1022>
+	<l1023>Tha na leanas a '-achaidhean a' bhathar-thaigh</l1023>
+	<l1024>Warehouse Ainm</l1024>
+	<l1025>sgeilp</l1025>
+	<l1026>Tha na leanas achaidhean a chumail sgeilp:</l1026>
+	<l1027>sgeilp Ainm</l1027>
+	<l1028>Notaichean Fiosrachaidh</l1028>
+	<l1029>Tha thu a dhìth gus a lìonadh am fiosrachadh a leanas a 'phìos:</l1029>
+	<l1030>Item Name</l1030>
+	<l1031>Aonad</l1031>
+	<l1032>baidse</l1032>
+	<l1033>Buidheann Ainm</l1033>
+	<l1034>còd-loidhne</l1034>
+	<l1035>Auto ghineadh an còd-loidhne</l1035>
+	<l1036>VAT Co-</l1036>
+	<l1037>ceannach Cosgais</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>Reorder Rubha</l1039>
+	<l1040>Default Warehouse</l1040>
+	<l1041>Uairean Stock</l1041>
+	<l1042>Bathar-thaigh</l1042>
+	<l1043>sgeilp</l1043>
+	<l1044>Fosgladh Aonad</l1044>
+	<l1045>An ceann-latha crìoch</l1045>
+	<l1046>Ceann-là Crìche</l1046>
+	<l1047>Liosta de Notaichean a '</l1047>
+	<l1048>Airson atharrachadh no a sguabadh às, briog air a 'phìos fiosrachaidh.</l1048>
+	<l1049>Import Item bho Excel</l1049>
+	<l1050>.xlsx faidhl urrainn ion ann an Orion.</l1050>
+	<l1051>còd-loidhne</l1051>
+	<l1052>Faodaidh tu a chlò-bhualadh Barcodes a rèir ur feumalachdan</l1052>
+	<l1053>Uimhir</l1053>
+	<l1054>Gabhail a-steach ainm na companaidh</l1054>
+	<l1055>Stock</l1055>
+	<l1056>Gus atharrachadh no sguabadh às, briog air dùbailte air àireamh an fhàirdeil.</l1056>
+	<l1057>Dh'fhalbh an ùine Chunntas</l1057>
+	<l1058>gluasad thairis</l1058>
+	<l1059>A sguabadh às, briog air a 'phìos fiosrachaidh.</l1059>
+	<l1060>bho Warehouse</l1060>
+	<l1061>Airson Bathar-thaigh</l1061>
+	<l1062>adhbhar</l1062>
+	<l1063>gluasad Ceann-là</l1063>
+	<l1064>Dh'fhalbh an ùine Chunntas</l1064>
+	<l1065>Ceann-là</l1065>
+	<l1066>cìs fàirdeal</l1066>
+	<l1067>fàirdeal CHAN EIL</l1067>
+	<l1068>LÀN</l1068>
+	<l1069>VAT</l1069>
+	<l1070>lasachadh</l1070>
+	<l1071>IOMLAN</l1071>
+	<l1072>BY</l1072>
+	<l1073>AIRGID</l1073>
+	<l1074>Card</l1074>
+	<l1075>PÀIGHEADH</l1075>
+	<l1076>sgàth</l1076>
+	<l1077>Taisbeanadh Luchd-cleachdaidh</l1077>
+	<l1078>Notaichean taisbeanaidh</l1078>
+	<l1079>Litir List</l1079>
+	<l1080>bho</l1080>
+	<l1081>Airson</l1081>
+	<l1082>shipping SEÒLADH</l1082>
+	<l1083>SEÒLADH AIRSON CUNNTAS</l1083>
+	<l1084>BEACHDAN</l1084>
+	<l1085>Ainm</l1085>
+	<l1086>ceannach</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>ceannach Clàr</l1088>
+	<l1089>Sales Return</l1089>
+	<l1090>Sales Notaichean a 'List</l1090>
+	<l1091>Return Notaichean a 'List</l1091>
+	<l1092>ceannach Return</l1092>
+	<l1093>Ceannach Notaichean a 'List</l1093>
+	<l1094>Cruinneachadh</l1094>
+	<l1095>Total sgàth</l1095>
+	<l1096>Sales Ceann-là</l1096>
+	<l1097>a reic le</l1097>
+	<l1098>Pàigheadh</l1098>
+	<l1099>ceannach Ceann-là</l1099>
+	<l1100>Pàigheadh ​​Ceann-là</l1100>
+	<l1101>No a cheannach</l1101>
+	<l1102>Fiosrachadh Luchd-obrach</l1102>
+	<l1103>Tha na leanas achaidhean neach-obrach a 'cumail suas chlàran:</l1103>
+	<l1104>Luchd-obrach Ainm</l1104>
+	<l1105>Ainmeachadh</l1105>
+	<l1106>Frithealadh</l1106>
+	<l1107>Stiùireadh dàta làthaireachd a 'bhileig</l1107>
+	<l1108>Frithealadh Ceann-là</l1108>
+	<l1109>Inbhe</l1109>
+	<l1110>Present</l1110>
+	<l1111>Às-làthair</l1111>
+	<l1112>beachdan</l1112>
+	<l1113>Pàigheadh ​​Luchd-obrach</l1113>
+	<l1114>Tha na leanas achaidhean a chumail neach-obrach pàigheadh ​​clàran:</l1114>
+	<l1115>Tuairisgeul</l1115>
+	<l1116>Suim air a phàigheadh</l1116>
+	<l1117>Chosgais</l1117>
+	<l1118>Tha na leanas achaidhean a chumail Chosgais</l1118>
+	<l1119>Cunntas Cosgais</l1119>
+	<l1120>Ceann-là a phàigheadh</l1120>
+	<l1121>Notaichean</l1121>
+	<l1122>Earrann a h-uile liosta</l1122>
+	<l1123>Rannsaich le Buidheann</l1123>
+	<l1124>Stock</l1124>
+	<l1125>Lorg Warehouse</l1125>
+	<l1126>Lorg Sgeilp</l1126>
+	<l1127>Sale</l1127>
+	<l1128>an-diugh</l1128>
+	<l1129>Slatan-tomhais a 'chleachdaidh ................</l1129>
+	<l1130>Lorg pòs</l1130>
+	<l1131>Lorg QuickSale</l1131>
+	<l1132>Best Bathar Sale</l1132>
+	<l1133>Lorg Luchd-cleachdaidh</l1133>
+	<l1134>Lorg Notaichean</l1134>
+	<l1135>ceannach</l1135>
+	<l1136>Rannsaich le Ceann-là</l1136>
+	<l1137>Lorg Dimàirt</l1137>
+	<l1138>Return</l1138>
+	<l1139>An-diugh reic Return</l1139>
+	<l1140>-Diugh a cheannach Return</l1140>
+	<l1141>Rannsachadh reic ais le ceann-latha</l1141>
+	<l1142>Rannsachadh ceannach ais le ceann-latha</l1142>
+	<l1143>Rannsachadh reic ais le 'phìos</l1143>
+	<l1144>Rannsachadh ceannach ais le 'phìos</l1144>
+	<l1145>Creideas</l1145>
+	<l1146>An-diugh chruinneachadh</l1146>
+	<l1147>An-diugh a phàigheadh</l1147>
+	<l1148>Rannsachadh chruinneachadh le ceann-latha</l1148>
+	<l1149>Rannsachadh pàigheadh ​​le ceann-latha</l1149>
+	<l1150>Lorg Dimàirt</l1150>
+	<l1151>Luchd-obrach</l1151>
+	<l1152>Luchd-obrach List</l1152>
+	<l1153>Rannsachadh frithealadh le ceann-latha</l1153>
+	<l1154>Rannsachadh pàigheadh ​​le ceann-latha</l1154>
+	<l1155>Lorg neach-obrach a phàigheadh ​​le ceann-latha</l1155>
+	<l1156>Chosgais</l1156>
+	<l1157>Lorg cosgais le ceann-latha</l1157>
+	<l1158>Cleachdaiche Roghainnean</l1158>
+	<l1159>Cruthaich luchd-cleachdaidh (a bhith eadar-dhealaichte sochairean)</l1159>
+	<l1160>ainm neach-cleachdaidh</l1160>
+	<l1161>Làn ainm</l1161>
+	<l1162>Facal-faire</l1162>
+	<l1163>Re-a-steach facal-faire</l1163>
+	<l1164>sOCHAIR</l1164>
+	<l1165>Cleachdaiche Còraichean</l1165>
+	<l1166>RIS</l1166>
+	<l1167>atharrachadh</l1167>
+	<l1168>Aithrisean-</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Factaraidh Dàta ath-shuidheachadh</l1170>
+	<l1171>Cleachd am modal seo le glè gu faiceallach. Ma tha ath-shuidheachadh an stòr-dàta, an sin roimhe dàta nach urrainn a shàbhaladh anyhow.</l1171>
+	<l1172>Buidheann</l1172>
+	<l1173>Tha na leanas achaidhean a chumail Notaichean a 'bhuidheann.</l1173>
+	<l1174>Buidheann Ainm</l1174>
+	<l1175>Cunntas Cosgais</l1175>
+	<l1176>Tha na leanas achaidhean a chumail Cunntas Cosgais:</l1176>
+	<l1177>Ainm A 'chunntais</l1177>
+	<l1178>Cuimhnich orm</l1178>
+	<l1179>Atharrachadh Password</l1179>
+	<l1180>Tha na leanas achaidhean a chumail atharrachadh facal-faire:</l1180>
+	<l1181>Facal-faire gnàthaichte</l1181>
+	<l1182>Thùsail</l1182>
+	<l1183>Price</l1183>
+	<l1184>Terminal</l1184>
+	<l1185>TUARASTAL a 'Chlàir</l1185>
+	<l1186>Clàradh Ceann-là</l1186>
+	<l1187>Luchd-cleachdaidh a 'Chlàir</l1187>
+	<l1188>solaraiche a 'Chlàir</l1188>
+	<l1189>Chan eil cead.</l1189>
+	<l1190>Fiosrachadh air a bhith soirbheachail a shàbhaladh.</l1190>
+	<l1191>Fiosrachadh air a bhith air ùrachadh soirbheachail.</l1191>
+	<l1192>Fiosrachadh air a bhith soirbheachail a sguabadh às.</l1192>
+	<l1193>Chan eil an dàta a lorg</l1193>
+	<l1194>Tha an stuth seo mar-thà air a bhith a 'cur ris an stoc.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>prothaid</l1196>
+	<l1197>CÙMHNANTAN AGUS staid</l1197>
+	<l1198>A h-uile bathar a thill an-àite a bhith ann salable staid tùsail leis pasgadh.</l1198>
+	<l1199>Tha sinn Chan eil uallach sam bith airson siubhal call no milleadh aoidionachd.</l1199>
+	<l1200>Shipping Seòladh</l1200>
+	<l1201>Seòladh airson cunntas</l1201>
+	<l1202>ùghdarraichte Ceann-</l1202>
+	<l1203>beachdan</l1203>
+	<l1204>LÀN Prìs</l1204>
+	<l1205>AONAD</l1205>
+	<l1206>'phrìs gu lèir</l1206>
+	<l1207>AONAD VAT</l1207>
+	<l1208>IOMLAN VAT</l1208>
+	<l1209>cìs fàirdeal</l1209>
+	<l1210>BATHAR Aon uair, reic CHAN FHAOD a thilleadh no iomlaideachadh.</l1210>
+</language>

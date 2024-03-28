@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Thina uphonononga iphupha lakho ngokubanika kungcono</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>ABAKHULU</ctrlClose>
+	<ctrlAlter>Alter</ctrlAlter>
+	<ctrlDelete>SUSA</ctrlDelete>
+	<ctrlReset>kab</ctrlReset>
+	<ctrlRefresh>HLAZIYA</ctrlRefresh>
+	<ctrlBrowsePhoto>Khangela Ifoto</ctrlBrowsePhoto>
+	<ctrlPreview>KUQALA</ctrlPreview>
+	<ctrlRemoveAll>Susa zonke</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>YEPHELELEYO</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>NOKUSHICELELA</ctrlPrint>
+	<ctrlShipping>SHIPPING icwadi</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>SAVE KUPHELA</ctrlSaveOnly>
+	<ctrlDeleteAll>Susa yonke</ctrlDeleteAll>
+	<ctrlCollect>QOKELELA</ctrlCollect>
+	<ctrlRefund>IMALI</ctrlRefund>
+	<ctrlLogin>NGEMA</ctrlLogin>
+	<lnkChangePassword>TSHINTSHA IPHASIWEDI</lnkChangePassword>
+	<btnSetUp>MISELA</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>NESTOKHWE</btnStock>
+	<btnSale>ZOKUTHENGISWA</btnSale>
+	<btnPurchase>PURCHASE</btnPurchase>
+	<btnReturn>UKUBUYISWA</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>ABASEBENZI</btnEmployee>
+	<btnExpense>Zohambo</btnExpense>
+	<btnReport>INGXELO</btnReport>
+	<btnAdmin>UKUPHATHWA</btnAdmin>
+	<btnTools>IZIXHOBO</btnTools>
+	<linkLogOut>PHUMA</linkLogOut>
+	<tsmlBusinessInformation>Inkcazelo Business</tsmlBusinessInformation>
+	<tsmlCustomer>Customer</tsmlCustomer>
+	<tsmlSupplier>Supplier</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>Warehouse</tsmlWareHouse>
+	<tsmlShelf>Ubude bethuba</tsmlShelf>
+	<tsmlItemInformation>Ulwazi into</tsmlItemInformation>
+	<tsmlListOfItem>Uluhlu lento</tsmlListOfItem>
+	<tsmlImport>Ngenisa</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>Stock</tsmlStock>
+	<tsmlExpiredItem>Into okuphelelweyo</tsmlExpiredItem>
+	<tsmlBadStock>Stock Bad</tsmlBadStock>
+	<tsmlStockTransfer>Stock Transfer</tsmlStockTransfer>
+	<tsmlSales>sales</tsmlSales>
+	<tsmlPOS>Kwindawo yentengiso</tsmlPOS>
+	<tsmlInvoiceList>List invoyisi</tsmlInvoiceList>
+	<tsmlPurchase>ukuthengwa</tsmlPurchase>
+	<tsmlPurchaseList>uluhlu lokuthenga</tsmlPurchaseList>
+	<tsmlSalesReturn>sales Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>ukuthengwa Buyisela</tsmlPurchaseReturn>
+	<tsmlCreditSale>credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>credit Thenga</tsmlCreditPurchase>
+	<tsmlEmployee>Employee</tsmlEmployee>
+	<tsmlAttendance>Ukuya</tsmlAttendance>
+	<tsmlEmployeeSalary>Salary Employee</tsmlEmployeeSalary>
+	<tsmlItemReport>izinto</tsmlItemReport>
+	<tsmlStockReport>Stock</tsmlStockReport>
+	<tsmlSalesReport>sales</tsmlSalesReport>
+	<tsmlPurchaseReport>ukuthengwa</tsmlPurchaseReport>
+	<tsmlReturnReport>Buyela</tsmlReturnReport>
+	<tsmlCreditReport>credit</tsmlCreditReport>
+	<tsmlEmployeeReport>Employee</tsmlEmployeeReport>
+	<tsmlExpenseReport>iindleko</tsmlExpenseReport>
+	<tsmlLanguage>ulwimi</tsmlLanguage>
+	<tsmlResetDB>Hlela sedata</tsmlResetDB>
+	<l1000>Inkcazelo Business</l1000>
+	<l1001>Kufunwa ukuba bazalise iinkcukacha zilandelayo Inkampani:</l1001>
+	<l1002>Igama leKhampani</l1002>
+	<l1003>Igama Legal</l1003>
+	<l1004>idilesi</l1004>
+	<l1005>phone</l1005>
+	<l1006>email</l1006>
+	<l1007>website</l1007>
+	<l1008>sesikwenzile</l1008>
+	<l1009>Ulwazi Customer</l1009>
+	<l1010>Kubaxumi nezinomdla: Nceda ugcwalise le fomu kangangoko ngokupheleleyo kangangoko kunokwenzeka.</l1010>
+	<l1011>Customer Igama</l1011>
+	<l1014>Ivula Umhla</l1014>
+	<l1015>ibhalansi</l1015>
+	<l1016>Ulwazi umthengisi</l1016>
+	<l1017>To Suppliers nezinomdla: Nceda ugcwalise le fomu kangangoko ngokupheleleyo kangangoko kunokwenzeka</l1017>
+	<l1018>Supplier Igama</l1018>
+	<l1019>VAT</l1019>
+	<l1020>ZeRhafu singachazwa kwi pesenti yemali</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Warehouse</l1022>
+	<l1023>Uqulathe eyona nkalo zilandelayo yokugcina</l1023>
+	<l1024>Warehouse Igama</l1024>
+	<l1025>Ubude bethuba</l1025>
+	<l1026>Uqulathe eyona nkalo zilandelayo ukulondoloza kwithala:</l1026>
+	<l1027>Igama Ubude</l1027>
+	<l1028>Ulwazi into</l1028>
+	<l1029>Kufunwa ukuba bazalise iinkcukacha zilandelayo lento:</l1029>
+	<l1030>item Name</l1030>
+	<l1031>Unit</l1031>
+	<l1032>ibhetshi</l1032>
+	<l1033>Group Name</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Auto kudaleke barcode</l1035>
+	<l1036>VAT Isebenza</l1036>
+	<l1037>ukuthengwa Iindleko</l1037>
+	<l1038>sales Price</l1038>
+	<l1039>uhlalise Point</l1039>
+	<l1040>Warehouse Default</l1040>
+	<l1041>Stock Ivula</l1041>
+	<l1042>Warehouse</l1042>
+	<l1043>Ubude bethuba</l1043>
+	<l1044>Unit Ivula</l1044>
+	<l1045>An umhla wokugqiba</l1045>
+	<l1046>Umhla WOKUPHELELWA</l1046>
+	<l1047>Uluhlu yomHlathi</l1047>
+	<l1048>Ukuze ukutshintsha okanye ukucima, cofa kabini ngokukhawuleza kulwazi umba.</l1048>
+	<l1049>Ngenisa nentwana evela Excel</l1049>
+	<l1050>ifayile .xlsx Ungangenisa oko ku Orion.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Uyakwazi uprinte barcodes ngokweemfuno zakho</l1052>
+	<l1053>ubuninzi</l1053>
+	<l1054>Faka igama lenkampani</l1054>
+	<l1055>Stock</l1055>
+	<l1056>Ukutshintsha okanye ukucima, nqakraza kabini kwinombolo ye-invoyisi.</l1056>
+	<l1057>Inventory okuphelelweyo</l1057>
+	<l1058>Stock Transfer</l1058>
+	<l1059>Ukucima, cofa kabini ngokukhawuleza kulwazi umba.</l1059>
+	<l1060>ukusuka Warehouse</l1060>
+	<l1061>ukuze Warehouse</l1061>
+	<l1062>isizathu</l1062>
+	<l1063>Dlulisa Umhla</l1063>
+	<l1064>Inventory okuphelelweyo</l1064>
+	<l1065>umhla</l1065>
+	<l1066>ezithengiweyo ezirhafelwayo</l1066>
+	<l1067>invoyisi NO</l1067>
+	<l1068>KOKUTSALWA</l1068>
+	<l1069>VAT</l1069>
+	<l1070>isaphulelo</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>IMALI</l1073>
+	<l1074>IKHADI</l1074>
+	<l1075>PAYMENT</l1075>
+	<l1076>EZILINDELEKE</l1076>
+	<l1077>Customer Bonisa</l1077>
+	<l1078>into Bonisa</l1078>
+	<l1079>List invoyisi</l1079>
+	<l1080>ukusuka</l1080>
+	<l1081>ukuze</l1081>
+	<l1082>IDILESI YOKUYITHUMELA NGENQANAWE</l1082>
+	<l1083>IDILESI YETYALA</l1083>
+	<l1084>IZIMVO</l1084>
+	<l1085>igama</l1085>
+	<l1086>ukuthengwa</l1086>
+	<l1087>Imali iyonke</l1087>
+	<l1088>uluhlu lokuthenga</l1088>
+	<l1089>sales Return</l1089>
+	<l1090>Dwelisa Sales kwento</l1090>
+	<l1091>Uluhlu Umba Buyisela</l1091>
+	<l1092>ukuthengwa Buyisela</l1092>
+	<l1093>List Item Thenga</l1093>
+	<l1094>Collection</l1094>
+	<l1095>Total Ngenxa</l1095>
+	<l1096>sales Umhla</l1096>
+	<l1097>Ukuthengiswa By</l1097>
+	<l1098>intlawulo</l1098>
+	<l1099>ukuthengwa Umhla</l1099>
+	<l1100>Payment Umhla</l1100>
+	<l1101>Thenga No</l1101>
+	<l1102>Ulwazi Employee</l1102>
+	<l1103>Uqulathe eyona nkalo zilandelayo ukugcina iirekhodi umqeshwa:</l1103>
+	<l1104>Igama Employee</l1104>
+	<l1105>Isikhundla</l1105>
+	<l1106>Ukuya</l1106>
+	<l1107>Ifom yokungenela idatha yokuhamba Manual</l1107>
+	<l1108>Ukuya Umhla</l1108>
+	<l1109>isimo</l1109>
+	<l1110>babhale</l1110>
+	<l1111>ukungabikho</l1111>
+	<l1112>ngokuphawula</l1112>
+	<l1113>Payment Employee</l1113>
+	<l1114>Uqulathe eyona nkalo zilandelayo ukugcina iirekhodi wentlawulo yomqeshwa:</l1114>
+	<l1115>inkcazelo</l1115>
+	<l1116>Imali ihlawulwe</l1116>
+	<l1117>Zohambo</l1117>
+	<l1118>Uqulathe eyona nkalo zilandelayo ukulondoloza Zohambo</l1118>
+	<l1119>Akhawunti inkcitho</l1119>
+	<l1120>Umhla ihlawulwe</l1120>
+	<l1121>into</l1121>
+	<l1122>Yonke koluhlu lomba</l1122>
+	<l1123>Phanda Group</l1123>
+	<l1124>Stock</l1124>
+	<l1125>Phanda Warehouse</l1125>
+	<l1126>Phanda Ubude bethuba</l1126>
+	<l1127>Sale</l1127>
+	<l1128>yanamhlanje</l1128>
+	<l1129>Sebenzisa Iinqobo ................</l1129>
+	<l1130>Phanda POS</l1130>
+	<l1131>Ukufuna ngu QuickSale</l1131>
+	<l1132>Best Product Sale</l1132>
+	<l1133>Phanda Customer</l1133>
+	<l1134>Ukufuna ngento nganye</l1134>
+	<l1135>ukuthengwa</l1135>
+	<l1136>Ukufuna ngu Umhla</l1136>
+	<l1137>Phanda Supplier</l1137>
+	<l1138>Buyela</l1138>
+	<l1139>Yanamhlanje Return ukuthengisa</l1139>
+	<l1140>Yanamhlanje ukuthenga Return</l1140>
+	<l1141>Ukufuna intengiso Return ngokomhla</l1141>
+	<l1142>Ukufuna lokuthenga Return ngokomhla</l1142>
+	<l1143>Ukufuna intengiso Return ngento nganye</l1143>
+	<l1144>Ukufuna lokuthenga Return ngento nganye</l1144>
+	<l1145>credit</l1145>
+	<l1146>collection yanamhlanje</l1146>
+	<l1147>intlawulo yanamhlanje</l1147>
+	<l1148>Ukufuna collection ngosuku</l1148>
+	<l1149>Ukufuna intlawulo ngosuku</l1149>
+	<l1150>Phanda Supplier</l1150>
+	<l1151>Employee</l1151>
+	<l1152>uluhlu Employee</l1152>
+	<l1153>Ukufuna eseza ngomhla</l1153>
+	<l1154>Ukufuna intlawulo ngosuku</l1154>
+	<l1155>intlawulo Ukufuna umsebenzi ngokomhla</l1155>
+	<l1156>Zohambo</l1156>
+	<l1157>Khangela iindleko ngosuku</l1157>
+	<l1158>Izilungiselelo zomsebenzisi</l1158>
+	<l1159>Yenza abasebenzisi (ukuba amalungelo ezahlukeneyo)</l1159>
+	<l1160>Igama lomsebenzisi</l1160>
+	<l1161>Igama eliphelele</l1161>
+	<l1162>Inombolo yokuvula</l1162>
+	<l1163>Phinda ufake iphasiwedi</l1163>
+	<l1164>ilungelo</l1164>
+	<l1165>amalungelo omsebenzisi</l1165>
+	<l1166>ADD</l1166>
+	<l1167>lungisa</l1167>
+	<l1168>SUSA</l1168>
+	<l1169>NOKUSHICELELA</l1169>
+	<l1170>Hlela Factory Data</l1170>
+	<l1171>Sebenzisa le umnqongo kunye ngenyameko. Ukuba database kuyinto reset, ngoko data zangaphambili ayikwazi wachacha nakanjani na.</l1171>
+	<l1172>Group</l1172>
+	<l1173>Uqulathe eyona nkalo zilandelayo ukulondoloza iqela nto.</l1173>
+	<l1174>Group Name</l1174>
+	<l1175>Akhawunti inkcitho</l1175>
+	<l1176>Uqulathe eyona nkalo zilandelayo ukulondoloza akhawunti Inkcitho:</l1176>
+	<l1177>Igama le-akhawunti</l1177>
+	<l1178>Ndikhumbule</l1178>
+	<l1179>Tshintsha iphasiwedi</l1179>
+	<l1180>Uqulathe eyona nkalo zilandelayo ukulondoloza igama utshintsho:</l1180>
+	<l1181>Iphasiwedi yangoku</l1181>
+	<l1182>ID</l1182>
+	<l1183>Price</l1183>
+	<l1184>INDAWO YOKUKHWELELA</l1184>
+	<l1185>UMVUZO ID</l1185>
+	<l1186>Umhla Registration</l1186>
+	<l1187>Customer ID</l1187>
+	<l1188>Supplier ID</l1188>
+	<l1189>Ayikho imvume.</l1189>
+	<l1190>Inkcazelo iye usindiswe ngempumelelo.</l1190>
+	<l1191>Ulwazi uvuselelwe ngempumelelo.</l1191>
+	<l1192>Inkcazelo iye icinywe ngempumelelo.</l1192>
+	<l1193>Akukho data bafumana</l1193>
+	<l1194>Le mveliso sele Kongezelelwa Stock.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>INZUZO</l1196>
+	<l1197>IMIGAQO IMEKO</l1197>
+	<l1198>Yonke impahla babuyela ngotshintsho kufuneka ube kwimeko Izakhiwo kunye ivale yokuqala.</l1198>
+	<l1199>Asinaxanduva ngayo nayiphi na ilahleko ukonakala lisendleleni okanye ukuvuza.</l1199>
+	<l1200>Idilesi yokuyithumela ngenqanawe</l1200>
+	<l1201>Idilesi yetyala</l1201>
+	<l1202>Utyikityo abagunyazisiweyo</l1202>
+	<l1203>izimvo</l1203>
+	<l1204>PRICE KOKUTSALWA</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>IXABISO LILONKE</l1206>
+	<l1207>UNIT VAT</l1207>
+	<l1208>VAT TOTAL</l1208>
+	<l1209>ezithengiweyo ezirhafelwayo</l1209>
+	<l1210>IIMPAHLA XA wathengisa NGABA ingabuyiselwa OKANYE Exchange.</l1210>
+</language>

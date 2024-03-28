@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Zure ametsa esploratzen dugu onena irtenbide eskainiz</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>ITXI</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>eZABATU</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>FRESKATU</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>Kendu guztiak</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>COMPLETE</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>NABIGAZIOKO eta fakturazioa</ctrlShipping>
+	<ctrlAdd>Gehitu</ctrlAdd>
+	<ctrlSaveOnly>SAVE ONLY</ctrlSaveOnly>
+	<ctrlDeleteAll>Guztiak ezabatu</ctrlDeleteAll>
+	<ctrlCollect>COLLECT</ctrlCollect>
+	<ctrlRefund>ITZULTZEKO</ctrlRefund>
+	<ctrlLogin>SAIOA HASI</ctrlLogin>
+	<lnkChangePassword>ALDATU PASAHITZA</lnkChangePassword>
+	<btnSetUp>konfigurazioa</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>Salmenta</btnSale>
+	<btnPurchase>PURCHASE</btnPurchase>
+	<btnReturn>Itzulia</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>LANGILE</btnEmployee>
+	<btnExpense>GASTUAK</btnExpense>
+	<btnReport>TXOSTENA</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>TRESNAK</btnTools>
+	<linkLogOut>SAIOA AMAITU</linkLogOut>
+	<tsmlBusinessInformation>Enpresa-informazioa</tsmlBusinessInformation>
+	<tsmlCustomer>Bezeroaren</tsmlCustomer>
+	<tsmlSupplier>hornitzailea</tsmlSupplier>
+	<tsmlVAT>BEZa</tsmlVAT>
+	<tsmlWareHouse>biltegi</tsmlWareHouse>
+	<tsmlShelf>Apala</tsmlShelf>
+	<tsmlItemInformation>Artikuluaren informazioa</tsmlItemInformation>
+	<tsmlListOfItem>Item zerrenda</tsmlListOfItem>
+	<tsmlImport>Inportazio</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>iraungitako Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock-transferentzia</tsmlStockTransfer>
+	<tsmlSales>salmentak</tsmlSales>
+	<tsmlPOS>saltokira</tsmlPOS>
+	<tsmlInvoiceList>Faktura-zerrenda</tsmlInvoiceList>
+	<tsmlPurchase>Erosteko</tsmlPurchase>
+	<tsmlPurchaseList>Erosketa-zerrenda</tsmlPurchaseList>
+	<tsmlSalesReturn>Salmenta Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Erosketa Return</tsmlPurchaseReturn>
+	<tsmlCreditSale>Kreditu salmenta</tsmlCreditSale>
+	<tsmlCreditPurchase>Kreditu erostea</tsmlCreditPurchase>
+	<tsmlEmployee>Langilearen</tsmlEmployee>
+	<tsmlAttendance>Asistentzia</tsmlAttendance>
+	<tsmlEmployeeSalary>Langilearen Soldata</tsmlEmployeeSalary>
+	<tsmlItemReport>elementuak</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>salmentak</tsmlSalesReport>
+	<tsmlPurchaseReport>Erosteko</tsmlPurchaseReport>
+	<tsmlReturnReport>Return</tsmlReturnReport>
+	<tsmlCreditReport>Kreditu</tsmlCreditReport>
+	<tsmlEmployeeReport>Langilearen</tsmlEmployeeReport>
+	<tsmlExpenseReport>gastuak</tsmlExpenseReport>
+	<tsmlLanguage>Hizkuntza</tsmlLanguage>
+	<tsmlResetDB>reset Database</tsmlResetDB>
+	<l1000>Enpresa-informazioa</l1000>
+	<l1001>Behar zara Hurrengo Enpresa xehetasunak betetzeko:</l1001>
+	<l1002>Enpresaren izena</l1002>
+	<l1003>Lege izena</l1003>
+	<l1004>Helbidea</l1004>
+	<l1005>Mugikorra</l1005>
+	<l1006>Emaila</l1006>
+	<l1007>Web</l1007>
+	<l1008>leloa</l1008>
+	<l1009>Bezeroaren informazioa</l1009>
+	<l1010>Prospektiba Bezeroak To: Mesedez, bete inprimaki hau erabat ahalik.</l1010>
+	<l1011>Bezeroaren Izena</l1011>
+	<l1014>Irekitze data</l1014>
+	<l1015>Balance</l1015>
+	<l1016>hornitzailea informazioa</l1016>
+	<l1017>Prospektiba hornitzaileak To: Mesedez, bete inprimaki hau erabat ahalik</l1017>
+	<l1018>hornitzailea izena</l1018>
+	<l1019>BEZa</l1019>
+	<l1020>Zerga beharreko diru-portzentajea bezala definitu daiteke</l1020>
+	<l1021>BEZa (%)</l1021>
+	<l1022>biltegia</l1022>
+	<l1023>Hurrengo biltegi eremuetan dauka</l1023>
+	<l1024>Warehouse izena</l1024>
+	<l1025>Apala</l1025>
+	<l1026>eremu hauek apal mantentzen ditu:</l1026>
+	<l1027>Apala izena</l1027>
+	<l1028>Artikuluaren informazioa</l1028>
+	<l1029>Behar zara Hurrengo elementua xehetasunak betetzeko:</l1029>
+	<l1030>Elementu izena</l1030>
+	<l1031>unitatea</l1031>
+	<l1032>batch</l1032>
+	<l1033>Taldearen izena</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>Auto sortzen Barcode</l1035>
+	<l1036>BEZ aplikagarriak</l1036>
+	<l1037>Erosketa Mugimenduak</l1037>
+	<l1038>Salmenta prezioa</l1038>
+	<l1039>Berrantolatu Point</l1039>
+	<l1040>Warehouse Default</l1040>
+	<l1041>Inaugurazio Stock</l1041>
+	<l1042>biltegia</l1042>
+	<l1043>Apala</l1043>
+	<l1044>Inaugurazio unitatea</l1044>
+	<l1045>iraungitze-data</l1045>
+	<l1046>iraungitze-data</l1046>
+	<l1047>Item zerrenda</l1047>
+	<l1048>aldatzeko edo ezabatzeko, sakatu bi elementua informazioaren gainean.</l1048>
+	<l1049>Excel inportatu elementua</l1049>
+	<l1050>.xlsx fitxategia inportatu ahal Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>barra inprimatu ditzakezu zure beharren arabera</l1052>
+	<l1053>Kopurua</l1053>
+	<l1054>Besteak beste, enpresaren izena</l1054>
+	<l1055>stock</l1055>
+	<l1056>Aldatu edo ezabatzeko, egin klik bikoitza faktura zenbakian.</l1056>
+	<l1057>iraungitako inbentarioa</l1057>
+	<l1058>stock-transferentzia</l1058>
+	<l1059>ezabatzeko, sakatu bi elementua informazioaren gainean.</l1059>
+	<l1060>Warehouse aurrera</l1060>
+	<l1061>Warehouse to</l1061>
+	<l1062>Arrazoia</l1062>
+	<l1063>Transfer data</l1063>
+	<l1064>iraungitako inbentarioa</l1064>
+	<l1065>data</l1065>
+	<l1066>ZERGA FACTURA</l1066>
+	<l1067>FACTURA NO</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>BEZa</l1069>
+	<l1070>deskontu</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>CASH</l1073>
+	<l1074>TXARTEL</l1074>
+	<l1075>ORDAINTZEKO</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Bezeroaren Display</l1077>
+	<l1078>Elementu Display</l1078>
+	<l1079>Faktura-zerrenda</l1079>
+	<l1080>aurrera</l1080>
+	<l1081>to</l1081>
+	<l1082>BIDALTZEKO HELBIDEA</l1082>
+	<l1083>FAKTURA HELBIDEA</l1083>
+	<l1084>OHARRAK</l1084>
+	<l1085>izena</l1085>
+	<l1086>Erosteko</l1086>
+	<l1087>Grand Guztira</l1087>
+	<l1088>Erosketa-zerrenda</l1088>
+	<l1089>Salmenta Return</l1089>
+	<l1090>Salmenta Item zerrenda</l1090>
+	<l1091>Return Item zerrenda</l1091>
+	<l1092>Erosketa Return</l1092>
+	<l1093>Erosketa Item zerrenda</l1093>
+	<l1094>Bilduma</l1094>
+	<l1095>Guztira direla-eta</l1095>
+	<l1096>Salmenta data</l1096>
+	<l1097>Sold By</l1097>
+	<l1098>Ordainketa</l1098>
+	<l1099>erosketa data</l1099>
+	<l1100>Ordainketa data</l1100>
+	<l1101>Erosi No</l1101>
+	<l1102>Langilearen informazioa</l1102>
+	<l1103>eremu hauek biltzen ditu langile Erregistro mantentzeko:</l1103>
+	<l1104>Langilearen izena</l1104>
+	<l1105>Deitura</l1105>
+	<l1106>Asistentzia</l1106>
+	<l1107>Eskuzko asistentzia datuak sarrera inprimaki</l1107>
+	<l1108>Asistentzia data</l1108>
+	<l1109>Egoera</l1109>
+	<l1110>Gaur</l1110>
+	<l1111>ausente</l1111>
+	<l1112>Oharrak</l1112>
+	<l1113>Langilearen Ordainketa</l1113>
+	<l1114>eremu hauek langile ordainketa erregistro mantentzea ditu:</l1114>
+	<l1115>deskribapena</l1115>
+	<l1116>ordaindutako zenbatekoa</l1116>
+	<l1117>gastu</l1117>
+	<l1118>eremu hauek biltzen ditu Gastu mantentzea</l1118>
+	<l1119>Gastu kontua</l1119>
+	<l1120>Ordaindutako data</l1120>
+	<l1121>Item</l1121>
+	<l1122>elementua zerrenda guztiak</l1122>
+	<l1123>Bilaketa taldeak</l1123>
+	<l1124>stock</l1124>
+	<l1125>Search biltegia arabera</l1125>
+	<l1126>Search Apala arabera</l1126>
+	<l1127>salmenta</l1127>
+	<l1128>Gaurko</l1128>
+	<l1129>Erabilera-irizpideak ................</l1129>
+	<l1130>Search POS arabera</l1130>
+	<l1131>Search QuickSale arabera</l1131>
+	<l1132>Best Produktuen salmenta</l1132>
+	<l1133>Search Bezeroaren arabera</l1133>
+	<l1134>Search Elementu arabera</l1134>
+	<l1135>Erosteko</l1135>
+	<l1136>Search Date arabera</l1136>
+	<l1137>Search hornitzailea arabera</l1137>
+	<l1138>Return</l1138>
+	<l1139>Gaurko salmenta Return</l1139>
+	<l1140>Gaurko erosketa Return</l1140>
+	<l1141>Search salmenta Return dataren arabera</l1141>
+	<l1142>Search erosketa Return dataren arabera</l1142>
+	<l1143>Search salmenta Return elementua arabera</l1143>
+	<l1144>Search erosketa Return elementua arabera</l1144>
+	<l1145>Kreditu</l1145>
+	<l1146>Gaurko bilduman</l1146>
+	<l1147>Gaurko ordainketa</l1147>
+	<l1148>Search bilketa dataren arabera</l1148>
+	<l1149>Search ordainketa dataren arabera</l1149>
+	<l1150>Search hornitzailea arabera</l1150>
+	<l1151>Langilearen</l1151>
+	<l1152>Langilearen zerrenda</l1152>
+	<l1153>Search bertaratzea dataren arabera</l1153>
+	<l1154>Search ordainketa dataren arabera</l1154>
+	<l1155>Search langile ordainketa dataren arabera</l1155>
+	<l1156>gastu</l1156>
+	<l1157>Search gastu dataren arabera</l1157>
+	<l1158>Erabiltzaile ezarpenak</l1158>
+	<l1159>Sortu erabiltzaileak (pribilegioak desberdinak izatea)</l1159>
+	<l1160>Erabiltzaile izena</l1160>
+	<l1161>Izen osoa</l1161>
+	<l1162>Pasahitza</l1162>
+	<l1163>Berriro pasahitza</l1163>
+	<l1164>Privilege</l1164>
+	<l1165>Erabiltzaile Eskubideen</l1165>
+	<l1166>Gehitu</l1166>
+	<l1167>ALDA</l1167>
+	<l1168>eZABATU</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Jatorrizko datuak berrezarri</l1170>
+	<l1171>Erabili modulu hau kontu handiz ekin. datu-basea berrezarri bada, orduan aurreko datuak ezin dira nolanahi berreskuratu.</l1171>
+	<l1172>Group</l1172>
+	<l1173>eremu hauek biltzen ditu elementua taldean mantentzeko.</l1173>
+	<l1174>Taldearen izena</l1174>
+	<l1175>Gastu kontua</l1175>
+	<l1176>eremu hauek Gastuen kontua mantentzea ditu:</l1176>
+	<l1177>Kontuaren izena</l1177>
+	<l1178>Gogora nazazu</l1178>
+	<l1179>Aldatu pasahitza</l1179>
+	<l1180>eremu hauek aldaketa pasahitza mantentzea ditu:</l1180>
+	<l1181>oraingo pasahitza</l1181>
+	<l1182>NAN</l1182>
+	<l1183>Prezioa</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>ORDAINDU ID</l1185>
+	<l1186>Izen-ematea data</l1186>
+	<l1187>Bezeroak ID</l1187>
+	<l1188>hornitzailea ID</l1188>
+	<l1189>baimena gabe.</l1189>
+	<l1190>Informazioa behar bezala gorde dira.</l1190>
+	<l1191>Informazioa eguneratu da arrakastaz.</l1191>
+	<l1192>Informazioa ezabatu egin da arrakastaz.</l1192>
+	<l1193>Ez da daturik aurkitu</l1193>
+	<l1194>Produktu hau jada sortan gehitu da.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>PROFIT</l1196>
+	<l1197>Termino eta baldintza</l1197>
+	<l1198>ondasun guztiak ordezkatzeko itzuli jatorrizko ontziratzea baldintza salable izan behar du.</l1198>
+	<l1199>Ez gara inongo igarotze kalteak galera edo isurketa ardura.</l1199>
+	<l1200>Bidaltzeko Helbidea</l1200>
+	<l1201>Faktura helbidea</l1201>
+	<l1202>baimendutako sinadura</l1202>
+	<l1203>Oharrak</l1203>
+	<l1204>GROSS PRICE</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>PREZIO TOTALA</l1206>
+	<l1207>UNIT BEZa</l1207>
+	<l1208>TOTAL BEZa</l1208>
+	<l1209>ZERGA FACTURA</l1209>
+	<l1210>ONCE ondasunak saldu ezin dira itzuli edo truke.</l1210>
+</language>

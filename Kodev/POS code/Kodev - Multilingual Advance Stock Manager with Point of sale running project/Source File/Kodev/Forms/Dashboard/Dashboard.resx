@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 20.25pt, style=Bold</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 31</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="priceBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>395, 329</value>
+  </metadata>
+  <metadata name="dsOrion.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 290</value>
+  </metadata>
+  <data name="Price.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 280</value>
+  </data>
+  <data name="Price.Size" type="System.Drawing.Size, System.Drawing">
+    <value>340, 230</value>
+  </data>
+  <data name="Price.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Price.Text" xml:space="preserve">
+    <value>Sale by item price</value>
+  </data>
+  <data name="&gt;&gt;Price.Name" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="&gt;&gt;Price.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Price.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Price.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="priceBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>398, 212</value>
+  </metadata>
+  <metadata name="dbOrionDataSet1BindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>521, 134</value>
+  </metadata>
+  <metadata name="dbOrionDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>375, 134</value>
+  </metadata>
+  <metadata name="priceBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>734, 95</value>
+  </metadata>
+  <metadata name="dbOrionDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="dayPurchaseBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>349, 368</value>
+  </metadata>
+  <data name="Purchase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 34</value>
+  </data>
+  <data name="Purchase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>340, 230</value>
+  </data>
+  <data name="Purchase.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Purchase.Text" xml:space="preserve">
+    <value>Purchase</value>
+  </data>
+  <data name="&gt;&gt;Purchase.Name" xml:space="preserve">
+    <value>Purchase</value>
+  </data>
+  <data name="&gt;&gt;Purchase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Purchase.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Purchase.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="dayPurchaseBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>382, 173</value>
+  </metadata>
+  <metadata name="dayPurchaseBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>465, 17</value>
+  </metadata>
+  <metadata name="daysalesBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>112, 290</value>
+  </metadata>
+  <data name="Sales.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 34</value>
+  </data>
+  <data name="Sales.Size" type="System.Drawing.Size, System.Drawing">
+    <value>586, 230</value>
+  </data>
+  <data name="Sales.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Sales.Text" xml:space="preserve">
+    <value>Sales</value>
+  </data>
+  <data name="&gt;&gt;Sales.Name" xml:space="preserve">
+    <value>Sales</value>
+  </data>
+  <data name="&gt;&gt;Sales.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Sales.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Sales.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="daysalesBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 173</value>
+  </metadata>
+  <metadata name="daysalesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 95</value>
+  </metadata>
+  <metadata name="dayCreditBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 329</value>
+  </metadata>
+  <data name="Credit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 280</value>
+  </data>
+  <data name="Credit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>586, 230</value>
+  </data>
+  <data name="Credit.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="Credit.Text" xml:space="preserve">
+    <value>Credit</value>
+  </data>
+  <data name="&gt;&gt;Credit.Name" xml:space="preserve">
+    <value>Credit</value>
+  </data>
+  <data name="&gt;&gt;Credit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Credit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Credit.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="dayCreditBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>20, 212</value>
+  </metadata>
+  <metadata name="dayCreditBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>369, 95</value>
+  </metadata>
+  <metadata name="quantityBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>209, 446</value>
+  </metadata>
+  <data name="Quantity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>976, 280</value>
+  </data>
+  <data name="Quantity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>340, 230</value>
+  </data>
+  <data name="Quantity.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="Quantity.Text" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;Quantity.Name" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;Quantity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Quantity.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Quantity.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="quantityBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 251</value>
+  </metadata>
+  <metadata name="quantityBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>30, 134</value>
+  </metadata>
+  <metadata name="dayReturnBindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>222, 407</value>
+  </metadata>
+  <data name="Return.Location" type="System.Drawing.Point, System.Drawing">
+    <value>976, 34</value>
+  </data>
+  <data name="Return.Size" type="System.Drawing.Size, System.Drawing">
+    <value>340, 230</value>
+  </data>
+  <data name="Return.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="Return.Text" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;Return.Name" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="&gt;&gt;Return.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;Return.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Return.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="dayReturnBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>375, 251</value>
+  </metadata>
+  <metadata name="dayReturnBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>378, 56</value>
+  </metadata>
+  <metadata name="salesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>157, 17</value>
+  </metadata>
+  <metadata name="salesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>314, 17</value>
+  </metadata>
+  <metadata name="day_PurchaseTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 56</value>
+  </metadata>
+  <metadata name="salesBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>215, 56</value>
+  </metadata>
+  <metadata name="day_ReturnTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>564, 56</value>
+  </metadata>
+  <metadata name="day_salesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>193, 95</value>
+  </metadata>
+  <metadata name="day_CreditTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>552, 95</value>
+  </metadata>
+  <metadata name="priceTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>891, 95</value>
+  </metadata>
+  <metadata name="quantityTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>205, 134</value>
+  </metadata>
+  <metadata name="day_salesTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>200, 173</value>
+  </metadata>
+  <metadata name="day_PurchaseTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>588, 173</value>
+  </metadata>
+  <metadata name="day_CreditTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>209, 212</value>
+  </metadata>
+  <metadata name="priceTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>562, 212</value>
+  </metadata>
+  <metadata name="quantityTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>199, 251</value>
+  </metadata>
+  <metadata name="day_ReturnTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>568, 251</value>
+  </metadata>
+  <metadata name="day_salesTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>295, 290</value>
+  </metadata>
+  <metadata name="day_CreditTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>206, 329</value>
+  </metadata>
+  <metadata name="priceTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 368</value>
+  </metadata>
+  <metadata name="dsOrionBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>175, 368</value>
+  </metadata>
+  <metadata name="day_PurchaseTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 407</value>
+  </metadata>
+  <metadata name="day_ReturnTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 446</value>
+  </metadata>
+  <metadata name="quantityTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>391, 446</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 749</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource1.Name" xml:space="preserve">
+    <value>priceBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet1BindingSource.Name" xml:space="preserve">
+    <value>dbOrionDataSet1BindingSource</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet1BindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet1.Name" xml:space="preserve">
+    <value>dbOrionDataSet1</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource.Name" xml:space="preserve">
+    <value>priceBindingSource</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet.Name" xml:space="preserve">
+    <value>dbOrionDataSet</value>
+  </data>
+  <data name="&gt;&gt;dbOrionDataSet.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource1.Name" xml:space="preserve">
+    <value>dayPurchaseBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource.Name" xml:space="preserve">
+    <value>dayPurchaseBindingSource</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource1.Name" xml:space="preserve">
+    <value>daysalesBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource.Name" xml:space="preserve">
+    <value>daysalesBindingSource</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource1.Name" xml:space="preserve">
+    <value>dayCreditBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource.Name" xml:space="preserve">
+    <value>dayCreditBindingSource</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource1.Name" xml:space="preserve">
+    <value>quantityBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource.Name" xml:space="preserve">
+    <value>quantityBindingSource</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource1.Name" xml:space="preserve">
+    <value>dayReturnBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource.Name" xml:space="preserve">
+    <value>dayReturnBindingSource</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salesBindingSource.Name" xml:space="preserve">
+    <value>salesBindingSource</value>
+  </data>
+  <data name="&gt;&gt;salesBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salesTableAdapter.Name" xml:space="preserve">
+    <value>salesTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;salesTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.salesTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter.Name" xml:space="preserve">
+    <value>day_PurchaseTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.Day_PurchaseTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;salesBindingSource1.Name" xml:space="preserve">
+    <value>salesBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;salesBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter.Name" xml:space="preserve">
+    <value>day_ReturnTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.Day_ReturnTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter.Name" xml:space="preserve">
+    <value>day_salesTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.day_salesTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter.Name" xml:space="preserve">
+    <value>day_CreditTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.Day_CreditTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter.Name" xml:space="preserve">
+    <value>priceTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.priceTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter.Name" xml:space="preserve">
+    <value>quantityTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSetTableAdapters.QuantityTableAdapter, dbOrionDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter1.Name" xml:space="preserve">
+    <value>day_salesTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.day_salesTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter1.Name" xml:space="preserve">
+    <value>day_PurchaseTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.Day_PurchaseTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter1.Name" xml:space="preserve">
+    <value>day_CreditTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.Day_CreditTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter1.Name" xml:space="preserve">
+    <value>priceTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.priceTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter1.Name" xml:space="preserve">
+    <value>quantityTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.QuantityTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter1.Name" xml:space="preserve">
+    <value>day_ReturnTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter1.Type" xml:space="preserve">
+    <value>Kodev.dbOrionDataSet1TableAdapters.Day_ReturnTableAdapter, dbOrionDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dsOrion.Name" xml:space="preserve">
+    <value>dsOrion</value>
+  </data>
+  <data name="&gt;&gt;dsOrion.Type" xml:space="preserve">
+    <value>Kodev.dsOrion, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource2.Name" xml:space="preserve">
+    <value>daysalesBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;daysalesBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter2.Name" xml:space="preserve">
+    <value>day_salesTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;day_salesTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.day_salesTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource2.Name" xml:space="preserve">
+    <value>dayCreditBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;dayCreditBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter2.Name" xml:space="preserve">
+    <value>day_CreditTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;day_CreditTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.Day_CreditTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource2.Name" xml:space="preserve">
+    <value>priceBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;priceBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter2.Name" xml:space="preserve">
+    <value>priceTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;priceTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.priceTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dsOrionBindingSource.Name" xml:space="preserve">
+    <value>dsOrionBindingSource</value>
+  </data>
+  <data name="&gt;&gt;dsOrionBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource2.Name" xml:space="preserve">
+    <value>dayPurchaseBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;dayPurchaseBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter2.Name" xml:space="preserve">
+    <value>day_PurchaseTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;day_PurchaseTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.Day_PurchaseTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource2.Name" xml:space="preserve">
+    <value>dayReturnBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;dayReturnBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter2.Name" xml:space="preserve">
+    <value>day_ReturnTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;day_ReturnTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.Day_ReturnTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource2.Name" xml:space="preserve">
+    <value>quantityBindingSource2</value>
+  </data>
+  <data name="&gt;&gt;quantityBindingSource2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter2.Name" xml:space="preserve">
+    <value>quantityTableAdapter2</value>
+  </data>
+  <data name="&gt;&gt;quantityTableAdapter2.Type" xml:space="preserve">
+    <value>Kodev.dsOrionTableAdapters.QuantityTableAdapter, dsOrion.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

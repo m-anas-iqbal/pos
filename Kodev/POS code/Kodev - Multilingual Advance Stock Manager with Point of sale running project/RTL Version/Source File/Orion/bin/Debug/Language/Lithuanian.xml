@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Mes tyrinėja savo svajonę teikiant geriausias sprendimas</comments>
+	<ctrlSave>SUTAUPYTI</ctrlSave>
+	<ctrlClose>UŽDARYTI</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>IŠTRINTI</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>SKLEISTINĖS</ctrlRefresh>
+	<ctrlBrowsePhoto>Žmonės Nuotrauka</ctrlBrowsePhoto>
+	<ctrlPreview>PERŽIŪRA</ctrlPreview>
+	<ctrlRemoveAll>PAŠALINTI VISUS</ctrlRemoveAll>
+	<ctrlSearch>PAIEŠKA</ctrlSearch>
+	<ctrlComplete>pilnas</ctrlComplete>
+	<ctrlNew>NAUJAS</ctrlNew>
+	<ctrlPrint>SPAUSDINIMO</ctrlPrint>
+	<ctrlShipping>Pristatymo ir atsiskaitymo</ctrlShipping>
+	<ctrlAdd>PAPILDYTI</ctrlAdd>
+	<ctrlSaveOnly>išsaugoti tik</ctrlSaveOnly>
+	<ctrlDeleteAll>IŠTRINTI VISKĄ</ctrlDeleteAll>
+	<ctrlCollect>RENKAME</ctrlCollect>
+	<ctrlRefund>GRĄŽINIMAS</ctrlRefund>
+	<ctrlLogin>PRISIJUNGTI</ctrlLogin>
+	<lnkChangePassword>PAKEISTI SLAPTAŽODĮ</lnkChangePassword>
+	<btnSetUp>NUSTATYMAS</btnSetUp>
+	<btnItem>PUNKTAS</btnItem>
+	<btnStock>AKCINĖ</btnStock>
+	<btnSale>AKCIJA</btnSale>
+	<btnPurchase>PIRKIMO</btnPurchase>
+	<btnReturn>GRĄŽINIMAS</btnReturn>
+	<btnCredit>KREDITO</btnCredit>
+	<btnEmployee>DARBUOTOJAS</btnEmployee>
+	<btnExpense>IŠLAIDOS</btnExpense>
+	<btnReport>ATASKAITA</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>ĮRANKIAI</btnTools>
+	<linkLogOut>ATSIJUNGTI</linkLogOut>
+	<tsmlBusinessInformation>Verslo informacija</tsmlBusinessInformation>
+	<tsmlCustomer>klientas</tsmlCustomer>
+	<tsmlSupplier>tiekėjas</tsmlSupplier>
+	<tsmlVAT>PVM</tsmlVAT>
+	<tsmlWareHouse>sandėlis</tsmlWareHouse>
+	<tsmlShelf>lentyna</tsmlShelf>
+	<tsmlItemInformation>Prekęs informacija</tsmlItemInformation>
+	<tsmlListOfItem>Sąrašas punktas</tsmlListOfItem>
+	<tsmlImport>importas</tsmlImport>
+	<tsmlBarcode>Brūkšninis kodas</tsmlBarcode>
+	<tsmlStock>ištekliai</tsmlStock>
+	<tsmlExpiredItem>pasibaigęs punktas</tsmlExpiredItem>
+	<tsmlBadStock>blogas sandėlyje</tsmlBadStock>
+	<tsmlStockTransfer>akcijų perleidimas</tsmlStockTransfer>
+	<tsmlSales>pardavimų</tsmlSales>
+	<tsmlPOS>Pardavimo punktas</tsmlPOS>
+	<tsmlInvoiceList>Sąskaita sąrašas</tsmlInvoiceList>
+	<tsmlPurchase>pirkti</tsmlPurchase>
+	<tsmlPurchaseList>pirkimo sąrašas</tsmlPurchaseList>
+	<tsmlSalesReturn>pardavimų Grįžti</tsmlSalesReturn>
+	<tsmlPurchaseReturn>pirkimo Grįžti</tsmlPurchaseReturn>
+	<tsmlCreditSale>kredito pardavimas</tsmlCreditSale>
+	<tsmlCreditPurchase>kredito pirkimas</tsmlCreditPurchase>
+	<tsmlEmployee>Darbuotojas</tsmlEmployee>
+	<tsmlAttendance>lankomumas</tsmlAttendance>
+	<tsmlEmployeeSalary>darbuotojų Pajamos</tsmlEmployeeSalary>
+	<tsmlItemReport>Daiktai</tsmlItemReport>
+	<tsmlStockReport>ištekliai</tsmlStockReport>
+	<tsmlSalesReport>pardavimų</tsmlSalesReport>
+	<tsmlPurchaseReport>pirkti</tsmlPurchaseReport>
+	<tsmlReturnReport>sugrįžimas</tsmlReturnReport>
+	<tsmlCreditReport>kreditas</tsmlCreditReport>
+	<tsmlEmployeeReport>Darbuotojas</tsmlEmployeeReport>
+	<tsmlExpenseReport>išlaidos</tsmlExpenseReport>
+	<tsmlLanguage>kalba</tsmlLanguage>
+	<tsmlResetDB>Atstatyti duomenų bazė</tsmlResetDB>
+	<l1000>Verslo informacija</l1000>
+	<l1001>Jums reikia užpildyti šiuos duomenis Bendrovės:</l1001>
+	<l1002>Įmonės pavadinimas</l1002>
+	<l1003>Teisėtas vardas</l1003>
+	<l1004>adresas</l1004>
+	<l1005>telefonas</l1005>
+	<l1006>paštas</l1006>
+	<l1007>Interneto svetainė</l1007>
+	<l1008>šūkis</l1008>
+	<l1009>klientų informacija</l1009>
+	<l1010>Potencialiems klientams: Prašome užpildyti šią formą kuo išsamiau.</l1010>
+	<l1011>Kliento vardas</l1011>
+	<l1014>atidarymo data</l1014>
+	<l1015>balansas</l1015>
+	<l1016>tiekėjas Informacija</l1016>
+	<l1017>Potencialiems tiekėjams: Prašome užpildyti šią formą kuo išsamiau</l1017>
+	<l1018>tiekėjas Vardas</l1018>
+	<l1019>PVM</l1019>
+	<l1020>Mokesčių gali būti apibrėžiama kaip pinigų procentais</l1020>
+	<l1021>PVM (%)</l1021>
+	<l1022>sandėlis</l1022>
+	<l1023>Jame šiuos laukus į sandėlį</l1023>
+	<l1024>sandėlių Vardas</l1024>
+	<l1025>lentyna</l1025>
+	<l1026>Jame šiuos laukus išlaikyti lentyna:</l1026>
+	<l1027>Tinkamumo Vardas</l1027>
+	<l1028>Prekęs informacija</l1028>
+	<l1029>Jums reikia užpildyti šiuos duomenis apie prekę:</l1029>
+	<l1030>Daikto pavadinimas</l1030>
+	<l1031>vienetas</l1031>
+	<l1032>Partija</l1032>
+	<l1033>Grupės pavadinimas</l1033>
+	<l1034>Brūkšninis kodas</l1034>
+	<l1035>Sgeneruoti Brūkšninis</l1035>
+	<l1036>PVM Taikoma</l1036>
+	<l1037>pirkimo kaina</l1037>
+	<l1038>pardavimo kaina</l1038>
+	<l1039>Pertvarkyti punktas</l1039>
+	<l1040>numatytasis sandėlis</l1040>
+	<l1041>atidarymo sandėlyje</l1041>
+	<l1042>sandėlis</l1042>
+	<l1043>lentyna</l1043>
+	<l1044>atidarymas vienetai</l1044>
+	<l1045>Galiojimo datą</l1045>
+	<l1046>Galiojimo laikas</l1046>
+	<l1047>Sąrašas punktas</l1047>
+	<l1048>Keisti ar ištrinti, dukart paspauskite ant prekęs informacija.</l1048>
+	<l1049>Importas punktas iš Excel</l1049>
+	<l1050>XLS failas gali importuoti jį Orion.</l1050>
+	<l1051>Brūkšninis kodas</l1051>
+	<l1052>Galite spausdinti brūkšninius kodus pagal jūsų poreikius</l1052>
+	<l1053>kiekis</l1053>
+	<l1054>Įtraukti įmonės pavadinimą</l1054>
+	<l1055>ištekliai</l1055>
+	<l1056>Norėdami pakeisti arba ištrinti, du kartus spustelėkite sąskaitos faktūros numerį.</l1056>
+	<l1057>pasibaigęs Inventorius</l1057>
+	<l1058>akcijų perleidimas</l1058>
+	<l1059>Norėdami ištrinti, dukart paspauskite ant prekęs informacija.</l1059>
+	<l1060>iš sandėlio</l1060>
+	<l1061>į sandėlį</l1061>
+	<l1062>priežastis</l1062>
+	<l1063>perdavimo data</l1063>
+	<l1064>pasibaigęs Inventorius</l1064>
+	<l1065>Data</l1065>
+	<l1066>MOKESČIŲ SĄSKAITA</l1066>
+	<l1067>sąskaitoje Nr</l1067>
+	<l1068>BENDRASIS</l1068>
+	<l1069>PVM</l1069>
+	<l1070>NUOLAIDA</l1070>
+	<l1071>IŠ VISO</l1071>
+	<l1072>PAGAL</l1072>
+	<l1073>PINIGŲ</l1073>
+	<l1074>KORTELĖ</l1074>
+	<l1075>MOKĖJIMO</l1075>
+	<l1076>DĖL</l1076>
+	<l1077>Klientų Ekranas</l1077>
+	<l1078>Prekė Ekranas</l1078>
+	<l1079>Sąskaita sąrašas</l1079>
+	<l1080>nuo</l1080>
+	<l1081>į</l1081>
+	<l1082>PRISTATYMO ADRESAS</l1082>
+	<l1083>atsiskaitymo adresas</l1083>
+	<l1084>PASTABOS</l1084>
+	<l1085>vardas</l1085>
+	<l1086>pirkti</l1086>
+	<l1087>Iš viso</l1087>
+	<l1088>pirkimo sąrašas</l1088>
+	<l1089>pardavimų Grįžti</l1089>
+	<l1090>Pardavimų punktas sąrašas</l1090>
+	<l1091>Grįžti Prekė sąrašas</l1091>
+	<l1092>pirkimo Grįžti</l1092>
+	<l1093>Pirkimo objektas sąrašas</l1093>
+	<l1094>kolekcija</l1094>
+	<l1095>Iš viso dėl</l1095>
+	<l1096>pardavimų data</l1096>
+	<l1097>parduodami</l1097>
+	<l1098>mokėjimas</l1098>
+	<l1099>Pirkimo data</l1099>
+	<l1100>Mokėjimo diena</l1100>
+	<l1101>Pirkimo Nr</l1101>
+	<l1102>darbuotojų Informacija</l1102>
+	<l1103>Jame šiuos laukus išlaikyti darbuotojų įrašus:</l1103>
+	<l1104>Darbuotojo vardas</l1104>
+	<l1105>žymėjimas</l1105>
+	<l1106>lankomumas</l1106>
+	<l1107>Rankinis lankomumas duomenų įvedimo forma</l1107>
+	<l1108>lankomumas data</l1108>
+	<l1109>statusas</l1109>
+	<l1110>Pateikti</l1110>
+	<l1111>nėra</l1111>
+	<l1112>Pastabos</l1112>
+	<l1113>darbuotojų Mokėjimo</l1113>
+	<l1114>Jame šiuos laukus išlaikyti darbuotojo mokėjimo įrašus:</l1114>
+	<l1115>apibūdinimas</l1115>
+	<l1116>Sumokėta suma</l1116>
+	<l1117>išlaidos</l1117>
+	<l1118>Jame šiuos laukus išlaikyti Išlaidų</l1118>
+	<l1119>išlaidos paskyra</l1119>
+	<l1120>mokama data</l1120>
+	<l1121>punktas</l1121>
+	<l1122>Visi prekių sąrašas</l1122>
+	<l1123>Paieška pagal grupės</l1123>
+	<l1124>ištekliai</l1124>
+	<l1125>Paieška pagal Warehouse</l1125>
+	<l1126>Paieška pagal šelfe</l1126>
+	<l1127>pardavimas</l1127>
+	<l1128>šiandien</l1128>
+	<l1129>Naudokite kriterijai ................</l1129>
+	<l1130>Paieška pagal POS</l1130>
+	<l1131>Paieška pagal QuickSale</l1131>
+	<l1132>Geriausias produktas pardavimas</l1132>
+	<l1133>Paieška pagal Kliento</l1133>
+	<l1134>Paieška pagal elementą</l1134>
+	<l1135>pirkti</l1135>
+	<l1136>Paieška pagal data</l1136>
+	<l1137>Paieška pagal Tiekėjo</l1137>
+	<l1138>sugrįžimas</l1138>
+	<l1139>Šiandienos pardavimai Grįžti</l1139>
+	<l1140>Šiandienos pirkimo Grįžti</l1140>
+	<l1141>Ieškoti pardavimai Grįžti pagal datą</l1141>
+	<l1142>Paieška pirkimo Grįžti pagal datą</l1142>
+	<l1143>Ieškoti pardavimai Grąžinant prekę</l1143>
+	<l1144>Paieška pirkimo Grąžinant prekę</l1144>
+	<l1145>kreditas</l1145>
+	<l1146>Šiandienos kolekcija</l1146>
+	<l1147>Šiandienos mokėjimas</l1147>
+	<l1148>Paieška kolekcija pagal datą</l1148>
+	<l1149>Paieška mokėjimas pagal datą</l1149>
+	<l1150>Paieška pagal Tiekėjo</l1150>
+	<l1151>Darbuotojas</l1151>
+	<l1152>darbuotojų sąrašas</l1152>
+	<l1153>Paieška lankomumas pagal datą</l1153>
+	<l1154>Paieška mokėjimas pagal datą</l1154>
+	<l1155>Paieška darbuotojas mokėjimas pagal datą</l1155>
+	<l1156>išlaidos</l1156>
+	<l1157>Paieška išlaidų pagal datą</l1157>
+	<l1158>Vartotojo nustatymai</l1158>
+	<l1159>Sukurti vartotojai (turintys skirtingas privilegijas)</l1159>
+	<l1160>Vartotojo vardas</l1160>
+	<l1161>Pilnas vardas</l1161>
+	<l1162>Slaptažodis</l1162>
+	<l1163>Pakartokite slaptažodį</l1163>
+	<l1164>Privilegija</l1164>
+	<l1165>Vartotojų teisės</l1165>
+	<l1166>PAPILDYTI</l1166>
+	<l1167>KEISTI</l1167>
+	<l1168>IŠTRINTI</l1168>
+	<l1169>SPAUSDINIMO</l1169>
+	<l1170>Gamyklinių duomenų atkūrimas</l1170>
+	<l1171>Naudokite šį modulį su labai atsargiai. Jei duomenų bazė yra atstatomas, tai ankstesni duomenys negali būti susigrąžinta nerūpestingai.</l1171>
+	<l1172>grupė</l1172>
+	<l1173>Jame šiuos laukus palaikyti elementą grupę.</l1173>
+	<l1174>Grupės pavadinimas</l1174>
+	<l1175>išlaidos paskyra</l1175>
+	<l1176>Jame šiuos laukus išlaikyti išlaidų sąskaita:</l1176>
+	<l1177>Paskyros vardas</l1177>
+	<l1178>Prisimink mane</l1178>
+	<l1179>Pakeisti slaptažodį</l1179>
+	<l1180>Jame šiuos laukus išlaikyti kaitos slaptažodį:</l1180>
+	<l1181>Dabartinis slaptažodis</l1181>
+	<l1182>ID</l1182>
+	<l1183>kaina</l1183>
+	<l1184>TERMINALAS</l1184>
+	<l1185>Mokėjimo ID</l1185>
+	<l1186>Registracijos data</l1186>
+	<l1187>Kliento ID</l1187>
+	<l1188>tiekėjas ID</l1188>
+	<l1189>Nėra leidimo.</l1189>
+	<l1190>Informacija buvo išsaugota sėkmingai.</l1190>
+	<l1191>Informacija buvo sėkmingai atnaujintas.</l1191>
+	<l1192>Informacija buvo sėkmingai ištrintas.</l1192>
+	<l1193>Nėra duomenų</l1193>
+	<l1194>Šis produktas jau buvo įtraukta į atsargų.</l1194>
+	<l1195>LAIKAS</l1195>
+	<l1196>PELNAS</l1196>
+	<l1197>SĄLYGOS IR TAISYKLĖS</l1197>
+	<l1198>Visos prekės sugrįžo pakeitimo turi būti parduodamos su sąlyga, gamintojo pakuotėje.</l1198>
+	<l1199>Mes nesame atsakingi už bet kokius tranzito žalos nuostolių ar nutekėjimo.</l1199>
+	<l1200>Pristatymo adresas</l1200>
+	<l1201>atsiskaitymo Adresas</l1201>
+	<l1202>Įgaliotojo asmens parašas</l1202>
+	<l1203>komentarai</l1203>
+	<l1204>Pilna kaina</l1204>
+	<l1205>VIENETAS</l1205>
+	<l1206>BENDRA SUMA</l1206>
+	<l1207>VIENETAS PVM</l1207>
+	<l1208>IŠ VISO PVM</l1208>
+	<l1209>MOKESČIŲ SĄSKAITA</l1209>
+	<l1210>PREKĖS KARTĄ PARDUODAMI negali būti grąžinami arba mainų.</l1210>
+</language>

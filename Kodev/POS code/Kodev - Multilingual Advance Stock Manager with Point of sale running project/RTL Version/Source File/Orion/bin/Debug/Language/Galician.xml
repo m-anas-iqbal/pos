@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Nós explora o seu soño, que proporciona mellor solución</comments>
+	<ctrlSave>Gardar</ctrlSave>
+	<ctrlClose>CERRAR</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>borrar</ctrlDelete>
+	<ctrlReset>reaxuste</ctrlReset>
+	<ctrlRefresh>REFRESH</ctrlRefresh>
+	<ctrlBrowsePhoto>navegar Foto</ctrlBrowsePhoto>
+	<ctrlPreview>Preview</ctrlPreview>
+	<ctrlRemoveAll>eliminar todas as</ctrlRemoveAll>
+	<ctrlSearch>BUSCA</ctrlSearch>
+	<ctrlComplete>COMPLETE</ctrlComplete>
+	<ctrlNew>NOVO</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>Transporte e de facturación</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>gardar só</ctrlSaveOnly>
+	<ctrlDeleteAll>borrar todo</ctrlDeleteAll>
+	<ctrlCollect>recoller</ctrlCollect>
+	<ctrlRefund>reembolso</ctrlRefund>
+	<ctrlLogin>INICIAR SESIÓN</ctrlLogin>
+	<lnkChangePassword>CAMBIE O CONTRASINAL</lnkChangePassword>
+	<btnSetUp>MONTAR</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>VENDA</btnSale>
+	<btnPurchase>COMPRA</btnPurchase>
+	<btnReturn>Return</btnReturn>
+	<btnCredit>CRÉDITO</btnCredit>
+	<btnEmployee>EMPREGADO</btnEmployee>
+	<btnExpense>gasto</btnExpense>
+	<btnReport>INFORME</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>TOOLS</btnTools>
+	<linkLogOut>LOG OUT</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>cliente</tsmlCustomer>
+	<tsmlSupplier>provedor</tsmlSupplier>
+	<tsmlVAT>IVE</tsmlVAT>
+	<tsmlWareHouse>Warehouse</tsmlWareHouse>
+	<tsmlShelf>andel</tsmlShelf>
+	<tsmlItemInformation>Información do elemento</tsmlItemInformation>
+	<tsmlListOfItem>Lista de elementos</tsmlListOfItem>
+	<tsmlImport>importación</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>elemento caducado</tsmlExpiredItem>
+	<tsmlBadStock>Bad da</tsmlBadStock>
+	<tsmlStockTransfer>Transferencia de stock</tsmlStockTransfer>
+	<tsmlSales>de vendas</tsmlSales>
+	<tsmlPOS>Punto de venda</tsmlPOS>
+	<tsmlInvoiceList>lista factura</tsmlInvoiceList>
+	<tsmlPurchase>Compra</tsmlPurchase>
+	<tsmlPurchaseList>Lista de compra</tsmlPurchaseList>
+	<tsmlSalesReturn>Retorno de vendas</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Retorno de compra</tsmlPurchaseReturn>
+	<tsmlCreditSale>Venta de crédito</tsmlCreditSale>
+	<tsmlCreditPurchase>Compra de crédito</tsmlCreditPurchase>
+	<tsmlEmployee>Empregado</tsmlEmployee>
+	<tsmlAttendance>comparecencia</tsmlAttendance>
+	<tsmlEmployeeSalary>salario empregado</tsmlEmployeeSalary>
+	<tsmlItemReport>elementos</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>de vendas</tsmlSalesReport>
+	<tsmlPurchaseReport>Compra</tsmlPurchaseReport>
+	<tsmlReturnReport>retorno</tsmlReturnReport>
+	<tsmlCreditReport>Crédito</tsmlCreditReport>
+	<tsmlEmployeeReport>Empregado</tsmlEmployeeReport>
+	<tsmlExpenseReport>gastos</tsmlExpenseReport>
+	<tsmlLanguage>Lingua</tsmlLanguage>
+	<tsmlResetDB>Base de Datos de reset</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>Vostede está obrigado a cubrir os seguintes datos da compañía:</l1001>
+	<l1002>Nome da compañía</l1002>
+	<l1003>nome Legal</l1003>
+	<l1004>dirección</l1004>
+	<l1005>teléfono</l1005>
+	<l1006>correo</l1006>
+	<l1007>sitio</l1007>
+	<l1008>slogan</l1008>
+	<l1009>Información do cliente</l1009>
+	<l1010>Para clientes potenciais: Por favor, enche este formulario tan completamente canto posible.</l1010>
+	<l1011>Nome do cliente</l1011>
+	<l1014>Data de apertura</l1014>
+	<l1015>equilibrio</l1015>
+	<l1016>Información do provedor</l1016>
+	<l1017>Para potenciais provedores: Por favor, enche este formulario tan completamente canto posible</l1017>
+	<l1018>Nome do provedor</l1018>
+	<l1019>IVE</l1019>
+	<l1020>Imposto se pode definir como a porcentaxe de cartos</l1020>
+	<l1021>IVA (%)</l1021>
+	<l1022>almacén</l1022>
+	<l1023>Contén os seguintes campos para o almacén</l1023>
+	<l1024>nome Warehouse</l1024>
+	<l1025>andel</l1025>
+	<l1026>Contén os seguintes campos para manter a andel:</l1026>
+	<l1027>nome andel</l1027>
+	<l1028>Información do elemento</l1028>
+	<l1029>Vostede está obrigado a cubrir os seguintes datos do elemento:</l1029>
+	<l1030>Nome do elemento</l1030>
+	<l1031>Unidade</l1031>
+	<l1032>fornada</l1032>
+	<l1033>Nome do grupo</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>Auto xerar código de barras</l1035>
+	<l1036>IVE aplicable</l1036>
+	<l1037>Custo de compra</l1037>
+	<l1038>Prezo de vendas</l1038>
+	<l1039>Punto de recarga</l1039>
+	<l1040>almacén estándar</l1040>
+	<l1041>apertura da</l1041>
+	<l1042>almacén</l1042>
+	<l1043>andel</l1043>
+	<l1044>Unidade de apertura</l1044>
+	<l1045>Unha data de caducidade</l1045>
+	<l1046>data de caducidade</l1046>
+	<l1047>Lista de elemento</l1047>
+	<l1048>Para cambiar ou eliminar, prema dúas veces sobre a información do elemento.</l1048>
+	<l1049>Import elemento de Excel</l1049>
+	<l1050>arquivo .xlsx pode Import-lo en Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>Pode imprimir códigos de barras de acordo coas súas necesidades</l1052>
+	<l1053>cantidade</l1053>
+	<l1054>Incluír o nome da empresa</l1054>
+	<l1055>stock</l1055>
+	<l1056>Para cambiar ou borrar, faga dobre clic no número da factura.</l1056>
+	<l1057>Inventory caducado</l1057>
+	<l1058>Transferencia de stock</l1058>
+	<l1059>Para eliminar, prema dúas veces sobre a información do elemento.</l1059>
+	<l1060>do Almacén</l1060>
+	<l1061>para Almacén</l1061>
+	<l1062>razón</l1062>
+	<l1063>Data de transferencia</l1063>
+	<l1064>Inventory caducado</l1064>
+	<l1065>data</l1065>
+	<l1066>factura</l1066>
+	<l1067>factura NON</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>IVE</l1069>
+	<l1070>dESCONTO</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>POR</l1072>
+	<l1073>CASH</l1073>
+	<l1074>TARXETA</l1074>
+	<l1075>ABONO</l1075>
+	<l1076>debido</l1076>
+	<l1077>exhibición cliente</l1077>
+	<l1078>elemento Pantalla</l1078>
+	<l1079>lista factura</l1079>
+	<l1080>de</l1080>
+	<l1081>para</l1081>
+	<l1082>DIRECCIÓN DE ENVÍO</l1082>
+	<l1083>ENDEREZO DE FACTURACIÓN</l1083>
+	<l1084>cOMENTARIOS</l1084>
+	<l1085>nome</l1085>
+	<l1086>Compra</l1086>
+	<l1087>Total Xeral</l1087>
+	<l1088>Lista de compra</l1088>
+	<l1089>Retorno de vendas</l1089>
+	<l1090>Lista de vendas do elemento</l1090>
+	<l1091>Lista de Elementos de retorno</l1091>
+	<l1092>Retorno de compra</l1092>
+	<l1093>Lista de Elementos de compra</l1093>
+	<l1094>Colección</l1094>
+	<l1095>Total debido</l1095>
+	<l1096>data vendas</l1096>
+	<l1097>vendido por</l1097>
+	<l1098>pago</l1098>
+	<l1099>Data de compra</l1099>
+	<l1100>Data de pagamento</l1100>
+	<l1101>compra Non</l1101>
+	<l1102>información empregado</l1102>
+	<l1103>Contén os seguintes campos para manter rexistros de empregados:</l1103>
+	<l1104>Nome do funcionario</l1104>
+	<l1105>designación</l1105>
+	<l1106>comparecencia</l1106>
+	<l1107>Formulario de entrada de datos manual de atención</l1107>
+	<l1108>presenza Data</l1108>
+	<l1109>Estado</l1109>
+	<l1110>presente</l1110>
+	<l1111>ausente</l1111>
+	<l1112>observacións</l1112>
+	<l1113>empregado de pagamento</l1113>
+	<l1114>Contén os seguintes campos para manter rexistros de pagamento dos empregados:</l1114>
+	<l1115>descrición</l1115>
+	<l1116>pago Precio</l1116>
+	<l1117>gasto</l1117>
+	<l1118>Contén os seguintes campos para manter Gasto</l1118>
+	<l1119>conta gastos</l1119>
+	<l1120>data pago</l1120>
+	<l1121>elemento</l1121>
+	<l1122>Todo lista de elementos</l1122>
+	<l1123>Buscar por Grupo</l1123>
+	<l1124>stock</l1124>
+	<l1125>Busca por Warehouse</l1125>
+	<l1126>Busca por Shelf</l1126>
+	<l1127>venta</l1127>
+	<l1128>hoxe</l1128>
+	<l1129>Utilizar criterios ................</l1129>
+	<l1130>Busca por POS</l1130>
+	<l1131>Busca por QuickSale</l1131>
+	<l1132>Mellor venda do produto</l1132>
+	<l1133>Buscar por Cliente</l1133>
+	<l1134>Busca por elemento</l1134>
+	<l1135>Compra</l1135>
+	<l1136>Busca por data</l1136>
+	<l1137>Buscar por Proveedor</l1137>
+	<l1138>retorno</l1138>
+	<l1139>Retorno de vendas de hoxe</l1139>
+	<l1140>Retorno de compra de hoxe</l1140>
+	<l1141>Retorno vendas de busca por data</l1141>
+	<l1142>Investigación de devolución por data</l1142>
+	<l1143>Retorno vendas procurar artigo</l1143>
+	<l1144>Investigación de devolución polo artigo</l1144>
+	<l1145>Crédito</l1145>
+	<l1146>colección de hoxe</l1146>
+	<l1147>pago de hoxe</l1147>
+	<l1148>Buscar colección por data</l1148>
+	<l1149>Investigación de pago por data</l1149>
+	<l1150>Buscar por Proveedor</l1150>
+	<l1151>Empregado</l1151>
+	<l1152>lista empregado</l1152>
+	<l1153>Buscar atención por data</l1153>
+	<l1154>Investigación de pago por data</l1154>
+	<l1155>pago de busca empregado por data</l1155>
+	<l1156>gasto</l1156>
+	<l1157>Buscar gasto por data</l1157>
+	<l1158>Configuración do usuario</l1158>
+	<l1159>Crear usuarios (con privilexios diferentes)</l1159>
+	<l1160>Nome de usuario</l1160>
+	<l1161>Nome completo</l1161>
+	<l1162>contrasinal</l1162>
+	<l1163>Reintroduza o contrasinal</l1163>
+	<l1164>privilexio</l1164>
+	<l1165>Dereitos do usuario</l1165>
+	<l1166>ADD</l1166>
+	<l1167>MODIFICAR</l1167>
+	<l1168>borrar</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Restaurar datos de fábrica</l1170>
+	<l1171>Utilice este módulo con moito coidado. Se a base de datos é restaurado, a continuación, os datos anteriores non poden ser recuperadas de calquera maneira.</l1171>
+	<l1172>grupo</l1172>
+	<l1173>Contén os seguintes campos para manter grupo elemento.</l1173>
+	<l1174>Nome do grupo</l1174>
+	<l1175>conta gastos</l1175>
+	<l1176>Contén os seguintes campos para manter a conta de xestión:</l1176>
+	<l1177>Nome da conta</l1177>
+	<l1178>Lémbrame</l1178>
+	<l1179>Cambie o contrasinal</l1179>
+	<l1180>Contén os seguintes campos para manter o cambio de contrasinal:</l1180>
+	<l1181>Contrasinal actual</l1181>
+	<l1182>ID</l1182>
+	<l1183>prezo</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>Pay ID</l1185>
+	<l1186>Data de rexistro</l1186>
+	<l1187>ID do cliente</l1187>
+	<l1188>ID provedor</l1188>
+	<l1189>Sen permiso.</l1189>
+	<l1190>Información foi gardada correctamente.</l1190>
+	<l1191>Información foi actualizada correctamente.</l1191>
+	<l1192>Información foi eliminado correctamente.</l1192>
+	<l1193>Non se encontraron datos</l1193>
+	<l1194>Este produto xa foi engadido á Bolsa.</l1194>
+	<l1195>TEMPO</l1195>
+	<l1196>LUCRO</l1196>
+	<l1197>TERMOS E CONDICIÓNS</l1197>
+	<l1198>Todas as mercadorías devoltas para substitución debe estar en condición vendíbel con embalaxe orixinal.</l1198>
+	<l1199>Non somos responsables por calquera perda danos tránsito ou baleirado.</l1199>
+	<l1200>Dirección de envío</l1200>
+	<l1201>enderezo de facturación</l1201>
+	<l1202>Sinatura autorizada</l1202>
+	<l1203>comentarios</l1203>
+	<l1204>prezo bruto</l1204>
+	<l1205>UNIDADE</l1205>
+	<l1206>PREZO TOTAL</l1206>
+	<l1207>UNIDADE IVE</l1207>
+	<l1208>IVE TOTAL</l1208>
+	<l1209>factura</l1209>
+	<l1210>PRODUTOS ONCE vendidos non pode ser devolto ou cambio.</l1210>
+</language>

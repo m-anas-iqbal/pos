@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>We onderzoekt uw droom door het verstrekken van de beste oplossing</comments>
+	<ctrlSave>OPSLAAN</ctrlSave>
+	<ctrlClose>DICHTBIJ</ctrlClose>
+	<ctrlAlter>WIJZIGEN</ctrlAlter>
+	<ctrlDelete>verwijderen</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>verversen</ctrlRefresh>
+	<ctrlBrowsePhoto>Bladeren Photo</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>VERWIJDER ALLES</ctrlRemoveAll>
+	<ctrlSearch>ZOEKEN</ctrlSearch>
+	<ctrlComplete>COMPLEET</ctrlComplete>
+	<ctrlNew>NIEUWE</ctrlNew>
+	<ctrlPrint>AFDRUKKEN</ctrlPrint>
+	<ctrlShipping>Verzend-en factuuradres</ctrlShipping>
+	<ctrlAdd>TOEVOEGEN</ctrlAdd>
+	<ctrlSaveOnly>Alleen opslaan</ctrlSaveOnly>
+	<ctrlDeleteAll>VERWIJDER ALLES</ctrlDeleteAll>
+	<ctrlCollect>VERZAMELEN</ctrlCollect>
+	<ctrlRefund>TERUGBETALING</ctrlRefund>
+	<ctrlLogin>LOG IN</ctrlLogin>
+	<lnkChangePassword>VERANDER WACHTWOORD</lnkChangePassword>
+	<btnSetUp>OPSTELLING</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>VOORRAAD</btnStock>
+	<btnSale>VERKOOP</btnSale>
+	<btnPurchase>AANKOOP</btnPurchase>
+	<btnReturn>RETURN</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>WERKNEMER</btnEmployee>
+	<btnExpense>KOSTEN</btnExpense>
+	<btnReport>VERSLAG DOEN VAN</btnReport>
+	<btnAdmin>BEHEERDER</btnAdmin>
+	<btnTools>GEREEDSCHAP</btnTools>
+	<linkLogOut>UITLOGGEN</linkLogOut>
+	<tsmlBusinessInformation>Bedrijfsinformatie</tsmlBusinessInformation>
+	<tsmlCustomer>Klant</tsmlCustomer>
+	<tsmlSupplier>Leverancier</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>Magazijn</tsmlWareHouse>
+	<tsmlShelf>Plank</tsmlShelf>
+	<tsmlItemInformation>artikel informatie</tsmlItemInformation>
+	<tsmlListOfItem>Lijst van post</tsmlListOfItem>
+	<tsmlImport>Importeren</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>Voorraad</tsmlStock>
+	<tsmlExpiredItem>verlopen Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>Voorraad overdracht</tsmlStockTransfer>
+	<tsmlSales>verkoop</tsmlSales>
+	<tsmlPOS>Verkooppunt</tsmlPOS>
+	<tsmlInvoiceList>factuur Lijst</tsmlInvoiceList>
+	<tsmlPurchase>Aankoop</tsmlPurchase>
+	<tsmlPurchaseList>Purchase List</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>aankoop Return</tsmlPurchaseReturn>
+	<tsmlCreditSale>credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>credit Purchase</tsmlCreditPurchase>
+	<tsmlEmployee>Werknemer</tsmlEmployee>
+	<tsmlAttendance>opkomst</tsmlAttendance>
+	<tsmlEmployeeSalary>werknemer Salaris</tsmlEmployeeSalary>
+	<tsmlItemReport>items</tsmlItemReport>
+	<tsmlStockReport>Voorraad</tsmlStockReport>
+	<tsmlSalesReport>verkoop</tsmlSalesReport>
+	<tsmlPurchaseReport>Aankoop</tsmlPurchaseReport>
+	<tsmlReturnReport>terugkeer</tsmlReturnReport>
+	<tsmlCreditReport>Credit</tsmlCreditReport>
+	<tsmlEmployeeReport>Werknemer</tsmlEmployeeReport>
+	<tsmlExpenseReport>uitgaven</tsmlExpenseReport>
+	<tsmlLanguage>Taal</tsmlLanguage>
+	<tsmlResetDB>Reset Database</tsmlResetDB>
+	<l1000>Bedrijfsinformatie</l1000>
+	<l1001>U bent verplicht om de volgende gegevens van de Vennootschap in te vullen:</l1001>
+	<l1002>Bedrijfsnaam</l1002>
+	<l1003>Legale naam</l1003>
+	<l1004>Adres</l1004>
+	<l1005>Telefoon</l1005>
+	<l1006>E-mail</l1006>
+	<l1007>Website</l1007>
+	<l1008>leuze</l1008>
+	<l1009>klant informatie</l1009>
+	<l1010>Om potentiële klanten: Vul dit formulier zo volledig mogelijk te maken.</l1010>
+	<l1011>klantnaam</l1011>
+	<l1014>Openingsdatum</l1014>
+	<l1015>Balans</l1015>
+	<l1016>Leverancier informatie</l1016>
+	<l1017>Om potentiële leveranciers: Vul dit formulier zo volledig mogelijk in</l1017>
+	<l1018>naam van leverancier</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Belasting kan worden gedefinieerd als het percentage van het geld</l1020>
+	<l1021>BTW (%)</l1021>
+	<l1022>Magazijn</l1022>
+	<l1023>Het bevat de volgende velden om warehouse</l1023>
+	<l1024>Warehouse Naam</l1024>
+	<l1025>Plank</l1025>
+	<l1026>Het bevat de volgende velden om de houdbaarheid te behouden:</l1026>
+	<l1027>shelf Naam</l1027>
+	<l1028>artikel informatie</l1028>
+	<l1029>U bent verplicht om de volgende gegevens van het item in te vullen:</l1029>
+	<l1030>Itemnaam</l1030>
+	<l1031>Eenheid</l1031>
+	<l1032>Partij</l1032>
+	<l1033>Groepsnaam</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>Auto genereren Barcode</l1035>
+	<l1036>BTW Toepasselijk</l1036>
+	<l1037>Aankoopkosten</l1037>
+	<l1038>Verkoopprijs</l1038>
+	<l1039>Bestelpunt</l1039>
+	<l1040>standaard Warehouse</l1040>
+	<l1041>Opening Stock</l1041>
+	<l1042>Magazijn</l1042>
+	<l1043>Plank</l1043>
+	<l1044>opening Unit</l1044>
+	<l1045>Een vervaldatum</l1045>
+	<l1046>Vervaldatum</l1046>
+	<l1047>Lijst van Item</l1047>
+	<l1048>Te wijzigen of te verwijderen, dubbelklikt u op de informatie over het item.</l1048>
+	<l1049>Import Item uit Excel</l1049>
+	<l1050>.xlsx bestand kan importeren in Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>U kunt streepjescodes afdrukken volgens uw behoeften</l1052>
+	<l1053>Aantal stuks</l1053>
+	<l1054>Inclusief bedrijfsnaam</l1054>
+	<l1055>Voorraad</l1055>
+	<l1056>Om te wijzigen of verwijderen, dubbelklikt u op het factuurnummer.</l1056>
+	<l1057>verlopen Inventory</l1057>
+	<l1058>Voorraad overdracht</l1058>
+	<l1059>Om te verwijderen, dubbelklikt u op de informatie over het item.</l1059>
+	<l1060>vanaf Warehouse</l1060>
+	<l1061>Warehouse</l1061>
+	<l1062>Reden</l1062>
+	<l1063>Datum van overdracht</l1063>
+	<l1064>verlopen Inventory</l1064>
+	<l1065>Datum</l1065>
+	<l1066>BTW-factuur</l1066>
+	<l1067>FACTUUR NR</l1067>
+	<l1068>BRUTO</l1068>
+	<l1069>VAT</l1069>
+	<l1070>KORTING</l1070>
+	<l1071>TOTAAL</l1071>
+	<l1072>DOOR</l1072>
+	<l1073>CONTANT GELD</l1073>
+	<l1074>KAART</l1074>
+	<l1075>BETALING</l1075>
+	<l1076>TEN GEVOLGE</l1076>
+	<l1077>Klantenscherm</l1077>
+	<l1078>Item display</l1078>
+	<l1079>factuur Lijst</l1079>
+	<l1080>Van</l1080>
+	<l1081>Naar</l1081>
+	<l1082>VERZENDINGSADRES</l1082>
+	<l1083>FACTURATIE ADRES</l1083>
+	<l1084>OPMERKINGEN</l1084>
+	<l1085>Naam</l1085>
+	<l1086>Aankoop</l1086>
+	<l1087>Eindtotaal</l1087>
+	<l1088>Purchase List</l1088>
+	<l1089>Sales Return</l1089>
+	<l1090>Sales Item List</l1090>
+	<l1091>Return Item List</l1091>
+	<l1092>aankoop Return</l1092>
+	<l1093>Purchase Item List</l1093>
+	<l1094>Verzameling</l1094>
+	<l1095>Totaal verschuldigd</l1095>
+	<l1096>Sales Date</l1096>
+	<l1097>Verkocht door</l1097>
+	<l1098>Betaling</l1098>
+	<l1099>aankoopdatum</l1099>
+	<l1100>Betaaldatum</l1100>
+	<l1101>Aankoop Geen</l1101>
+	<l1102>werknemers informatie</l1102>
+	<l1103>Het bevat de volgende velden om werknemers bij te houden:</l1103>
+	<l1104>Naam werknemer</l1104>
+	<l1105>Aanwijzing</l1105>
+	<l1106>opkomst</l1106>
+	<l1107>Handmatige opkomstgegevens inschrijfformulier</l1107>
+	<l1108>Attendance Date</l1108>
+	<l1109>staat</l1109>
+	<l1110>Aanwezig</l1110>
+	<l1111>Afwezig</l1111>
+	<l1112>Opmerkingen</l1112>
+	<l1113>werknemer Payment</l1113>
+	<l1114>Het bevat de volgende velden om werknemer betaling administratie bij te houden:</l1114>
+	<l1115>Beschrijving</l1115>
+	<l1116>Betaald bedrag</l1116>
+	<l1117>Kosten</l1117>
+	<l1118>Het bevat de volgende velden om Expense handhaven</l1118>
+	<l1119>uitgaven account</l1119>
+	<l1120>betaalde Date</l1120>
+	<l1121>Item</l1121>
+	<l1122>Alle lijst met items</l1122>
+	<l1123>Zoek op groep</l1123>
+	<l1124>Voorraad</l1124>
+	<l1125>Zoeken op Warehouse</l1125>
+	<l1126>Zoeken op Shelf</l1126>
+	<l1127>Verkoop</l1127>
+	<l1128>Today's</l1128>
+	<l1129>Gebruik Criteria ................</l1129>
+	<l1130>Zoeken op POS</l1130>
+	<l1131>Zoeken op QuickSale</l1131>
+	<l1132>Beste artikelen aanbiedingen</l1132>
+	<l1133>Zoeken door de Klant</l1133>
+	<l1134>Zoeken op Artikel</l1134>
+	<l1135>Aankoop</l1135>
+	<l1136>Zoek op datum</l1136>
+	<l1137>Zoeken op leverancier</l1137>
+	<l1138>terugkeer</l1138>
+	<l1139>Today's sales Return</l1139>
+	<l1140>Today's aankoop Return</l1140>
+	<l1141>Zoek sales Return op datum</l1141>
+	<l1142>Zoek aankoop terug op datum</l1142>
+	<l1143>Zoek sales Return per artikel</l1143>
+	<l1144>Zoek aankoop Return per artikel</l1144>
+	<l1145>Credit</l1145>
+	<l1146>collectie van vandaag</l1146>
+	<l1147>betaling van vandaag</l1147>
+	<l1148>Zoek collectie op datum</l1148>
+	<l1149>Zoek betaling op datum</l1149>
+	<l1150>Zoeken op leverancier</l1150>
+	<l1151>Werknemer</l1151>
+	<l1152>Werknemerslijst</l1152>
+	<l1153>Zoeken aanwezigheid op datum</l1153>
+	<l1154>Zoek betaling op datum</l1154>
+	<l1155>betaling Zoeken werknemer op datum</l1155>
+	<l1156>Kosten</l1156>
+	<l1157>Zoeken kosten op datum</l1157>
+	<l1158>Gebruikersinstellingen</l1158>
+	<l1159>Maak gebruikers (met verschillende privileges)</l1159>
+	<l1160>Gebruikersnaam</l1160>
+	<l1161>Voor-en achternaam</l1161>
+	<l1162>Wachtwoord</l1162>
+	<l1163>Voer paswoord opnieuw in</l1163>
+	<l1164>Voorrecht</l1164>
+	<l1165>Gebruikersrechten</l1165>
+	<l1166>TOEVOEGEN</l1166>
+	<l1167>WIJZIGEN</l1167>
+	<l1168>DELETE</l1168>
+	<l1169>AFDRUKKEN</l1169>
+	<l1170>Herstel fabrieksinstellingen</l1170>
+	<l1171>Gebruik deze module met een zeer zorgvuldig. Als de database wordt gereset, en vervolgens naar eerdere gegevens kunnen niet worden hoe dan ook hersteld.</l1171>
+	<l1172>Groep</l1172>
+	<l1173>Het bevat de volgende velden om artikelgroep te handhaven.</l1173>
+	<l1174>Groepsnaam</l1174>
+	<l1175>uitgaven account</l1175>
+	<l1176>Het bevat de volgende velden om uitgaven Account te onderhouden:</l1176>
+	<l1177>Accountnaam</l1177>
+	<l1178>Onthoud me</l1178>
+	<l1179>Verander wachtwoord</l1179>
+	<l1180>Het bevat de volgende velden te wijzigen van het wachtwoord te behouden:</l1180>
+	<l1181>huidig ​​wachtwoord</l1181>
+	<l1182>ID kaart</l1182>
+	<l1183>Prijs</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>registratie datum</l1186>
+	<l1187>Klanten ID</l1187>
+	<l1188>Leverancier ID</l1188>
+	<l1189>Geen toestemming.</l1189>
+	<l1190>Informatie is opgeslagen.</l1190>
+	<l1191>Informatie is bijgewerkt.</l1191>
+	<l1192>Informatie is met succes verwijderd.</l1192>
+	<l1193>Geen data gevonden</l1193>
+	<l1194>Dit product is al toegevoegd aan de voorraad.</l1194>
+	<l1195>TIJD</l1195>
+	<l1196>WINST</l1196>
+	<l1197>Bepalingen en voorwaarden</l1197>
+	<l1198>Alle goederen teruggestuurd voor vervanging moeten in verkoopbare staat met originele verpakking.</l1198>
+	<l1199>Wij zijn niet verantwoordelijk voor eventuele transportschade verlies of lekkage.</l1199>
+	<l1200>Verzendingsadres</l1200>
+	<l1201>Facturatie adres</l1201>
+	<l1202>Bevoegde handtekening</l1202>
+	<l1203>Comments</l1203>
+	<l1204>BRUTO PRIJS</l1204>
+	<l1205>EENHEID</l1205>
+	<l1206>TOTALE PRIJS</l1206>
+	<l1207>UNIT BTW</l1207>
+	<l1208>TOTAAL BTW</l1208>
+	<l1209>BTW-factuur</l1209>
+	<l1210>GOEDEREN keer verkocht kunnen niet worden geretourneerd of ruil.</l1210>
+</language>

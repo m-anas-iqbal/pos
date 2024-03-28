@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Tatou explores lau miti i le tuuina fofo sili</comments>
+	<ctrlSave>faʻaola</ctrlSave>
+	<ctrlClose>FAALATALATA</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>aveese</ctrlDelete>
+	<ctrlReset>toe setiina</ctrlReset>
+	<ctrlRefresh>toe faʻafou</ctrlRefresh>
+	<ctrlBrowsePhoto>matamata Photo</ctrlBrowsePhoto>
+	<ctrlPreview>tofo</ctrlPreview>
+	<ctrlRemoveAll>aveese uma</ctrlRemoveAll>
+	<ctrlSearch>suʻe</ctrlSearch>
+	<ctrlComplete>Faatumu</ctrlComplete>
+	<ctrlNew>FOU</ctrlNew>
+	<ctrlPrint>lolomi</ctrlPrint>
+	<ctrlShipping>Ma Felaʻuaʻiga o tupe totogi,</ctrlShipping>
+	<ctrlAdd>faʻaopoopo</ctrlAdd>
+	<ctrlSaveOnly>vagana NAʻO</ctrlSaveOnly>
+	<ctrlDeleteAll>aveese UMA</ctrlDeleteAll>
+	<ctrlCollect>AO</ctrlCollect>
+	<ctrlRefund>faʻaola tupe</ctrlRefund>
+	<ctrlLogin>LOGIN</ctrlLogin>
+	<lnkChangePassword>SUIGA upu faataga</lnkChangePassword>
+	<btnSetUp>SETI</btnSetUp>
+	<btnItem>MEATAITASI</btnItem>
+	<btnStock>oloa</btnStock>
+	<btnSale>FAATAUINA ATU</btnSale>
+	<btnPurchase>Faatauina</btnPurchase>
+	<btnReturn>TOE FOI</btnReturn>
+	<btnCredit>aitalafu</btnCredit>
+	<btnEmployee>tagata faigaluega</btnEmployee>
+	<btnExpense>tupe alu</btnExpense>
+	<btnReport>LIPOTI</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>Meafaigaluega</btnTools>
+	<linkLogOut>SAINI ESE J</linkLogOut>
+	<tsmlBusinessInformation>Faamatalaga pisinisi</tsmlBusinessInformation>
+	<tsmlCustomer>tagata faʻatau</tsmlCustomer>
+	<tsmlSupplier>tagata 'avatu</tsmlSupplier>
+	<tsmlVAT>vine</tsmlVAT>
+	<tsmlWareHouse>faleʻoloa</tsmlWareHouse>
+	<tsmlShelf>fata</tsmlShelf>
+	<tsmlItemInformation>meataitasi Faamatalaga</tsmlItemInformation>
+	<tsmlListOfItem>Lisi O Meataitasi</tsmlListOfItem>
+	<tsmlImport>laʻu mai</tsmlImport>
+	<tsmlBarcode>Barcode</tsmlBarcode>
+	<tsmlStock>oloa</tsmlStock>
+	<tsmlExpiredItem>Meataitasi Tausaga</tsmlExpiredItem>
+	<tsmlBadStock>Oloa leaga</tsmlBadStock>
+	<tsmlStockTransfer>oloa Faaliliuina</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point o le faatauina atu</tsmlPOS>
+	<tsmlInvoiceList>Lisi pili</tsmlInvoiceList>
+	<tsmlPurchase>faatauina</tsmlPurchase>
+	<tsmlPurchaseList>faatauina Lisi</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Toe Foi</tsmlSalesReturn>
+	<tsmlPurchaseReturn>faatauina Toe Foi</tsmlPurchaseReturn>
+	<tsmlCreditSale>Faatauina aitalafu</tsmlCreditSale>
+	<tsmlCreditPurchase>Faatauina aitalafu</tsmlCreditPurchase>
+	<tsmlEmployee>tagata faigaluega</tsmlEmployee>
+	<tsmlAttendance>auai</tsmlAttendance>
+	<tsmlEmployeeSalary>Totogi tagata faigaluega</tsmlEmployeeSalary>
+	<tsmlItemReport>aitema</tsmlItemReport>
+	<tsmlStockReport>oloa</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>faatauina</tsmlPurchaseReport>
+	<tsmlReturnReport>foʻi</tsmlReturnReport>
+	<tsmlCreditReport>aitalafu</tsmlCreditReport>
+	<tsmlEmployeeReport>tagata faigaluega</tsmlEmployeeReport>
+	<tsmlExpenseReport>O tupe e totogi</tsmlExpenseReport>
+	<tsmlLanguage>gagana</tsmlLanguage>
+	<tsmlResetDB>Utuofaamatalaga toe setiina</tsmlResetDB>
+	<l1000>Faamatalaga pisinisi</l1000>
+	<l1001>e manaomia oe e faatumu ai le faamatalaga lenei o le Kamupani:</l1001>
+	<l1002>Company Suafa</l1002>
+	<l1003>Igoa faaletulafono</l1003>
+	<l1004>Address</l1004>
+	<l1005>telefoni</l1005>
+	<l1006>Email</l1006>
+	<l1007>Website</l1007>
+	<l1008>faaupuga puupuu</l1008>
+	<l1009>Faamatalaga tagata e faaaogāina auaunaga</l1009>
+	<l1010>Tagata e faaaogāina auaunaga sauniuni: Faamolemole faatumu le fomu lenei e pei ona atoatoa e mafai ai.</l1010>
+	<l1011>Igoa o tagata e faaaogāina auaunaga</l1011>
+	<l1014>tatalaina Aso</l1014>
+	<l1015>paleni</l1015>
+	<l1016>Faamatalaga tuuina</l1016>
+	<l1017>Ina ia e tuuina sauniuni: Faamolemole faatumu le fomu lenei e pei ona atoatoa e mafai ai</l1017>
+	<l1018>tuuina Suafa</l1018>
+	<l1019>vine</l1019>
+	<l1020>e mafai ona faauigaina o Lafoga o le pasene o tupe</l1020>
+	<l1021>Vine (%)</l1021>
+	<l1022>faleʻoloa</l1022>
+	<l1023>O loo i ai fanua nei e fale teu oloa</l1023>
+	<l1024>Igoa fale teu oloa</l1024>
+	<l1025>fata</l1025>
+	<l1026>O loo i ai fanua nei e tausia fata:</l1026>
+	<l1027>Igoa fata</l1027>
+	<l1028>meataitasi Faamatalaga</l1028>
+	<l1029>O loo e manaomia e faatumulia ai le faamatalaga lenei o le mea:</l1029>
+	<l1030>meataitasi Suafa</l1030>
+	<l1031>Vaega</l1031>
+	<l1032>faaputuga</l1032>
+	<l1033>vaega Suafa</l1033>
+	<l1034>Barcode</l1034>
+	<l1035>faatupuina ai taavale Barcode</l1035>
+	<l1036>vine talafeagai E</l1036>
+	<l1037>faatauina Tau</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>Reorder Point</l1039>
+	<l1040>fale teu oloa faaletonu</l1040>
+	<l1041>tatalaina o Oloa</l1041>
+	<l1042>faleʻoloa</l1042>
+	<l1043>fata</l1043>
+	<l1044>Vaega amata</l1044>
+	<l1045>O se faamutaina aso</l1045>
+	<l1046>aso faamutaina</l1046>
+	<l1047>Lisi o Meataitasi</l1047>
+	<l1048>Ina ia suia pe aveese, lua-kiliki i le faamatalaga o le mea.</l1048>
+	<l1049>Faaulufale Meataitasi mai sili</l1049>
+	<l1050>e mafai ona faaulufale faila .xlsx i Orion.</l1050>
+	<l1051>Barcode</l1051>
+	<l1052>E mafai ona e lolomiina barcodes e tusa ma ou manaoga</l1052>
+	<l1053>tele</l1053>
+	<l1054>E aofia ai igoa kamupani</l1054>
+	<l1055>oloa</l1055>
+	<l1056>Ina ia suia pe tape, ia faʻasalaga-lua i le numera o le inisiua.</l1056>
+	<l1057>Suegãoloa Tausaga</l1057>
+	<l1058>oloa Faaliliuina</l1058>
+	<l1059>Ina ia aveese, lua-kiliki i le faamatalaga o le mea.</l1059>
+	<l1060>mai le fale teu oloa</l1060>
+	<l1061>Ina ia fale teu oloa</l1061>
+	<l1062>mafuaaga</l1062>
+	<l1063>faaliliuina Aso</l1063>
+	<l1064>Suegãoloa Tausaga</l1064>
+	<l1065>aso</l1065>
+	<l1066>pili lafoga</l1066>
+	<l1067>pili LEAI</l1067>
+	<l1068>atoa</l1068>
+	<l1069>vine</l1069>
+	<l1070>taugōfie</l1070>
+	<l1071>AOFAI</l1071>
+	<l1072>E</l1072>
+	<l1073>TUPE</l1073>
+	<l1074>PEPA</l1074>
+	<l1075>totogi</l1075>
+	<l1076>Ona</l1076>
+	<l1077>tagata e faaaogāina auaunaga Faaali atu</l1077>
+	<l1078>Faaali atu aitema</l1078>
+	<l1079>Lisi pili</l1079>
+	<l1080>mai</l1080>
+	<l1081>i</l1081>
+	<l1082>Vaa TUATUSI</l1082>
+	<l1083>TUATUSI O PILI</l1083>
+	<l1084>faamatalaga</l1084>
+	<l1085>igoa</l1085>
+	<l1086>faatauina</l1086>
+	<l1087>Grand Aofai</l1087>
+	<l1088>faatauina Lisi</l1088>
+	<l1089>Sales Toe Foi</l1089>
+	<l1090>Sales Meataitasi Lisi</l1090>
+	<l1091>Toe foi Meataitasi Lisi</l1091>
+	<l1092>faatauina Toe Foi</l1092>
+	<l1093>Faatauina Meataitasi Lisi</l1093>
+	<l1094>aoina</l1094>
+	<l1095>Aofai Ona</l1095>
+	<l1096>Sales Aso</l1096>
+	<l1097>faatau atu I le</l1097>
+	<l1098>totogi</l1098>
+	<l1099>faatauina Aso</l1099>
+	<l1100>Aso totogi</l1100>
+	<l1101>faatau leai</l1101>
+	<l1102>Faamatalaga tagata faigaluega</l1102>
+	<l1103>O loo i ai fanua nei e tausia faamaumauga tagata faigaluega:</l1103>
+	<l1104>Igoa o tagata faigaluega</l1104>
+	<l1105>Faatulagaina</l1105>
+	<l1106>auai</l1106>
+	<l1107>pepa ulufale faamatalaga auai Tusi Lesona</l1107>
+	<l1108>auai i le Aso</l1108>
+	<l1109>tulaga</l1109>
+	<l1110>nei</l1110>
+	<l1111>aunuʻua</l1111>
+	<l1112>saunoaga</l1112>
+	<l1113>Tupe totogi tagata faigaluega</l1113>
+	<l1114>O loo i ai fanua nei e tausia faamaumauga totogi tagata faigaluega:</l1114>
+	<l1115>faʻamatalaga</l1115>
+	<l1116>Aofaiga totogi</l1116>
+	<l1117>tupe alu</l1117>
+	<l1118>O loo i ai fanua nei e tausia tupe</l1118>
+	<l1119>Tupe Alu Teugatupe</l1119>
+	<l1120>Aso totogi</l1120>
+	<l1121>mea</l1121>
+	<l1122>lisi mea uma</l1122>
+	<l1123>Search e Group</l1123>
+	<l1124>oloa</l1124>
+	<l1125>Search e fale teu oloa</l1125>
+	<l1126>Search e fata</l1126>
+	<l1127>faatauina</l1127>
+	<l1128>o aso nei</l1128>
+	<l1129>Taiala faataatitia Faaaoga ................</l1129>
+	<l1130>Search e POS</l1130>
+	<l1131>Search e QuickSale</l1131>
+	<l1132>Faatauina Oloa Best</l1132>
+	<l1133>Search e Faaaogāina Auaunaga</l1133>
+	<l1134>Search e Meataitasi</l1134>
+	<l1135>faatauina</l1135>
+	<l1136>Search i Aso</l1136>
+	<l1137>Search e tuuina</l1137>
+	<l1138>foʻi</l1138>
+	<l1139>faatauina o aso nei Toe Foi</l1139>
+	<l1140>Toe faatauina mai o le i aso nei</l1140>
+	<l1141>faatauina Search Toe Foi i le aso</l1141>
+	<l1142>Search Toe faatauina mai i aso</l1142>
+	<l1143>faatauina Search Toe Foi i le mea</l1143>
+	<l1144>Search Toe faatauina e le aitema</l1144>
+	<l1145>aitalafu</l1145>
+	<l1146>aoina i le taimi nei</l1146>
+	<l1147>totogiina i le taimi nei</l1147>
+	<l1148>Search aoina i aso</l1148>
+	<l1149>Search totogiina e aso</l1149>
+	<l1150>Search e tuuina</l1150>
+	<l1151>tagata faigaluega</l1151>
+	<l1152>Lisi tagata faigaluega</l1152>
+	<l1153>auai Search i aso</l1153>
+	<l1154>Search totogiina e aso</l1154>
+	<l1155>totogi tagata faigaluega Search i aso</l1155>
+	<l1156>tupe alu</l1156>
+	<l1157>Saili tupe e ala i aso</l1157>
+	<l1158>tulaga tagata e faaaogāina</l1158>
+	<l1159>Foafoaina tagata faaaoga e (le mauaina o avanoa eseese)</l1159>
+	<l1160>Igoa o tagata e faaaogāina</l1160>
+	<l1161>Igoa atoa</l1161>
+	<l1162>Numera e le iloa e sesi</l1162>
+	<l1163>Toe ulufale atu upu faataga</l1163>
+	<l1164>tofi</l1164>
+	<l1165>tagata e faaaogāina Aia Tatau</l1165>
+	<l1166>faʻaopoopo</l1166>
+	<l1167>faʻafetaui</l1167>
+	<l1168>aveese</l1168>
+	<l1169>lolomi</l1169>
+	<l1170>Toe setiina gaosi Faamatalaga</l1170>
+	<l1171>Faaaoga lenei module ma le faaeteete. Afai e toe setiina le utuofaamatalaga, lea faamatalaga talu ai e le mafai ona toe maua tusa lava.</l1171>
+	<l1172>vasega</l1172>
+	<l1173>O loo i ai fanua nei e tausia vaega aitema.</l1173>
+	<l1174>vaega Suafa</l1174>
+	<l1175>Tupe Alu Teugatupe</l1175>
+	<l1176>O loo i ai fanua nei e tausia Tupe Alu Teugatupe:</l1176>
+	<l1177>teugatupe Suafa</l1177>
+	<l1178>Manatua mai a'u</l1178>
+	<l1179>suiga upu faataga</l1179>
+	<l1180>O loo i ai fanua nei e tausia suiga upu faataga:</l1180>
+	<l1181>upu tuanai o le taimi nei</l1181>
+	<l1182>ID</l1182>
+	<l1183>tau</l1183>
+	<l1184>taunuʻuga</l1184>
+	<l1185>totogi ID</l1185>
+	<l1186>faamauina o Aso</l1186>
+	<l1187>ID tagata e faaaogāina auaunaga</l1187>
+	<l1188>tuuina ID</l1188>
+	<l1189>E leai se faatagaga.</l1189>
+	<l1190>Faamatalaga ua faaolaina ma le manuia.</l1190>
+	<l1191>Faamatalaga ua toe faafou ma le manuia.</l1191>
+	<l1192>Faamatalaga ua aveesea manuia.</l1192>
+	<l1193>E leai se faamatalaga o loo maua</l1193>
+	<l1194>O lenei oloa ua uma ona faaopoopo atu i le Oloa.</l1194>
+	<l1195>TAIMI</l1195>
+	<l1196>manuia</l1196>
+	<l1197>TUUTUUGA MA TULAGA</l1197>
+	<l1198>toe foi oloa uma mo le toe suia e tatau ona i salable tulaga ma le teuina muamua.</l1198>
+	<l1199>e le nafa i tatou mo so o se gau o mea ua faaleagaina uia po leakage.</l1199>
+	<l1200>Vaa Address</l1200>
+	<l1201>Tuatusi o pili</l1201>
+	<l1202>Saini faatagaina</l1202>
+	<l1203>faamatalaga</l1203>
+	<l1204>PRICE atoa</l1204>
+	<l1205>IUNITE</l1205>
+	<l1206>PRICE AOFAI</l1206>
+	<l1207>IUNITE vine</l1207>
+	<l1208>vine AOFAI</l1208>
+	<l1209>pili lafoga</l1209>
+	<l1210>E MAFAI E LE MAFAI ONA toe foi OLOA faʻatasi faatauina atu po o AʻI.</l1210>
+</language>

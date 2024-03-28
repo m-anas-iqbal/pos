@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>A topinpin rẹ ala nipa pese ti o dara ju ojutu</comments>
+	<ctrlSave>fi</ctrlSave>
+	<ctrlClose>CLOSE</ctrlClose>
+	<ctrlAlter>Alter</ctrlAlter>
+	<ctrlDelete>pa</ctrlDelete>
+	<ctrlReset>IPILE</ctrlReset>
+	<ctrlRefresh>Sọ</ctrlRefresh>
+	<ctrlBrowsePhoto>Kiri Photo</ctrlBrowsePhoto>
+	<ctrlPreview>-tẹle</ctrlPreview>
+	<ctrlRemoveAll>yọ GBOGBO</ctrlRemoveAll>
+	<ctrlSearch>Àwárí</ctrlSearch>
+	<ctrlComplete>pipe</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>TẸ</ctrlPrint>
+	<ctrlShipping>Sowo ati ìdíyelé</ctrlShipping>
+	<ctrlAdd>Fi</ctrlAdd>
+	<ctrlSaveOnly>fi ONLY</ctrlSaveOnly>
+	<ctrlDeleteAll>pa GBOGBO</ctrlDeleteAll>
+	<ctrlCollect>Gba</ctrlCollect>
+	<ctrlRefund>agbapada</ctrlRefund>
+	<ctrlLogin>WO ILE</ctrlLogin>
+	<lnkChangePassword>TUN ORUKO AKOWOLE RE SE</lnkChangePassword>
+	<btnSetUp>ṢETO</btnSetUp>
+	<btnItem>ohun kan</btnItem>
+	<btnStock>iṣura</btnStock>
+	<btnSale>tita</btnSale>
+	<btnPurchase>ra</btnPurchase>
+	<btnReturn>PADA</btnReturn>
+	<btnCredit>Ike</btnCredit>
+	<btnEmployee>Osise</btnEmployee>
+	<btnExpense>laibikita</btnExpense>
+	<btnReport>Iroyin</btnReport>
+	<btnAdmin>abojuto</btnAdmin>
+	<btnTools>irinṣẹ</btnTools>
+	<linkLogOut>buwolu jade</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>onibara</tsmlCustomer>
+	<tsmlSupplier>isise</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>ise</tsmlWareHouse>
+	<tsmlShelf>selifu</tsmlShelf>
+	<tsmlItemInformation>ohun Information</tsmlItemInformation>
+	<tsmlListOfItem>Akojọ Of Ohun kan</tsmlListOfItem>
+	<tsmlImport>gbe wọle</tsmlImport>
+	<tsmlBarcode>kooduopo</tsmlBarcode>
+	<tsmlStock>iṣura</tsmlStock>
+	<tsmlExpiredItem>pari Ohun kan</tsmlExpiredItem>
+	<tsmlBadStock>Bad iṣura</tsmlBadStock>
+	<tsmlStockTransfer>iṣura Gbe</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point of sale</tsmlPOS>
+	<tsmlInvoiceList>risiti Akojọ</tsmlInvoiceList>
+	<tsmlPurchase>ra</tsmlPurchase>
+	<tsmlPurchaseList>ra Akojọ</tsmlPurchaseList>
+	<tsmlSalesReturn>tita pada</tsmlSalesReturn>
+	<tsmlPurchaseReturn>ra pada</tsmlPurchaseReturn>
+	<tsmlCreditSale>Credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>Credit Ra</tsmlCreditPurchase>
+	<tsmlEmployee>Osise</tsmlEmployee>
+	<tsmlAttendance>wiwa</tsmlAttendance>
+	<tsmlEmployeeSalary>abáni Ekunwo</tsmlEmployeeSalary>
+	<tsmlItemReport>awọn ohun</tsmlItemReport>
+	<tsmlStockReport>iṣura</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>ra</tsmlPurchaseReport>
+	<tsmlReturnReport>pada</tsmlReturnReport>
+	<tsmlCreditReport>Ike</tsmlCreditReport>
+	<tsmlEmployeeReport>Osise</tsmlEmployeeReport>
+	<tsmlExpenseReport>inawo</tsmlExpenseReport>
+	<tsmlLanguage>ede</tsmlLanguage>
+	<tsmlResetDB>Tun aaye data</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>O ti wa ni ti a beere lati kun awọn wọnyi alaye ti awọn Ile:</l1001>
+	<l1002>Orukọ Ile-iṣẹ</l1002>
+	<l1003>ofin Name</l1003>
+	<l1004>adirẹsi</l1004>
+	<l1005>foonu</l1005>
+	<l1006>imeeli</l1006>
+	<l1007>aaye ayelujara</l1007>
+	<l1008>kokandinlogbon</l1008>
+	<l1009>onibara Information</l1009>
+	<l1010>To ifojusọna Onibara: Jọwọ fọwọsi jade yi fọọmu bi patapata bi o ti ṣee.</l1010>
+	<l1011>onibara Name</l1011>
+	<l1014>šiši Ọjọ</l1014>
+	<l1015>iwontunwonsi</l1015>
+	<l1016>isise Information</l1016>
+	<l1017>To ifojusọna Suppliers: Jọwọ fọwọsi jade yi fọọmu bi patapata bi o ti ṣee</l1017>
+	<l1018>isise Name</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Tax le ti wa ni telẹ bi awọn ogorun ti owo</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>ise</l1022>
+	<l1023>O ni awọn wọnyi oko to ile ise</l1023>
+	<l1024>ise Name</l1024>
+	<l1025>selifu</l1025>
+	<l1026>O ni awọn wọnyi oko lati ṣetọju selifu:</l1026>
+	<l1027>selifu Name</l1027>
+	<l1028>ohun Information</l1028>
+	<l1029>O ti wa ni ti a beere lati kun awọn wọnyi alaye ti awọn ohun kan:</l1029>
+	<l1030>ohun Name</l1030>
+	<l1031>Unit</l1031>
+	<l1032>ipele</l1032>
+	<l1033>Group Name</l1033>
+	<l1034>kooduopo</l1034>
+	<l1035>Auto ina Kooduopo</l1035>
+	<l1036>VAT Wulo</l1036>
+	<l1037>ra iye owó</l1037>
+	<l1038>tita Iye</l1038>
+	<l1039>reorder Point</l1039>
+	<l1040>aiyipada ile ise</l1040>
+	<l1041>nsii iṣura</l1041>
+	<l1042>ise</l1042>
+	<l1043>selifu</l1043>
+	<l1044>šiši Unit</l1044>
+	<l1045>Ohun ipari ọjọ</l1045>
+	<l1046>expiry ọjọ</l1046>
+	<l1047>Akojọ ti awọn ohun kan</l1047>
+	<l1048>Lati paarọ tabi pa, ni ilopo-tẹ lori awọn ohun kan alaye.</l1048>
+	<l1049>Gbe wọle Ohun kan lati tayo</l1049>
+	<l1050>.xlsx faili le gbe ti o ni Orion.</l1050>
+	<l1051>kooduopo</l1051>
+	<l1052>O le tẹ awọn barcodes gẹgẹ aini rẹ</l1052>
+	<l1053>opoiye</l1053>
+	<l1054>Ni ile-orukọ</l1054>
+	<l1055>iṣura</l1055>
+	<l1056>Lati yiarọ tabi paarẹ, tẹ-lẹẹmeji lori nọmba onigọwe naa.</l1056>
+	<l1057>pari oja</l1057>
+	<l1058>iṣura Gbe</l1058>
+	<l1059>Lati pa, ni ilopo-tẹ lori awọn ohun kan alaye.</l1059>
+	<l1060>lati ile ise</l1060>
+	<l1061>to ile ise</l1061>
+	<l1062>idi</l1062>
+	<l1063>Gbe Ọjọ</l1063>
+	<l1064>pari oja</l1064>
+	<l1065>ọjọ</l1065>
+	<l1066>Agbowo risiti</l1066>
+	<l1067>risiti KO</l1067>
+	<l1068>gross</l1068>
+	<l1069>VAT</l1069>
+	<l1070>eni</l1070>
+	<l1071>Total</l1071>
+	<l1072>BY</l1072>
+	<l1073>owo</l1073>
+	<l1074>Kaadi</l1074>
+	<l1075>SISAN</l1075>
+	<l1076>nitori</l1076>
+	<l1077>onibara Ifihan</l1077>
+	<l1078>ohun Ifihan</l1078>
+	<l1079>risiti Akojọ</l1079>
+	<l1080>lati</l1080>
+	<l1081>to</l1081>
+	<l1082>ADIRESI WO NI A MA GBE WA</l1082>
+	<l1083>ADIRESI IBITI AGBE NSAN OWO</l1083>
+	<l1084>comments</l1084>
+	<l1085>Name</l1085>
+	<l1086>ra</l1086>
+	<l1087>Apapọ gbogboogbo</l1087>
+	<l1088>ra Akojọ</l1088>
+	<l1089>tita pada</l1089>
+	<l1090>Tita Ohun kan Akojọ</l1090>
+	<l1091>Pada Ohun kan Akojọ</l1091>
+	<l1092>ra pada</l1092>
+	<l1093>Ra Ohun kan Akojọ</l1093>
+	<l1094>gbigba</l1094>
+	<l1095>Total Nitori</l1095>
+	<l1096>tita Ọjọ</l1096>
+	<l1097>ta Nipa</l1097>
+	<l1098>owo</l1098>
+	<l1099>ra Ọjọ</l1099>
+	<l1100>owo Ọjọ</l1100>
+	<l1101>ra Ko si</l1101>
+	<l1102>abáni Information</l1102>
+	<l1103>O ni awọn wọnyi oko lati ṣetọju abáni igbasilẹ:</l1103>
+	<l1104>abáni Name</l1104>
+	<l1105>yiyan</l1105>
+	<l1106>wiwa</l1106>
+	<l1107>Afowoyi wiwa data titẹsi fọọmu</l1107>
+	<l1108>wiwa Ọjọ</l1108>
+	<l1109>ipo</l1109>
+	<l1110>bayi</l1110>
+	<l1111>nílé</l1111>
+	<l1112>awọn ifiyesi</l1112>
+	<l1113>abáni ti sisan</l1113>
+	<l1114>O ni awọn wọnyi oko lati ṣetọju abáni owo igbasilẹ:</l1114>
+	<l1115>Apejuwe</l1115>
+	<l1116>san iye</l1116>
+	<l1117>laibikita</l1117>
+	<l1118>O ni awọn wọnyi oko lati ṣetọju laibikita</l1118>
+	<l1119>inawo Account</l1119>
+	<l1120>san Ọjọ</l1120>
+	<l1121>ohun kan</l1121>
+	<l1122>Gbogbo ohun akojọ</l1122>
+	<l1123>Search nipa Group</l1123>
+	<l1124>iṣura</l1124>
+	<l1125>Search nipa ise</l1125>
+	<l1126>Search nipa selifu</l1126>
+	<l1127>sale</l1127>
+	<l1128>oni</l1128>
+	<l1129>Lo Àwárí mu ................</l1129>
+	<l1130>Search nipa POS</l1130>
+	<l1131>Search nipa QuickSale</l1131>
+	<l1132>Ti o dara ju ọja tita</l1132>
+	<l1133>Search nipa Onibara</l1133>
+	<l1134>Search nipa ohun</l1134>
+	<l1135>ra</l1135>
+	<l1136>Search nipa Ọjọ</l1136>
+	<l1137>Search nipa Supplier</l1137>
+	<l1138>pada</l1138>
+	<l1139>Oni tita pada</l1139>
+	<l1140>Oni ká ra pada</l1140>
+	<l1141>Search tita pada nipa ọjọ</l1141>
+	<l1142>Search ra pada nipa ọjọ</l1142>
+	<l1143>Search tita pada nipa ohun</l1143>
+	<l1144>Search ra pada nipa ohun</l1144>
+	<l1145>Ike</l1145>
+	<l1146>Oni ká gbigba</l1146>
+	<l1147>Oni ká owo</l1147>
+	<l1148>Search gbigba nipa ọjọ</l1148>
+	<l1149>Search owo nipa ọjọ</l1149>
+	<l1150>Search nipa Supplier</l1150>
+	<l1151>Osise</l1151>
+	<l1152>abáni Akojọ</l1152>
+	<l1153>Search wiwa nipa ọjọ</l1153>
+	<l1154>Search owo nipa ọjọ</l1154>
+	<l1155>Search abáni owo nipa ọjọ</l1155>
+	<l1156>laibikita</l1156>
+	<l1157>Wa laibikita nipa ọjọ</l1157>
+	<l1158>User Eto</l1158>
+	<l1159>Ṣẹda users (nini o yatọ si anfaani)</l1159>
+	<l1160>User Name</l1160>
+	<l1161>Akokun Oruko</l1161>
+	<l1162>ọrọigbaniwọle</l1162>
+	<l1163>Tun ọrọ aṣina tẹ sii</l1163>
+	<l1164>àǹfààní</l1164>
+	<l1165>User ẹtọ to ti ni</l1165>
+	<l1166>Fi</l1166>
+	<l1167>yipada</l1167>
+	<l1168>pa</l1168>
+	<l1169>TẸ</l1169>
+	<l1170>Factory Data Tun</l1170>
+	<l1171>Lo yi module pẹlu gan-finni. Ti o ba ti database ti wa ni ipilẹ, ki o si ti tẹlẹ data ko le wa ni pada Anyhow.</l1171>
+	<l1172>Group</l1172>
+	<l1173>O ni awọn wọnyi oko lati ṣetọju ohun kan ẹgbẹ.</l1173>
+	<l1174>Group Name</l1174>
+	<l1175>inawo Account</l1175>
+	<l1176>O ni awọn wọnyi oko lati ṣetọju inawo Account:</l1176>
+	<l1177>Orukọ akọọlẹ</l1177>
+	<l1178>Ranti mi</l1178>
+	<l1179>Tun oruko akowole re se</l1179>
+	<l1180>O ni awọn wọnyi oko lati ṣetọju ayipada ọrọigbaniwọle:</l1180>
+	<l1181>lọwọlọwọ Ọrọigbaniwọle</l1181>
+	<l1182>ID</l1182>
+	<l1183>owo</l1183>
+	<l1184>ebute</l1184>
+	<l1185>san ID</l1185>
+	<l1186>Iforukọ Ọjọ</l1186>
+	<l1187>onibara ID</l1187>
+	<l1188>isise ID</l1188>
+	<l1189>Ko si aiye.</l1189>
+	<l1190>Alaye ti a ti fipamọ ni ifijišẹ.</l1190>
+	<l1191>Alaye ti a ti ni imudojuiwọn ni ifijišẹ.</l1191>
+	<l1192>Alaye ti a ti paarẹ ni ifijišẹ.</l1192>
+	<l1193>Ko si data ri</l1193>
+	<l1194>Ọja yi ti tẹlẹ a ti fi kun si awọn iṣura.</l1194>
+	<l1195>AAGO</l1195>
+	<l1196>èrè</l1196>
+	<l1197>Ofin ATI Ipò</l1197>
+	<l1198>Gbogbo de pada fun rirọpo gbodo wa ni salable majemu pẹlu atilẹba packing.</l1198>
+	<l1199>A wa ni ko lodidi fun eyikeyi irekọja si bibajẹ pipadanu tabi jijo.</l1199>
+	<l1200>Adiresi wo ni a ma gbe wa</l1200>
+	<l1201>Adiresi ibiti agbe nsan owo</l1201>
+	<l1202>fun ni aṣẹ Ibuwọlu</l1202>
+	<l1203>comments</l1203>
+	<l1204>gross PRICE</l1204>
+	<l1205>kuro</l1205>
+	<l1206>lapapọ PRICE</l1206>
+	<l1207>kuro VAT</l1207>
+	<l1208>lapapọ VAT</l1208>
+	<l1209>Agbowo risiti</l1209>
+	<l1210>De Lọgan ti ta ko le pada OR paṣipaarọ.</l1210>
+</language>

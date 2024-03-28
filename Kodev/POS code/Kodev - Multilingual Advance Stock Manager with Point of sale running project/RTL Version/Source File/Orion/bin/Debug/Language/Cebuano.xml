@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Kita Isaysay sa imong damgo pinaagi sa paghatag labing maayo nga solusyon</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>SUOD NGA</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>panas</ctrlDelete>
+	<ctrlReset>Reset</ctrlReset>
+	<ctrlRefresh>Bag-oha ang</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>Kuhaa TANAN</ctrlRemoveAll>
+	<ctrlSearch>PAGPANGITA</ctrlSearch>
+	<ctrlComplete>KOMPLETONG</ctrlComplete>
+	<ctrlNew>BAG-O NGA</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>Shipping UG billing</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>SAVE LANG</ctrlSaveOnly>
+	<ctrlDeleteAll>panas TANAN</ctrlDeleteAll>
+	<ctrlCollect>PANGOLEKTA</ctrlCollect>
+	<ctrlRefund>refund</ctrlRefund>
+	<ctrlLogin>SULOD</ctrlLogin>
+	<lnkChangePassword>KAUSABAN password</lnkChangePassword>
+	<btnSetUp>SETUP</btnSetUp>
+	<btnItem>item</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>PAGBALIGYA</btnSale>
+	<btnPurchase>PAGPALIT</btnPurchase>
+	<btnReturn>MOBALIK</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>EMPLEYADO</btnEmployee>
+	<btnExpense>TABANG</btnExpense>
+	<btnReport>REPORT</btnReport>
+	<btnAdmin>administrasyon</btnAdmin>
+	<btnTools>TOOLS</btnTools>
+	<linkLogOut>log sa</linkLogOut>
+	<tsmlBusinessInformation>Information Business</tsmlBusinessInformation>
+	<tsmlCustomer>customer</tsmlCustomer>
+	<tsmlSupplier>supplier</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>warehouse</tsmlWareHouse>
+	<tsmlShelf>Estante</tsmlShelf>
+	<tsmlItemInformation>Item Impormasyon</tsmlItemInformation>
+	<tsmlListOfItem>Listahan sa Item</tsmlListOfItem>
+	<tsmlImport>import</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>expired Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock Transfer</tsmlStockTransfer>
+	<tsmlSales>sales</tsmlSales>
+	<tsmlPOS>Punto sa pagbaligya</tsmlPOS>
+	<tsmlInvoiceList>imboyis List</tsmlInvoiceList>
+	<tsmlPurchase>pagpalit</tsmlPurchase>
+	<tsmlPurchaseList>List pagpalit</tsmlPurchaseList>
+	<tsmlSalesReturn>sales Bumalik</tsmlSalesReturn>
+	<tsmlPurchaseReturn>pagpalit Bumalik</tsmlPurchaseReturn>
+	<tsmlCreditSale>credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>credit Pagpalit</tsmlCreditPurchase>
+	<tsmlEmployee>empleyado</tsmlEmployee>
+	<tsmlAttendance>Pagtambong</tsmlAttendance>
+	<tsmlEmployeeSalary>empleyado Salary</tsmlEmployeeSalary>
+	<tsmlItemReport>mga butang</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>sales</tsmlSalesReport>
+	<tsmlPurchaseReport>pagpalit</tsmlPurchaseReport>
+	<tsmlReturnReport>Bumalik</tsmlReturnReport>
+	<tsmlCreditReport>credit</tsmlCreditReport>
+	<tsmlEmployeeReport>empleyado</tsmlEmployeeReport>
+	<tsmlExpenseReport>Expenses</tsmlExpenseReport>
+	<tsmlLanguage>pinulongan</tsmlLanguage>
+	<tsmlResetDB>reset Database</tsmlResetDB>
+	<l1000>Information Business</l1000>
+	<l1001>Ikaw gikinahanglan nga pun-on sa mosunod nga mga detalye sa mga Company:</l1001>
+	<l1002>Ngalan Company</l1002>
+	<l1003>Legal Ngalan</l1003>
+	<l1004>address</l1004>
+	<l1005>phone</l1005>
+	<l1006>email</l1006>
+	<l1007>website</l1007>
+	<l1008>slogan</l1008>
+	<l1009>customer Impormasyon</l1009>
+	<l1010>Ngadto sa mga Prospective kustomer: Palihug pun-on sa niini nga matang nga sama sa bug-os kutob sa mahimo.</l1010>
+	<l1011>customer Ngalan</l1011>
+	<l1014>pag-abli Petsa</l1014>
+	<l1015>Balance</l1015>
+	<l1016>supplier Impormasyon</l1016>
+	<l1017>Ngadto sa mga Prospective Suppliers: Palihug pun-on sa niini nga matang nga sama sa bug-os kutob sa mahimo</l1017>
+	<l1018>supplier Ngalan</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Tax mahimong gihubit nga ingon sa porsiyento sa salapi</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>warehouse</l1022>
+	<l1023>Kini naglangkob sa mosunod nga mga uma ngadto sa bodega</l1023>
+	<l1024>warehouse Ngalan</l1024>
+	<l1025>Estante</l1025>
+	<l1026>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa estante:</l1026>
+	<l1027>Shelf Ngalan</l1027>
+	<l1028>Item Impormasyon</l1028>
+	<l1029>Ikaw gikinahanglan nga pun-on sa mosunod nga mga detalye sa mga butang:</l1029>
+	<l1030>Item Ngalan</l1030>
+	<l1031>Yunit</l1031>
+	<l1032>batch</l1032>
+	<l1033>Ngalan sa grupo</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Auto makamugna Barcode</l1035>
+	<l1036>VAT Applicable</l1036>
+	<l1037>pagpalit Cost</l1037>
+	<l1038>sales Price</l1038>
+	<l1039>Reorder Point</l1039>
+	<l1040>default Warehouse</l1040>
+	<l1041>Pangbukas nga Stock</l1041>
+	<l1042>warehouse</l1042>
+	<l1043>Estante</l1043>
+	<l1044>pag-abli Unit</l1044>
+	<l1045>Usa ka expiration date</l1045>
+	<l1046>petsa expiry</l1046>
+	<l1047>Listahan sa Item</l1047>
+	<l1048>Sa pag-usab o panas, double-click sa ibabaw sa impormasyon nga butang.</l1048>
+	<l1049>Import Item gikan sa paglabaw pinaagi</l1049>
+	<l1050>.xlsx file mahimong import kini sa Orion.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Ikaw mahimo print barcodes sumala sa imong mga panginahanglan</l1052>
+	<l1053>gidaghanon</l1053>
+	<l1054>Ilakip ang ngalan sa kompaniya sa</l1054>
+	<l1055>stock</l1055>
+	<l1056>Aron usbon o papason, doble-klik ang numero sa invoice.</l1056>
+	<l1057>expired Inventory</l1057>
+	<l1058>stock Transfer</l1058>
+	<l1059>Sa panas, double-click sa ibabaw sa impormasyon nga butang.</l1059>
+	<l1060>gikan sa Warehouse</l1060>
+	<l1061>sa Warehouse</l1061>
+	<l1062>rason</l1062>
+	<l1063>Petsa transfer</l1063>
+	<l1064>expired Inventory</l1064>
+	<l1065>Petsa</l1065>
+	<l1066>MANININGIL imboyis</l1066>
+	<l1067>imboyis NO</l1067>
+	<l1068>gross</l1068>
+	<l1069>VAT</l1069>
+	<l1070>discount</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>PINAAGI SA</l1072>
+	<l1073>cash</l1073>
+	<l1074>CARD</l1074>
+	<l1075>PAGBAYAD</l1075>
+	<l1076>TUNGOD</l1076>
+	<l1077>customer Ipakita</l1077>
+	<l1078>Item Ipakita</l1078>
+	<l1079>imboyis List</l1079>
+	<l1080>gikan sa</l1080>
+	<l1081>sa</l1081>
+	<l1082>Shipping ADDRESS</l1082>
+	<l1083>billing ADDRESS</l1083>
+	<l1084>Comments</l1084>
+	<l1085>Ngalan</l1085>
+	<l1086>pagpalit</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>List pagpalit</l1088>
+	<l1089>sales Bumalik</l1089>
+	<l1090>Ilista ang Sales Item</l1090>
+	<l1091>Bumalik List Item</l1091>
+	<l1092>pagpalit Bumalik</l1092>
+	<l1093>Pagpalit List Item</l1093>
+	<l1094>collection</l1094>
+	<l1095>total Tungod</l1095>
+	<l1096>sales Petsa</l1096>
+	<l1097>gibaligya Pinaagi sa</l1097>
+	<l1098>pagbayad</l1098>
+	<l1099>Petsa sa pagpalit</l1099>
+	<l1100>Petsa pagbayad</l1100>
+	<l1101>Pagpalit Walay</l1101>
+	<l1102>empleyado Impormasyon</l1102>
+	<l1103>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa mga rekord sa empleyado:</l1103>
+	<l1104>empleyado Ngalan</l1104>
+	<l1105>ngalan nga</l1105>
+	<l1106>Pagtambong</l1106>
+	<l1107>Manwal sa pagtambong sa data entry nga porma</l1107>
+	<l1108>Pagtambong Petsa</l1108>
+	<l1109>kahimtang</l1109>
+	<l1110>karon</l1110>
+	<l1111>wala</l1111>
+	<l1112>pakigpulong</l1112>
+	<l1113>empleyado Payment</l1113>
+	<l1114>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa mga rekord empleyado pagbayad:</l1114>
+	<l1115>Description</l1115>
+	<l1116>Paid Kadaghanon</l1116>
+	<l1117>gasto</l1117>
+	<l1118>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa gasto</l1118>
+	<l1119>Expenditure Account</l1119>
+	<l1120>Paid Petsa</l1120>
+	<l1121>Item</l1121>
+	<l1122>Ang tanan nga listahan nga butang</l1122>
+	<l1123>Search pinaagi sa Group</l1123>
+	<l1124>stock</l1124>
+	<l1125>Search pinaagi sa Warehouse</l1125>
+	<l1126>Search pinaagi sa Shelf</l1126>
+	<l1127>sale</l1127>
+	<l1128>karon</l1128>
+	<l1129>Paggamit criteria ................</l1129>
+	<l1130>Search pinaagi sa POS</l1130>
+	<l1131>Search pinaagi sa QuickSale</l1131>
+	<l1132>Labing maayo nga Product Sale</l1132>
+	<l1133>Search pinaagi sa Customer</l1133>
+	<l1134>Search pinaagi sa Item</l1134>
+	<l1135>pagpalit</l1135>
+	<l1136>Search pinaagi sa Petsa</l1136>
+	<l1137>Search pinaagi sa supplier</l1137>
+	<l1138>Bumalik</l1138>
+	<l1139>sales Bumalik Karon</l1139>
+	<l1140>pagpalit Bumalik Karon</l1140>
+	<l1141>Search sales Bumalik pinaagi sa petsa</l1141>
+	<l1142>Search pagpalit Bumalik pinaagi sa petsa</l1142>
+	<l1143>Search sales Bumalik pinaagi sa butang</l1143>
+	<l1144>Search pagpalit Bumalik pinaagi sa butang</l1144>
+	<l1145>credit</l1145>
+	<l1146>koleksyon Karon</l1146>
+	<l1147>pagbayad Karon</l1147>
+	<l1148>koleksyon sa Search pinaagi sa petsa</l1148>
+	<l1149>Search pagbayad pinaagi sa petsa</l1149>
+	<l1150>Search pinaagi sa supplier</l1150>
+	<l1151>empleyado</l1151>
+	<l1152>List empleyado</l1152>
+	<l1153>Search pagtambong sa petsa</l1153>
+	<l1154>Search pagbayad pinaagi sa petsa</l1154>
+	<l1155>Search empleyado pagbayad pinaagi sa petsa</l1155>
+	<l1156>gasto</l1156>
+	<l1157>Susiha gasto pinaagi sa petsa</l1157>
+	<l1158>setting user</l1158>
+	<l1159>Paghimo tiggamit (nga may lain-laing mga pribilehiyo)</l1159>
+	<l1160>Ngalan user</l1160>
+	<l1161>Full Ngalan</l1161>
+	<l1162>password</l1162>
+	<l1163>Re-mosulod sa password</l1163>
+	<l1164>pribilehiyo</l1164>
+	<l1165>Rights user</l1165>
+	<l1166>ADD</l1166>
+	<l1167>pag-usab</l1167>
+	<l1168>panas</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Pabrika Data Reset</l1170>
+	<l1171>Gamita module niini uban sa pag-ayo. Kon ang database mao ang Reset, unya miaging data dili nakuha sa gihapon.</l1171>
+	<l1172>Group</l1172>
+	<l1173>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa butang nga grupo.</l1173>
+	<l1174>Ngalan sa grupo</l1174>
+	<l1175>Expenditure Account</l1175>
+	<l1176>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa Expenditure Account:</l1176>
+	<l1177>Ngalan Account</l1177>
+	<l1178>Hinumdumi kanako</l1178>
+	<l1179>Change Password</l1179>
+	<l1180>Kini naglangkob sa mosunod nga mga kaumahan sa pagpadayon sa pagbag-o password:</l1180>
+	<l1181>Current Password</l1181>
+	<l1182>ID</l1182>
+	<l1183>Presyo</l1183>
+	<l1184>makamatay</l1184>
+	<l1185>PAMATIG ID</l1185>
+	<l1186>Petsa registration</l1186>
+	<l1187>customer ID</l1187>
+	<l1188>supplier ID</l1188>
+	<l1189>Walay pagtugot.</l1189>
+	<l1190>Impormasyon malampuson nga maluwas.</l1190>
+	<l1191>Impormasyon malampuson nga update.</l1191>
+	<l1192>Impormasyon malampuson nga gindula na.</l1192>
+	<l1193>Walay data nakaplagan</l1193>
+	<l1194>Kini nga produkto na gidugang ngadto sa Stock.</l1194>
+	<l1195>PANAHON</l1195>
+	<l1196>kapuslanan</l1196>
+	<l1197>TERMINO UG Kahimtang</l1197>
+	<l1198>Ang tanan nga mga butang mibalik alang sa puli kinahanglan nga sa nga baligya sa kahimtang sa orihinal nga nga pagpamutus.</l1198>
+	<l1199>Kita dili responsable sa bisan unsa nga transit kadaot pagkawala o leakage.</l1199>
+	<l1200>Shipping Address</l1200>
+	<l1201>billing Address</l1201>
+	<l1202>Authorized Pirma</l1202>
+	<l1203>comments</l1203>
+	<l1204>gross PRICE</l1204>
+	<l1205>YUNIT</l1205>
+	<l1206>TOTAL PRICE</l1206>
+	<l1207>UNIT VAT</l1207>
+	<l1208>TOTAL VAT</l1208>
+	<l1209>MANININGIL imboyis</l1209>
+	<l1210>Mga butang MAKAUSA IBALIGYA MAHIMO DILI MAHIMONG PAULI O PAGBINAYLU-AY.</l1210>
+</language>

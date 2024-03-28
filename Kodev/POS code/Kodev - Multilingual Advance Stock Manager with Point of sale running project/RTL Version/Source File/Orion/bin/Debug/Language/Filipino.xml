@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Kami ay explores ang iyong pangarap sa pamamagitan ng pagbibigay pinakamahusay na solusyon</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>ISARA</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>BURAHIN</ctrlDelete>
+	<ctrlReset>rESET</ctrlReset>
+	<ctrlRefresh>REFRESH</ctrlRefresh>
+	<ctrlBrowsePhoto>Mag-browse ng Litrato</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>ALISIN LAHAT</ctrlRemoveAll>
+	<ctrlSearch>PAGHAHANAP</ctrlSearch>
+	<ctrlComplete>COMPLETE</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>SHIPPING AND BILLING</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>SAVE ONLY</ctrlSaveOnly>
+	<ctrlDeleteAll>TANGGALIN ANG LAHAT</ctrlDeleteAll>
+	<ctrlCollect>mangolekta</ctrlCollect>
+	<ctrlRefund>REFUND</ctrlRefund>
+	<ctrlLogin>MAG LOG IN</ctrlLogin>
+	<lnkChangePassword>PALITAN ANG PASSWORD</lnkChangePassword>
+	<btnSetUp>SETUP</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>PAGBEBENTA</btnSale>
+	<btnPurchase>PURCHASE</btnPurchase>
+	<btnReturn>RETURN</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>EMPLEADO</btnEmployee>
+	<btnExpense>GASTOS</btnExpense>
+	<btnReport>REPORT</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>TOOL</btnTools>
+	<linkLogOut>lOG OUT</linkLogOut>
+	<tsmlBusinessInformation>Impormasyon ng negosyo</tsmlBusinessInformation>
+	<tsmlCustomer>parokyano</tsmlCustomer>
+	<tsmlSupplier>tagatustos</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>Bodega</tsmlWareHouse>
+	<tsmlShelf>istante</tsmlShelf>
+	<tsmlItemInformation>item Inpormasyon</tsmlItemInformation>
+	<tsmlListOfItem>Listahan Ng Mga Item</tsmlListOfItem>
+	<tsmlImport>Angkat</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>Expired Item</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock Transfer</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point of sale</tsmlPOS>
+	<tsmlInvoiceList>invoice List</tsmlInvoiceList>
+	<tsmlPurchase>pagbili</tsmlPurchase>
+	<tsmlPurchaseList>Listahan ng pagbili</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>pagbili Return</tsmlPurchaseReturn>
+	<tsmlCreditSale>credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>credit Pagbili</tsmlCreditPurchase>
+	<tsmlEmployee>Empleado</tsmlEmployee>
+	<tsmlAttendance>pagdalo</tsmlAttendance>
+	<tsmlEmployeeSalary>empleyado suweldo</tsmlEmployeeSalary>
+	<tsmlItemReport>Item</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>pagbili</tsmlPurchaseReport>
+	<tsmlReturnReport>pagbabalik</tsmlReturnReport>
+	<tsmlCreditReport>kredito</tsmlCreditReport>
+	<tsmlEmployeeReport>Empleado</tsmlEmployeeReport>
+	<tsmlExpenseReport>gastos</tsmlExpenseReport>
+	<tsmlLanguage>wika</tsmlLanguage>
+	<tsmlResetDB>I-reset ang Database</tsmlResetDB>
+	<l1000>Impormasyon ng negosyo</l1000>
+	<l1001>Ikaw ay kinakailangan upang punan ang mga sumusunod na mga detalye ng Kumpanya:</l1001>
+	<l1002>pangalan ng Kumpanya</l1002>
+	<l1003>legal na Pangalan</l1003>
+	<l1004>address</l1004>
+	<l1005>telepono</l1005>
+	<l1006>email</l1006>
+	<l1007>Website</l1007>
+	<l1008>sawikain</l1008>
+	<l1009>Impormasyon sa customer</l1009>
+	<l1010>Upang Prospective Customer: Mangyaring punan ang form na bilang ganap hangga't maaari.</l1010>
+	<l1011>Pangalan ng Customer</l1011>
+	<l1014>pagbubukas Date</l1014>
+	<l1015>balanse</l1015>
+	<l1016>supplier Impormasyon</l1016>
+	<l1017>Upang Prospective Supplier: Mangyaring punan ang form na bilang ganap hangga't maaari</l1017>
+	<l1018>supplier Pangalan</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Tax ay maaaring tinukoy bilang ang porsyento ng mga pera</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Bodega</l1022>
+	<l1023>Naglalaman ito ng mga sumusunod na mga patlang upang warehouse</l1023>
+	<l1024>Warehouse Pangalan</l1024>
+	<l1025>istante</l1025>
+	<l1026>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang shelf:</l1026>
+	<l1027>shelf Pangalan</l1027>
+	<l1028>item Inpormasyon</l1028>
+	<l1029>Ikaw ay kinakailangan upang punan ang mga sumusunod na mga detalye ng mga item:</l1029>
+	<l1030>Pangalan ng item</l1030>
+	<l1031>yunit</l1031>
+	<l1032>pangkat</l1032>
+	<l1033>Pangalan ng grupo</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Awtomatikong bumuo ng Barcode</l1035>
+	<l1036>VAT Naaangkop</l1036>
+	<l1037>Purchase Cost</l1037>
+	<l1038>Sales Presyo</l1038>
+	<l1039>Muling isasa-ayos ang punto</l1039>
+	<l1040>default Warehouse</l1040>
+	<l1041>Pagbukas Stock</l1041>
+	<l1042>Bodega</l1042>
+	<l1043>istante</l1043>
+	<l1044>pagbubukas Unit</l1044>
+	<l1045>May expiration date</l1045>
+	<l1046>petsa ng pag-expire</l1046>
+	<l1047>Listahan ng mga Item</l1047>
+	<l1048>Upang baguhin o tanggalin, i-double click sa impormasyon na item.</l1048>
+	<l1049>Mag-import ng Item mula sa Excel</l1049>
+	<l1050>.xlsx file ay maaaring i-import ito sa Orion.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Maaari mong i-print ang barcode ayon sa iyong mga pangangailangan</l1052>
+	<l1053>dami</l1053>
+	<l1054>Isama ang pangalan ng kumpanya</l1054>
+	<l1055>stock</l1055>
+	<l1056>Upang baguhin o tanggalin, mag-double-click sa numero ng invoice.</l1056>
+	<l1057>Expired Inventory</l1057>
+	<l1058>stock Transfer</l1058>
+	<l1059>Upang tanggalin, i-double click sa ang impormasyon na item.</l1059>
+	<l1060>mula Warehouse</l1060>
+	<l1061>upang Warehouse</l1061>
+	<l1062>dahilan</l1062>
+	<l1063>Petsa transfer</l1063>
+	<l1064>Expired Inventory</l1064>
+	<l1065>petsa</l1065>
+	<l1066>TAX INVOICE</l1066>
+	<l1067>INVOICE NO</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>VAT</l1069>
+	<l1070>DISCOUNT</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>CASH</l1073>
+	<l1074>CARD</l1074>
+	<l1075>PAGBABAYAD</l1075>
+	<l1076>DAHIL</l1076>
+	<l1077>customer Display</l1077>
+	<l1078>item Display</l1078>
+	<l1079>invoice List</l1079>
+	<l1080>mula sa</l1080>
+	<l1081>sa</l1081>
+	<l1082>SHIPPING ADDRESS</l1082>
+	<l1083>BILLING ADDRESS</l1083>
+	<l1084>KOMENTARYO</l1084>
+	<l1085>pangalan</l1085>
+	<l1086>pagbili</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>Listahan ng pagbili</l1088>
+	<l1089>Sales Return</l1089>
+	<l1090>Listahan ng mga benta Item</l1090>
+	<l1091>Return List Item</l1091>
+	<l1092>pagbili Return</l1092>
+	<l1093>Pagbili List Item</l1093>
+	<l1094>koleksyon</l1094>
+	<l1095>Kabuuang Due</l1095>
+	<l1096>Sales Date</l1096>
+	<l1097>Nabenta Sa pamamagitan ng</l1097>
+	<l1098>pagbabayad</l1098>
+	<l1099>Petsa ng Pagbili</l1099>
+	<l1100>Petsa ng Pagbabayad</l1100>
+	<l1101>Bumili No</l1101>
+	<l1102>Impormasyon ng Empleyado</l1102>
+	<l1103>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang mga talaan ng empleyado:</l1103>
+	<l1104>empleyado Pangalan</l1104>
+	<l1105>paghirang</l1105>
+	<l1106>pagdalo</l1106>
+	<l1107>Mano-manong pagpasok ng data entry form</l1107>
+	<l1108>pagdalo Date</l1108>
+	<l1109>katayuan</l1109>
+	<l1110>kasalukuyan</l1110>
+	<l1111>wala</l1111>
+	<l1112>remarks</l1112>
+	<l1113>empleyado Pagbabayad</l1113>
+	<l1114>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang mga talaan ng empleyado sa pagbabayad:</l1114>
+	<l1115>paglalarawan</l1115>
+	<l1116>Bayad na Halaga</l1116>
+	<l1117>gastos</l1117>
+	<l1118>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili Gastos</l1118>
+	<l1119>paggasta Account</l1119>
+	<l1120>Paid Date</l1120>
+	<l1121>bagay</l1121>
+	<l1122>Lahat ng mga item sa listahan</l1122>
+	<l1123>Paghahanap sa pamamagitan ng Group</l1123>
+	<l1124>stock</l1124>
+	<l1125>Paghahanap sa pamamagitan Warehouse</l1125>
+	<l1126>Paghahanap sa pamamagitan ng Shelf</l1126>
+	<l1127>Pagbebenta</l1127>
+	<l1128>Ngayong Araw</l1128>
+	<l1129>Gamitin Criteria ................</l1129>
+	<l1130>Paghahanap sa pamamagitan ng POS</l1130>
+	<l1131>Paghahanap sa pamamagitan ng QuickSale</l1131>
+	<l1132>Best Product Sale</l1132>
+	<l1133>Paghahanap sa pamamagitan ng Customer</l1133>
+	<l1134>Paghahanap sa pamamagitan ng Item</l1134>
+	<l1135>pagbili</l1135>
+	<l1136>Paghahanap sa pamamagitan ng Petsa</l1136>
+	<l1137>Paghahanap sa pamamagitan ng Supplier</l1137>
+	<l1138>pagbabalik</l1138>
+	<l1139>benta Return ngayong araw</l1139>
+	<l1140>pagbili Return ngayong araw</l1140>
+	<l1141>Search benta Return ayon sa petsa</l1141>
+	<l1142>Search pagbili Return ayon sa petsa</l1142>
+	<l1143>Search benta Return pamamagitan ng item</l1143>
+	<l1144>Search pagbili Return pamamagitan ng item</l1144>
+	<l1145>kredito</l1145>
+	<l1146>collection ngayong araw</l1146>
+	<l1147>pagbabayad ngayong araw</l1147>
+	<l1148>koleksyon ng paghahanap sa pamamagitan ng petsa</l1148>
+	<l1149>Maghanap ng pagbabayad sa pamamagitan ng petsa</l1149>
+	<l1150>Paghahanap sa pamamagitan ng Supplier</l1150>
+	<l1151>Empleado</l1151>
+	<l1152>Listahan ng empleyado</l1152>
+	<l1153>Search pagdalo sa pamamagitan ng petsa</l1153>
+	<l1154>Maghanap ng pagbabayad sa pamamagitan ng petsa</l1154>
+	<l1155>Maghanap ng empleyado sa pagbabayad sa pamamagitan ng petsa</l1155>
+	<l1156>gastos</l1156>
+	<l1157>Hanapan ang gastos sa pamamagitan ng petsa</l1157>
+	<l1158>Mga Setting ng User</l1158>
+	<l1159>Lumikha ng mga gumagamit (pagkakaroon ng iba't ibang pribilehiyo)</l1159>
+	<l1160>Pangalan ng User</l1160>
+	<l1161>Buong pangalan</l1161>
+	<l1162>password</l1162>
+	<l1163>Ipasok muli ang password</l1163>
+	<l1164>pribilehiyo</l1164>
+	<l1165>Karapatang User</l1165>
+	<l1166>ADD</l1166>
+	<l1167>NAGBAGO</l1167>
+	<l1168>BURAHIN</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Factory Data I-reset</l1170>
+	<l1171>Gamitin ang module na ito sa napaka-maingat. Kung ang mga database ay i-reset, pagkatapos ay ang nakaraang data ay hindi maaaring nakuhang muli papaano mang paraan.</l1171>
+	<l1172>grupo</l1172>
+	<l1173>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang item group.</l1173>
+	<l1174>Pangalan ng grupo</l1174>
+	<l1175>paggasta Account</l1175>
+	<l1176>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang paggasta Account:</l1176>
+	<l1177>Pangalan ng account</l1177>
+	<l1178>Tandaan mo ako</l1178>
+	<l1179>Palitan ANG password</l1179>
+	<l1180>Naglalaman ito ng mga sumusunod na mga patlang upang mapanatili ang palitan ang password:</l1180>
+	<l1181>kasalukuyang Password</l1181>
+	<l1182>ID</l1182>
+	<l1183>presyo</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>MAGBAYAD ID</l1185>
+	<l1186>Petsa ng pagpaparehistro</l1186>
+	<l1187>customer ID</l1187>
+	<l1188>supplier ID</l1188>
+	<l1189>Walang pahintulot.</l1189>
+	<l1190>Impormasyon ay matagumpay na nai-save.</l1190>
+	<l1191>Impormasyon Matagumpay na na-update.</l1191>
+	<l1192>Impormasyon ay matagumpay na natanggal.</l1192>
+	<l1193>Walang data na natagpuan</l1193>
+	<l1194>Ang produktong ito ay naidagdag sa Stock.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>KITA</l1196>
+	<l1197>TUNTUNIN AT KUNDISYON</l1197>
+	<l1198>Ang lahat ng mga kalakal ay bumalik para sa kapalit na dapat na nasa mabili kondisyon na may orihinal na packing.</l1198>
+	<l1199>Kami ay hindi mananagot para sa anumang sasakyan pinsala pagkawala o tulo.</l1199>
+	<l1200>Shipping Address</l1200>
+	<l1201>billing Address</l1201>
+	<l1202>Ipinahintulot na lagda</l1202>
+	<l1203>Comments</l1203>
+	<l1204>GROSS PRICE</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>TOTAL PRICE</l1206>
+	<l1207>UNIT VAT</l1207>
+	<l1208>TOTAL VAT</l1208>
+	<l1209>TAX INVOICE</l1209>
+	<l1210>KALAKAL ISANG BESES SOLD HINDI ISAULI OR EXCHANGE.</l1210>
+</language>

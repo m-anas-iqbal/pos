@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Waxaan baadhayaa aad riyo by bixinta xal fiican</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>DHOW</ctrlClose>
+	<ctrlAlter>doorin</ctrlAlter>
+	<ctrlDelete>tirtirto</ctrlDelete>
+	<ctrlReset>dib u celi</ctrlReset>
+	<ctrlRefresh>Refresh</ctrlRefresh>
+	<ctrlBrowsePhoto>Browse Photo</ctrlBrowsePhoto>
+	<ctrlPreview>FALANQEYNTA</ctrlPreview>
+	<ctrlRemoveAll>FUR ALL</ctrlRemoveAll>
+	<ctrlSearch>GOOBIDDA</ctrlSearch>
+	<ctrlComplete>BUUXI</ctrlComplete>
+	<ctrlNew>CUSUB</ctrlNew>
+	<ctrlPrint>QOR</ctrlPrint>
+	<ctrlShipping>SHIPPING IYO BIILASHA</ctrlShipping>
+	<ctrlAdd>DAR</ctrlAdd>
+	<ctrlSaveOnly>SAVE KELIYA</ctrlSaveOnly>
+	<ctrlDeleteAll>tirtirto dhammaan</ctrlDeleteAll>
+	<ctrlCollect>Ururi</ctrlCollect>
+	<ctrlRefund>soo celiyo</ctrlRefund>
+	<ctrlLogin>login</ctrlLogin>
+	<lnkChangePassword>BADALIDA LAMBARKA SIRTA AH</lnkChangePassword>
+	<btnSetUp>Mudanayaasha</btnSetUp>
+	<btnItem>shayga</btnItem>
+	<btnStock>stock</btnStock>
+	<btnSale>GADIDDA</btnSale>
+	<btnPurchase>IIBSIGA</btnPurchase>
+	<btnReturn>NOQOSHADDA</btnReturn>
+	<btnCredit>DHIBCAHA</btnCredit>
+	<btnEmployee>SHAQAALAHA</btnEmployee>
+	<btnExpense>KHARASHKA</btnExpense>
+	<btnReport>WARBIXINTA</btnReport>
+	<btnAdmin>admin</btnAdmin>
+	<btnTools>QALAB</btnTools>
+	<linkLogOut>KA BAX</linkLogOut>
+	<tsmlBusinessInformation>Macluumaadka Ganacsiga</tsmlBusinessInformation>
+	<tsmlCustomer>Customer</tsmlCustomer>
+	<tsmlSupplier>alaab-</tsmlSupplier>
+	<tsmlVAT>VAT</tsmlVAT>
+	<tsmlWareHouse>Bakhaar</tsmlWareHouse>
+	<tsmlShelf>shelf</tsmlShelf>
+	<tsmlItemInformation>Information item</tsmlItemInformation>
+	<tsmlListOfItem>List Of Item</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>stock</tsmlStock>
+	<tsmlExpiredItem>Item dhacay</tsmlExpiredItem>
+	<tsmlBadStock>Stock Bad</tsmlBadStock>
+	<tsmlStockTransfer>Transfer stock</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point ee sale</tsmlPOS>
+	<tsmlInvoiceList>List Invoice</tsmlInvoiceList>
+	<tsmlPurchase>Iibso</tsmlPurchase>
+	<tsmlPurchaseList>List Iibso</tsmlPurchaseList>
+	<tsmlSalesReturn>Return Sales</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Return Iibso</tsmlPurchaseReturn>
+	<tsmlCreditSale>Sale credit</tsmlCreditSale>
+	<tsmlCreditPurchase>Iibso credit</tsmlCreditPurchase>
+	<tsmlEmployee>shaqaalaha</tsmlEmployee>
+	<tsmlAttendance>Imaanshaha</tsmlAttendance>
+	<tsmlEmployeeSalary>Mushaarka shaqaalaha</tsmlEmployeeSalary>
+	<tsmlItemReport>Items</tsmlItemReport>
+	<tsmlStockReport>stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>Iibso</tsmlPurchaseReport>
+	<tsmlReturnReport>Return</tsmlReturnReport>
+	<tsmlCreditReport>credit</tsmlCreditReport>
+	<tsmlEmployeeReport>shaqaalaha</tsmlEmployeeReport>
+	<tsmlExpenseReport>Kharashyada</tsmlExpenseReport>
+	<tsmlLanguage>Language</tsmlLanguage>
+	<tsmlResetDB>Database keddibna</tsmlResetDB>
+	<l1000>Macluumaadka Ganacsiga</l1000>
+	<l1001>waxaa loo baahan yahay inaad buuxiso faahfaahintan soo socota ee shirkadda:</l1001>
+	<l1002>Company Name</l1002>
+	<l1003>Name Legal</l1003>
+	<l1004>Address</l1004>
+	<l1005>Phone</l1005>
+	<l1006>email</l1006>
+	<l1007>website</l1007>
+	<l1008>dhigyo</l1008>
+	<l1009>Information Customer</l1009>
+	<l1010>Si macaamiishii imaan: Fadlan buuxi foomkan si buuxda intii suurtogal ah.</l1010>
+	<l1011>Magaca Customer</l1011>
+	<l1014>furitaanka Taariikhda</l1014>
+	<l1015>Balance</l1015>
+	<l1016>Information alaab-</l1016>
+	<l1017>Si loogu Doonaanta: Fadlan buuxi foomkan si buuxda intii suurtogal ah</l1017>
+	<l1018>-qeybiyaha Name</l1018>
+	<l1019>VAT</l1019>
+	<l1020>Tax waxaa lagu qeexi karaa boqolkiiba lacagta</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Bakhaar</l1022>
+	<l1023>Waxaa ku jira meelaha soo socda in bakhaar</l1023>
+	<l1024>Warehouse Name</l1024>
+	<l1025>shelf</l1025>
+	<l1026>Waxaa ku jira beeraha soo socda si ay u ilaaliyaan shelf:</l1026>
+	<l1027>Name shelf</l1027>
+	<l1028>Information item</l1028>
+	<l1029>waxaa loo baahan yahay inaad buuxiso faahfaahintan soo socota ee shayga:</l1029>
+	<l1030>item Name</l1030>
+	<l1031>Unit</l1031>
+	<l1032>Dufcaddii</l1032>
+	<l1033>Group Name</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Auto dhalin barcode</l1035>
+	<l1036>VAT Khusayso</l1036>
+	<l1037>Qiimaha gadashada</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>Reorder Point</l1039>
+	<l1040>Warehouse default</l1040>
+	<l1041>Stock furan</l1041>
+	<l1042>Bakhaar</l1042>
+	<l1043>shelf</l1043>
+	<l1044>Unit furitaanka</l1044>
+	<l1045>taariikhda uu dhacayo An</l1045>
+	<l1046>taariikhda dhicitaanka</l1046>
+	<l1047>List of Item</l1047>
+	<l1048>Si ay u badalaan ama tirtirto, double-riix macluumaad shayga.</l1048>
+	<l1049>Import Item ka Excel</l1049>
+	<l1050>file .xlsx u dajiyaan karaa in Oriyon.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Waxaad ka daabacan kartaa sicirada sida ay baahidaada</l1052>
+	<l1053>tirada</l1053>
+	<l1054>Waxaa ka mid ah magaca shirkada</l1054>
+	<l1055>stock</l1055>
+	<l1056>Si aad u bedesho ama tirtirto, laba jeer riix nambarka xisaabta.</l1056>
+	<l1057>Inventory dhacay</l1057>
+	<l1058>Transfer stock</l1058>
+	<l1059>Si aad u tirtirto, double-riix macluumaad shayga.</l1059>
+	<l1060>From Warehouse</l1060>
+	<l1061>Si Warehouse</l1061>
+	<l1062>sababta</l1062>
+	<l1063>Transfer Taariikhda</l1063>
+	<l1064>Inventory dhacay</l1064>
+	<l1065>Taariikhda</l1065>
+	<l1066>qaansheegta canshuurta</l1066>
+	<l1067>qaansheegta NO</l1067>
+	<l1068>WADAR</l1068>
+	<l1069>VAT</l1069>
+	<l1070>dhimis</l1070>
+	<l1071>WADARTA</l1071>
+	<l1072>BY</l1072>
+	<l1073>LACAGTA</l1073>
+	<l1074>KAARKA</l1074>
+	<l1075>BIXINTA</l1075>
+	<l1076>SUUBAN</l1076>
+	<l1077>Display Customer</l1077>
+	<l1078>Display item</l1078>
+	<l1079>List Invoice</l1079>
+	<l1080>From</l1080>
+	<l1081>Si aad u</l1081>
+	<l1082>CINWAANKA SHIPPING</l1082>
+	<l1083>CINWAANKA BIILASHA</l1083>
+	<l1084>COMMENTS</l1084>
+	<l1085>magaca</l1085>
+	<l1086>Iibso</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>List Iibso</l1088>
+	<l1089>Return Sales</l1089>
+	<l1090>List Sales Item</l1090>
+	<l1091>List Item noqo</l1091>
+	<l1092>Return Iibso</l1092>
+	<l1093>Iibso List Item</l1093>
+	<l1094>Collection</l1094>
+	<l1095>Total Sababo</l1095>
+	<l1096>Sales Taariikhda</l1096>
+	<l1097>iibin By</l1097>
+	<l1098>Payment</l1098>
+	<l1099>Iibso Taariikhda</l1099>
+	<l1100>Payment Taariikhda</l1100>
+	<l1101>iibsato No</l1101>
+	<l1102>Information Employee</l1102>
+	<l1103>Waxaa ku jira meelaha soo socda si ay u ilaaliyaan diiwaannada shaqaalaha:</l1103>
+	<l1104>shaqaalaha Name</l1104>
+	<l1105>Qoondeeyey</l1105>
+	<l1106>Imaanshaha</l1106>
+	<l1107>foomka xogta imaanshaha Manual</l1107>
+	<l1108>Imaanshaha Taariikhda</l1108>
+	<l1109>Status</l1109>
+	<l1110>goobjoog</l1110>
+	<l1111>Maqan</l1111>
+	<l1112>aflagaada</l1112>
+	<l1113>shaqaalaha Payment</l1113>
+	<l1114>Waxaa ku jira beeraha soo socda si ay u ilaaliyaan diiwaannada lacag bixinta shaqaalaha:</l1114>
+	<l1115>Description</l1115>
+	<l1116>Lacagta La Bixiye</l1116>
+	<l1117>kharashka</l1117>
+	<l1118>Waxaa ku jira meelaha soo socda si ay u ilaaliyaan Kharashka</l1118>
+	<l1119>Account kharashka</l1119>
+	<l1120>Taariikhda Bixiyay</l1120>
+	<l1121>shayga</l1121>
+	<l1122>Dhammaan liiska item</l1122>
+	<l1123>Search by Group</l1123>
+	<l1124>stock</l1124>
+	<l1125>Search by Warehouse</l1125>
+	<l1126>Search by Mudada</l1126>
+	<l1127>sale</l1127>
+	<l1128>maanta</l1128>
+	<l1129>Isticmaal Shuruudaha ................</l1129>
+	<l1130>Search by POS</l1130>
+	<l1131>Search by QuickSale</l1131>
+	<l1132>Best Sale Product</l1132>
+	<l1133>Search by Macaamiisha</l1133>
+	<l1134>Search by Item</l1134>
+	<l1135>Iibso</l1135>
+	<l1136>Search by Date</l1136>
+	<l1137>Search by qeybiye</l1137>
+	<l1138>Return</l1138>
+	<l1139>Return iibka Maanta</l1139>
+	<l1140>Return gadashada Maanta</l1140>
+	<l1141>Return Search iibka taariikhda</l1141>
+	<l1142>Search Return iibsiga taariikhda</l1142>
+	<l1143>Return Search iibka by item</l1143>
+	<l1144>Search Return iibsiga by item</l1144>
+	<l1145>credit</l1145>
+	<l1146>ururinta Maanta</l1146>
+	<l1147>bixinta maanta</l1147>
+	<l1148>Search ururinta taariikhda</l1148>
+	<l1149>bixinta Search by taariikhda</l1149>
+	<l1150>Search by qeybiye</l1150>
+	<l1151>shaqaalaha</l1151>
+	<l1152>Liiska shaqaalaha</l1152>
+	<l1153>Search imaanshaha taariikhda</l1153>
+	<l1154>bixinta Search by taariikhda</l1154>
+	<l1155>bixinta shaqaalaha Search by taariikhda</l1155>
+	<l1156>kharashka</l1156>
+	<l1157>Raadi kharashka by taariikhda</l1157>
+	<l1158>Settings user</l1158>
+	<l1159>Abuur users (isagoo mudnaanta kala duwan)</l1159>
+	<l1160>user Name</l1160>
+	<l1161>Magaca buuxa</l1161>
+	<l1162>password</l1162>
+	<l1163>Mar kale gali eraygaaga sir ta ah</l1163>
+	<l1164>mudnaan</l1164>
+	<l1165>Xuquuqda user</l1165>
+	<l1166>DAR</l1166>
+	<l1167>BADDALAYO</l1167>
+	<l1168>tirtirto</l1168>
+	<l1169>QOR</l1169>
+	<l1170>Data Factory Warbixannada</l1170>
+	<l1171>Isticmaal module la aad si taxadir leh. Haddii database waa keddibna, ka dibna xogta hore oo aan la soo kabsaday si walba kara.</l1171>
+	<l1172>Koox</l1172>
+	<l1173>Waxaa ku jira meelaha soo socda si ay u ilaaliyaan group item.</l1173>
+	<l1174>Group Name</l1174>
+	<l1175>Account kharashka</l1175>
+	<l1176>Waxaa ku jira beeraha soo socda si ay u ilaaliyaan Account Kharashka:</l1176>
+	<l1177>account Name</l1177>
+	<l1178>ee i xusa</l1178>
+	<l1179>Badalida Lambarka sirta ah</l1179>
+	<l1180>Waxaa ku jira beeraha soo socda si ay u ilaaliyaan isbedel password:</l1180>
+	<l1181>Magaca Sirta Hadda</l1181>
+	<l1182>aqoonsi</l1182>
+	<l1183>Qiimo</l1183>
+	<l1184>Terminaalka</l1184>
+	<l1185>BIXIN ID</l1185>
+	<l1186>Diiwaangelinta Taariikhda</l1186>
+	<l1187>Qofka macaamilka aqoonsiga</l1187>
+	<l1188>ID-qeybiyaha</l1188>
+	<l1189>ogolaansho No.</l1189>
+	<l1190>Information ayaa badbaadiyey guul leh.</l1190>
+	<l1191>Information ayaa la casriyeeyay si guul leh.</l1191>
+	<l1192>Macluumaadka la tirtiray si guul leh.</l1192>
+	<l1193>data No helay</l1193>
+	<l1194>wax soo saarka Taas ayaa horay lagu daray Stock ah.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>faa'iido u</l1196>
+	<l1197>ERAYADA IYO CONDITION</l1197>
+	<l1198>Dhammaan alaabta soo laabtay bedelka waa in ay xaalad iibsami la xirxirida asalka ah.</l1198>
+	<l1199>Waxaan masuul ka ah wax kasta oo waxyeello transit khasaare ama baxsiga ma aha.</l1199>
+	<l1200>Shipping Address</l1200>
+	<l1201>Billing Address</l1201>
+	<l1202>Saxiixa idman</l1202>
+	<l1203>Comments</l1203>
+	<l1204>PRICE GUUD</l1204>
+	<l1205>CUTUBKA</l1205>
+	<l1206>WADARTA PRICE</l1206>
+	<l1207>VAT CUTUB</l1207>
+	<l1208>WADARTA VAT</l1208>
+	<l1209>qaansheegta canshuurta</l1209>
+	<l1210>Alaabta MARKAY IIBIYAY KARAA loo soo Celinayn AMA ISWAYDAARSI.</l1210>
+</language>

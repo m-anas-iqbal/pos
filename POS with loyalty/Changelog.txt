@@ -1,0 +1,36 @@
++ 23 February 19
+Version        : 1.3.1.0
+NEW            : Search Item using criteria and parameter -- List of Item
+NEW            : Search Stock Item using criteria and parameter -- Stock
+NEW            : Search Customer Information using criteria and parameter -- Customer
+NEW            : Search Supplier Information using criteria and parameter -- Supplier
+NEW            : Search Employee Information using criteria and parameter -- Employee
+NEW            : Export to Excel -- List of Item
+NEW            : Export to Excel -- List of Stock Item
+NEW            : Add business logo -- Business Information
+NEW            : Your logo on Sales Receipt
+NEW            : Customer name & phone number On Sales Receipt
+NEW            : Discount using the percent - POS
+FIX            : Print receipt after completing sale. - POS
+FIX            : Total price decimal place - POS & TAX Invoice
+FIX            : Error: conversion failed when converting the varchar value -- Shipping Details
+NEW            : ** RTL version available [V: 1.3.2.0]
+----------------------------------------------
++ 06 December 18
+Version        : 1.2.1.0
+FIX            : Opening balance for supplier [Payment]
+FIX            : Opening balance for customer [Collection]
+NEW            : Input Customer ID on POS Screen
+----------------------------------------------
++ 29 October 18
+Version        : 1.1.1.0
+FIX            : Decimal place on POS Window
+FIX            : Decimal place on TAX Invoice
+FIX            : Automatic printing after the end of the sale
+NEW            : Keyboard Shortcuts - Complete, Save, New, Print, Closed
+NEW            : Item ComboBox on POS Screen
+Upgrade        : Language all Pack
+Upgrade        : Language Pack (Amharic.xml)
+----------------------------------------------
+Initial release:   9 October 18 
+Version        :   1.1.0.0

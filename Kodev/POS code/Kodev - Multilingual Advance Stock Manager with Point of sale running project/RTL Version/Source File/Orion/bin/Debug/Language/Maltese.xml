@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Aħna jesplora ħolma tiegħek billi jipprovdu l-aħjar soluzzjoni</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>qRIB</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>Ħassar</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>Riffriskar</ctrlRefresh>
+	<ctrlBrowsePhoto>jibbrawżjaw ritratti</ctrlBrowsePhoto>
+	<ctrlPreview>Preview</ctrlPreview>
+	<ctrlRemoveAll>TNEĦĦIJA KOLLHA</ctrlRemoveAll>
+	<ctrlSearch>FITTEX</ctrlSearch>
+	<ctrlComplete>KOMPLUTA</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>ISTAMPAR</ctrlPrint>
+	<ctrlShipping>SHIPPING U Billing</ctrlShipping>
+	<ctrlAdd>ADD</ctrlAdd>
+	<ctrlSaveOnly>SAVE BISS</ctrlSaveOnly>
+	<ctrlDeleteAll>Ħassar KOLLHA</ctrlDeleteAll>
+	<ctrlCollect>Iġbor</ctrlCollect>
+	<ctrlRefund>RIFUŻJONI</ctrlRefund>
+	<ctrlLogin>IDĦOL</ctrlLogin>
+	<lnkChangePassword>BIDDEL IL-PASSWORD</lnkChangePassword>
+	<btnSetUp>SETUP</btnSetUp>
+	<btnItem>PUNT</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>BEJGĦ</btnSale>
+	<btnPurchase>XIRI</btnPurchase>
+	<btnReturn>RITORN</btnReturn>
+	<btnCredit>KREDITU</btnCredit>
+	<btnEmployee>IMPJEGAT</btnEmployee>
+	<btnExpense>spiża</btnExpense>
+	<btnReport>RAPPORT</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>GĦODOD</btnTools>
+	<linkLogOut>OĦROĠ</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>klijent</tsmlCustomer>
+	<tsmlSupplier>fornitur</tsmlSupplier>
+	<tsmlVAT>-VAT</tsmlVAT>
+	<tsmlWareHouse>Warehouse</tsmlWareHouse>
+	<tsmlShelf>blata</tsmlShelf>
+	<tsmlItemInformation>Punt Informazzjoni</tsmlItemInformation>
+	<tsmlListOfItem>Lista Ta Punt</tsmlListOfItem>
+	<tsmlImport>Importa</tsmlImport>
+	<tsmlBarcode>barcode</tsmlBarcode>
+	<tsmlStock>istokk</tsmlStock>
+	<tsmlExpiredItem>Punt skada</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>istokk Trasferiment</tsmlStockTransfer>
+	<tsmlSales>bejgħ</tsmlSales>
+	<tsmlPOS>Punt ta 'bejgħ</tsmlPOS>
+	<tsmlInvoiceList>Lista fattura</tsmlInvoiceList>
+	<tsmlPurchase>xiri</tsmlPurchase>
+	<tsmlPurchaseList>Lista xiri</tsmlPurchaseList>
+	<tsmlSalesReturn>bejgħ Ritorn</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Ritorn xiri</tsmlPurchaseReturn>
+	<tsmlCreditSale>Bejgħ kreditu</tsmlCreditSale>
+	<tsmlCreditPurchase>Xiri kreditu</tsmlCreditPurchase>
+	<tsmlEmployee>impjegat</tsmlEmployee>
+	<tsmlAttendance>attendenza</tsmlAttendance>
+	<tsmlEmployeeSalary>impjegat Salarju</tsmlEmployeeSalary>
+	<tsmlItemReport>Punti</tsmlItemReport>
+	<tsmlStockReport>istokk</tsmlStockReport>
+	<tsmlSalesReport>bejgħ</tsmlSalesReport>
+	<tsmlPurchaseReport>xiri</tsmlPurchaseReport>
+	<tsmlReturnReport>ritorn</tsmlReturnReport>
+	<tsmlCreditReport>kreditu</tsmlCreditReport>
+	<tsmlEmployeeReport>impjegat</tsmlEmployeeReport>
+	<tsmlExpenseReport>spejjeż</tsmlExpenseReport>
+	<tsmlLanguage>lingwa</tsmlLanguage>
+	<tsmlResetDB>Database Irrisettja</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>Inti mitlub li jimlew id-dettalji li ġejjin tal-Kumpanija:</l1001>
+	<l1002>Isem tal-Kumpanija</l1002>
+	<l1003>Isem legali</l1003>
+	<l1004>indirizz</l1004>
+	<l1005>phone</l1005>
+	<l1006>email</l1006>
+	<l1007>website</l1007>
+	<l1008>slogan</l1008>
+	<l1009>klijent Informazzjoni</l1009>
+	<l1010>Biex Klijenti prospettivi: Jekk jogħġbok imla din il-formola kompletament kemm jista 'jkun.</l1010>
+	<l1011>klijent Isem</l1011>
+	<l1014>ftuħ Data</l1014>
+	<l1015>bilanċ</l1015>
+	<l1016>fornitur Informazzjoni</l1016>
+	<l1017>Biex Fornituri prospettivi: Jekk jogħġbok imla din il-formola jkun kompletament malajr</l1017>
+	<l1018>fornitur Isem</l1018>
+	<l1019>-VAT</l1019>
+	<l1020>Taxxa jista 'jiġi definit bħala l-persentaġġ ta' flus</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Warehouse</l1022>
+	<l1023>Hija fih il-fields li ġejjin lill-maħżen</l1023>
+	<l1024>maħżen Isem</l1024>
+	<l1025>blata</l1025>
+	<l1026>Hija fih il-fields li ġejjin biex jinżamm fuq l-ixkaffa:</l1026>
+	<l1027>Isem blata</l1027>
+	<l1028>Punt Informazzjoni</l1028>
+	<l1029>Inti mitlub li jimlew id-dettalji li ġejjin tal-oġġett:</l1029>
+	<l1030>Punt Isem</l1030>
+	<l1031>unità</l1031>
+	<l1032>lott</l1032>
+	<l1033>grupp Isem</l1033>
+	<l1034>barcode</l1034>
+	<l1035>Auto jiġġeneraw barcode</l1035>
+	<l1036>-VAT applikabbli</l1036>
+	<l1037>xiri ispiża</l1037>
+	<l1038>bejgħ Prezz</l1038>
+	<l1039>ordni mill-ġdid Punt</l1039>
+	<l1040>Maħżen default</l1040>
+	<l1041>ftuħ Stock</l1041>
+	<l1042>Warehouse</l1042>
+	<l1043>blata</l1043>
+	<l1044>Unità ftuħ</l1044>
+	<l1045>Data ta 'skadenza</l1045>
+	<l1046>Data ta 'skadenza</l1046>
+	<l1047>Lista ta 'Punt</l1047>
+	<l1048>Li jibdel jew iħassar, double-click fuq l-informazzjoni oġġett.</l1048>
+	<l1049>Importazzjoni Oġġett mill-Excel</l1049>
+	<l1050>fajl .xlsx jistgħu jimportaw fil Orion.</l1050>
+	<l1051>barcode</l1051>
+	<l1052>Tista 'tipprintja barcodes skond il-bżonnijiet tiegħek</l1052>
+	<l1053>kwantità</l1053>
+	<l1054>Jinkludi l-isem il-kumpanija</l1054>
+	<l1055>istokk</l1055>
+	<l1056>Biex tbiddel jew tħassar, ikklikkja darbtejn fuq in-numru tal-fattura.</l1056>
+	<l1057>Inventarju skada</l1057>
+	<l1058>istokk Trasferiment</l1058>
+	<l1059>Biex tħassar, double-click fuq l-informazzjoni oġġett.</l1059>
+	<l1060>mill Warehouse</l1060>
+	<l1061>biex Warehouse</l1061>
+	<l1062>raġuni</l1062>
+	<l1063>trasferiment Data</l1063>
+	<l1064>Inventarju skada</l1064>
+	<l1065>data</l1065>
+	<l1066>FATTURA TAXXA</l1066>
+	<l1067>FATTURA LE</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>-VAT</l1069>
+	<l1070>DISCOUNT</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>MILL</l1072>
+	<l1073>FLUS</l1073>
+	<l1074>CARD</l1074>
+	<l1075>ĦLAS</l1075>
+	<l1076>MINĦABBA</l1076>
+	<l1077>klijent Display</l1077>
+	<l1078>Punt Display</l1078>
+	<l1079>Lista fattura</l1079>
+	<l1080>mill</l1080>
+	<l1081>biex</l1081>
+	<l1082>SHIPPING INDIRIZZ</l1082>
+	<l1083>INDIRIZZ Billing</l1083>
+	<l1084>KUMMENTI</l1084>
+	<l1085>isem</l1085>
+	<l1086>xiri</l1086>
+	<l1087>Gran totali</l1087>
+	<l1088>Lista xiri</l1088>
+	<l1089>bejgħ Ritorn</l1089>
+	<l1090>Bejgħ Punt Lista</l1090>
+	<l1091>Ritorn Punt Lista</l1091>
+	<l1092>Ritorn xiri</l1092>
+	<l1093>Xiri Punt Lista</l1093>
+	<l1094>ġbir</l1094>
+	<l1095>total Minħabba</l1095>
+	<l1096>bejgħ Data</l1096>
+	<l1097>mibjugħa Billi</l1097>
+	<l1098>Ħlas</l1098>
+	<l1099>xiri Data</l1099>
+	<l1100>ħlas Data</l1100>
+	<l1101>xiri Nru</l1101>
+	<l1102>impjegat Informazzjoni</l1102>
+	<l1103>Hija fih il-fields li ġejjin biex jinżamm rekords impjegat:</l1103>
+	<l1104>impjegat Isem</l1104>
+	<l1105>deżinjazzjoni</l1105>
+	<l1106>attendenza</l1106>
+	<l1107>Manwal attendenza formola tad-dħul tad-data</l1107>
+	<l1108>attendenza Data</l1108>
+	<l1109>istatus</l1109>
+	<l1110>Rigal</l1110>
+	<l1111>assenti</l1111>
+	<l1112>rimarki</l1112>
+	<l1113>impjegat Ħlas</l1113>
+	<l1114>Hija fih il-fields li ġejjin biex iżommu rekords ta 'ħlas impjegat:</l1114>
+	<l1115>deskrizzjoni</l1115>
+	<l1116>Ammont imħallas</l1116>
+	<l1117>Expense</l1117>
+	<l1118>Hija fih il-fields li ġejjin biex jinżamm Expense</l1118>
+	<l1119>Kont nefqa</l1119>
+	<l1120>Data mħallsa</l1120>
+	<l1121>Punt</l1121>
+	<l1122>Kollha lista ta 'loġġetti</l1122>
+	<l1123>Fittex skond Grupp</l1123>
+	<l1124>istokk</l1124>
+	<l1125>Fittex skond Warehouse</l1125>
+	<l1126>Fittex skond Blata</l1126>
+	<l1127>bejgħ</l1127>
+	<l1128>lum</l1128>
+	<l1129>Użu Kriterji ................</l1129>
+	<l1130>Fittex skond POS</l1130>
+	<l1131>Fittex skond QuickSale</l1131>
+	<l1132>Aħjar Bejgħ Prodott</l1132>
+	<l1133>Fittex skond Klijent</l1133>
+	<l1134>Fittex skond Punt</l1134>
+	<l1135>xiri</l1135>
+	<l1136>Fittex skond Data</l1136>
+	<l1137>Fittex skond Fornitur</l1137>
+	<l1138>ritorn</l1138>
+	<l1139>bejgħ tal-lum Ritorn</l1139>
+	<l1140>Lum Ritorn xiri</l1140>
+	<l1141>Fittex bejgħ Ritorn skond id-data</l1141>
+	<l1142>Fittex xiri Ritorn skond id-data</l1142>
+	<l1143>Fittex bejgħ Ir-ritorn bl-partita</l1143>
+	<l1144>Fittex xiri Ir-ritorn bl-partita</l1144>
+	<l1145>kreditu</l1145>
+	<l1146>ġbir tal-lum</l1146>
+	<l1147>ħlas tal-lum</l1147>
+	<l1148>ġbir Fittex skond id-data</l1148>
+	<l1149>ħlas Fittex skond id-data</l1149>
+	<l1150>Fittex skond Fornitur</l1150>
+	<l1151>impjegat</l1151>
+	<l1152>Lista impjegat</l1152>
+	<l1153>Fittex attendenza skond id-data</l1153>
+	<l1154>ħlas Fittex skond id-data</l1154>
+	<l1155>ħlas Fittex impjegat skond id-data</l1155>
+	<l1156>Expense</l1156>
+	<l1157>Fittex spejjeż skond id-data</l1157>
+	<l1158>utent Settings</l1158>
+	<l1159>Oħloq utenti (li privileġġi differenti)</l1159>
+	<l1160>user Name</l1160>
+	<l1161>Isem sħiħ</l1161>
+	<l1162>password</l1162>
+	<l1163>Erga 'ikteb il-password</l1163>
+	<l1164>privileġġ</l1164>
+	<l1165>Drittijiet utent</l1165>
+	<l1166>ADD</l1166>
+	<l1167>jimmodifikaw</l1167>
+	<l1168>Ħassar</l1168>
+	<l1169>ISTAMPAR</l1169>
+	<l1170>Irrisettja Factory Dejta</l1170>
+	<l1171>Uża dan il-modulu ma b'attenzjoni kbira. Jekk id-database huwa reset, imbagħad data preċedenti ma tistax tiġi rkuprata xorta.</l1171>
+	<l1172>grupp</l1172>
+	<l1173>Hija fih il-fields li ġejjin biex jinżamm grupp oġġett.</l1173>
+	<l1174>grupp Isem</l1174>
+	<l1175>Kont nefqa</l1175>
+	<l1176>Hija fih il-fields li ġejjin biex jinżamm kont Nefqa:</l1176>
+	<l1177>Isem tal-kont</l1177>
+	<l1178>Tiftakarni</l1178>
+	<l1179>Biddel il-password</l1179>
+	<l1180>Hija fih il-fields li ġejjin biex jinżamm il-password bidla:</l1180>
+	<l1181>Password attwali</l1181>
+	<l1182>ID</l1182>
+	<l1183>prezz</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>reġistrazzjoni Data</l1186>
+	<l1187>klijent ID</l1187>
+	<l1188>fornitur ID</l1188>
+	<l1189>Nru permess.</l1189>
+	<l1190>Informazzjoni tkun ġiet salvati b'suċċess.</l1190>
+	<l1191>Informazzjoni ġie aġġornat b'suċċess.</l1191>
+	<l1192>Informazzjoni tkun ġiet imħassra b'suċċess.</l1192>
+	<l1193>Ebda dejta misjuba</l1193>
+	<l1194>Dan il-prodott diġà ġie miżjud mal-iStock.</l1194>
+	<l1195>ĦIN</l1195>
+	<l1196>QLIGĦ</l1196>
+	<l1197>TERMINI U KONDIZZJONIJIET</l1197>
+	<l1198>Il-merkanzija kollha ritornati għas-sostituzzjoni għandhom ikunu f'kondizzjoni salable mal-ippakkjar oriġinali.</l1198>
+	<l1199>Aħna mhux responsabbli għal kwalunkwe telf ħsara transitu jew tnixxija.</l1199>
+	<l1200>Shipping Indirizz</l1200>
+	<l1201>Billing Indirizz</l1201>
+	<l1202>Firma awtorizzata</l1202>
+	<l1203>kummenti</l1203>
+	<l1204>PREZZ GROSS</l1204>
+	<l1205>UNITÀ</l1205>
+	<l1206>PREZZ TOTALI</l1206>
+	<l1207>UNITÀ VAT</l1207>
+	<l1208>TOTAL tal-VAT</l1208>
+	<l1209>FATTURA TAXXA</l1209>
+	<l1210>OĠĠETTI DARBA MIBJUGĦA ma tistax TRID TINTBAGĦAT LURA JEW SKAMBJU.</l1210>
+</language>

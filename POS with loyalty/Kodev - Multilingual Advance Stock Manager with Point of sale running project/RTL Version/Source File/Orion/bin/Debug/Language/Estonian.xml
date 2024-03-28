@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Me uurib oma unistuste andes parim lahendus</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>SULGE</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>DELETE</ctrlDelete>
+	<ctrlReset>RESET</ctrlReset>
+	<ctrlRefresh>REFRESH</ctrlRefresh>
+	<ctrlBrowsePhoto>Sirvi Foto</ctrlBrowsePhoto>
+	<ctrlPreview>EELVAADE</ctrlPreview>
+	<ctrlRemoveAll>EEMALDA KÕIK</ctrlRemoveAll>
+	<ctrlSearch>OTSING</ctrlSearch>
+	<ctrlComplete>TÄIELIK</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>SHIPPING ja arvete</ctrlShipping>
+	<ctrlAdd>LISAMA</ctrlAdd>
+	<ctrlSaveOnly>Ainult salvesta</ctrlSaveOnly>
+	<ctrlDeleteAll>KUSTUTADA KÕIK</ctrlDeleteAll>
+	<ctrlCollect>kogutakse</ctrlCollect>
+	<ctrlRefund>REFUND</ctrlRefund>
+	<ctrlLogin>LOGI SISSE</ctrlLogin>
+	<lnkChangePassword>MUUDA SALASÕNA</lnkChangePassword>
+	<btnSetUp>SETUP</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>SALE</btnSale>
+	<btnPurchase>OST</btnPurchase>
+	<btnReturn>RETURN</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>TÖÖTAJA</btnEmployee>
+	<btnExpense>KULU</btnExpense>
+	<btnReport>ARUANNE</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>TÖÖRIISTAD</btnTools>
+	<linkLogOut>LOGI VÄLJA</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>klient</tsmlCustomer>
+	<tsmlSupplier>tarnija</tsmlSupplier>
+	<tsmlVAT>KM</tsmlVAT>
+	<tsmlWareHouse>ladu</tsmlWareHouse>
+	<tsmlShelf>riiul</tsmlShelf>
+	<tsmlItemInformation>Oksjoni info</tsmlItemInformation>
+	<tsmlListOfItem>Loetelu punkti</tsmlListOfItem>
+	<tsmlImport>import</tsmlImport>
+	<tsmlBarcode>vöötkoodi</tsmlBarcode>
+	<tsmlStock>aktsia</tsmlStock>
+	<tsmlExpiredItem>aegunud Oksjoni</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>stock Transfer</tsmlStockTransfer>
+	<tsmlSales>käive</tsmlSales>
+	<tsmlPOS>Müügipunkt</tsmlPOS>
+	<tsmlInvoiceList>arve loetelu</tsmlInvoiceList>
+	<tsmlPurchase>ost</tsmlPurchase>
+	<tsmlPurchaseList>Ostu loetelu</tsmlPurchaseList>
+	<tsmlSalesReturn>Müügitulu</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Ostutagastus</tsmlPurchaseReturn>
+	<tsmlCreditSale>Credit Müük</tsmlCreditSale>
+	<tsmlCreditPurchase>krediidiost</tsmlCreditPurchase>
+	<tsmlEmployee>töötaja</tsmlEmployee>
+	<tsmlAttendance>kohalolek</tsmlAttendance>
+	<tsmlEmployeeSalary>töötaja palk</tsmlEmployeeSalary>
+	<tsmlItemReport>kirjed</tsmlItemReport>
+	<tsmlStockReport>aktsia</tsmlStockReport>
+	<tsmlSalesReport>käive</tsmlSalesReport>
+	<tsmlPurchaseReport>ost</tsmlPurchaseReport>
+	<tsmlReturnReport>tagastamine</tsmlReturnReport>
+	<tsmlCreditReport>krediit</tsmlCreditReport>
+	<tsmlEmployeeReport>töötaja</tsmlEmployeeReport>
+	<tsmlExpenseReport>kulud</tsmlExpenseReport>
+	<tsmlLanguage>keel</tsmlLanguage>
+	<tsmlResetDB>Nulli Database</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>Olete kohustatud täitma järgmisi üksikasju Firma:</l1001>
+	<l1002>Ettevõtte nimi</l1002>
+	<l1003>Ametlik nimi</l1003>
+	<l1004>aadress</l1004>
+	<l1005>telefon</l1005>
+	<l1006>Saatke</l1006>
+	<l1007>veebisait</l1007>
+	<l1008>loosung</l1008>
+	<l1009>Kliendi info</l1009>
+	<l1010>Tulevastele klientidele: Palun täitke see vorm võimalikult täielikult.</l1010>
+	<l1011>Kliendi nimi</l1011>
+	<l1014>avamise kuupäev</l1014>
+	<l1015>tasakaal</l1015>
+	<l1016>Pakkuja teave</l1016>
+	<l1017>Potentsiaalsetele Tarnijad: Palun täitke see vorm võimalikult täielikult</l1017>
+	<l1018>Tarnija nimi</l1018>
+	<l1019>KM</l1019>
+	<l1020>Maksu saab määratleda kui raha osakaal</l1020>
+	<l1021>Käibemaks (%)</l1021>
+	<l1022>ladu</l1022>
+	<l1023>See sisaldab järgmisi välju laost</l1023>
+	<l1024>ladu Nimi</l1024>
+	<l1025>riiul</l1025>
+	<l1026>See sisaldab järgmisi välju säilitada riiul:</l1026>
+	<l1027>riiul Nimi</l1027>
+	<l1028>Oksjoni info</l1028>
+	<l1029>Olete kohustatud täitma järgmisi üksikasju kirje:</l1029>
+	<l1030>Asja nimi</l1030>
+	<l1031>üksus</l1031>
+	<l1032>partii</l1032>
+	<l1033>Grupi nimi</l1033>
+	<l1034>vöötkoodi</l1034>
+	<l1035>Auto genereerida vöötkoodi</l1035>
+	<l1036>kohaldatav käibemaksumäär</l1036>
+	<l1037>ostukulu</l1037>
+	<l1038>müügihind</l1038>
+	<l1039>Järjestuse Point</l1039>
+	<l1040>vaikimisi Warehouse</l1040>
+	<l1041>algvaru</l1041>
+	<l1042>ladu</l1042>
+	<l1043>riiul</l1043>
+	<l1044>avamine Unit</l1044>
+	<l1045>Aegumiskuupäev</l1045>
+	<l1046>Kehtivusaeg</l1046>
+	<l1047>Nimekiri Oksjoni</l1047>
+	<l1048>Muuta või kustutada, topeltklõps üksuse teavet.</l1048>
+	<l1049>Import Punkt Excel</l1049>
+	<l1050>.xlsx faili saab importida seda Orion.</l1050>
+	<l1051>vöötkoodi</l1051>
+	<l1052>Saate printida vöötkoode vastavalt oma vajadustele</l1052>
+	<l1053>kogus</l1053>
+	<l1054>Kaasa ettevõtte nimi</l1054>
+	<l1055>aktsia</l1055>
+	<l1056>Muutmiseks või kustutamiseks topeltklõpsake arve numbrit.</l1056>
+	<l1057>aegunud Inventory</l1057>
+	<l1058>stock Transfer</l1058>
+	<l1059>Kustutada topeltklõps üksuse teavet.</l1059>
+	<l1060>alates Warehouse</l1060>
+	<l1061>Et Warehouse</l1061>
+	<l1062>põhjus</l1062>
+	<l1063>üleminekupäev</l1063>
+	<l1064>aegunud Inventory</l1064>
+	<l1065>kuupäev</l1065>
+	<l1066>maksuarve</l1066>
+	<l1067>Arve nr</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>KM</l1069>
+	<l1070>DISCOUNT</l1070>
+	<l1071>KOKKU</l1071>
+	<l1072>KÕRVAL</l1072>
+	<l1073>CASH</l1073>
+	<l1074>KAART</l1074>
+	<l1075>MAKSMINE</l1075>
+	<l1076>IGATI</l1076>
+	<l1077>Kliendi Display</l1077>
+	<l1078>Oksjoni Display</l1078>
+	<l1079>arve loetelu</l1079>
+	<l1080>pärit</l1080>
+	<l1081>et</l1081>
+	<l1082>KOHALETOIMETAMISE AADRESS</l1082>
+	<l1083>ARVE AADRESS</l1083>
+	<l1084>KOMMENTAARID</l1084>
+	<l1085>nimi</l1085>
+	<l1086>ost</l1086>
+	<l1087>Kogusumma</l1087>
+	<l1088>Ostu loetelu</l1088>
+	<l1089>Müügitulu</l1089>
+	<l1090>Müük Oksjoni Loetelu</l1090>
+	<l1091>Tagasi Oksjoni Loetelu</l1091>
+	<l1092>Ostutagastus</l1092>
+	<l1093>Ostu Oksjoni Loetelu</l1093>
+	<l1094>kogumine</l1094>
+	<l1095>Kokku tõttu</l1095>
+	<l1096>Müük kuupäev</l1096>
+	<l1097>müüdud</l1097>
+	<l1098>makse</l1098>
+	<l1099>Ostu kuupäev</l1099>
+	<l1100>maksekuupäev</l1100>
+	<l1101>Ostu pole</l1101>
+	<l1102>töötaja Teave</l1102>
+	<l1103>See sisaldab järgmisi välju säilitada töötaja kirjete:</l1103>
+	<l1104>töötaja nimi</l1104>
+	<l1105>Määramine</l1105>
+	<l1106>kohalolek</l1106>
+	<l1107>Käsitsi osavõtjate andmesisestuse kujul</l1107>
+	<l1108>osavõtjate kuupäev</l1108>
+	<l1109>staatus</l1109>
+	<l1110>käesolev</l1110>
+	<l1111>puuduv</l1111>
+	<l1112>Märkused</l1112>
+	<l1113>töötaja makse</l1113>
+	<l1114>See sisaldab järgmisi välju säilitada töötaja makse kirjed:</l1114>
+	<l1115>kirjeldus</l1115>
+	<l1116>Paide Summa</l1116>
+	<l1117>kulu</l1117>
+	<l1118>See sisaldab järgmisi välju säilitada Expense</l1118>
+	<l1119>kulud konto</l1119>
+	<l1120>Paide kuupäev</l1120>
+	<l1121>toode</l1121>
+	<l1122>Kõik elementide loend</l1122>
+	<l1123>Otsi Group</l1123>
+	<l1124>aktsia</l1124>
+	<l1125>Otsi Warehouse</l1125>
+	<l1126>Otsi riiul</l1126>
+	<l1127>müük</l1127>
+	<l1128>tänane</l1128>
+	<l1129>Kasuta kriteeriumid ................</l1129>
+	<l1130>Otsi POS</l1130>
+	<l1131>Otsi QuickSale</l1131>
+	<l1132>Best Product Müük</l1132>
+	<l1133>Otsing Kliendile</l1133>
+	<l1134>Otsi Oksjoni</l1134>
+	<l1135>ost</l1135>
+	<l1136>Otsi kuupäev</l1136>
+	<l1137>Otsi Pakkuja</l1137>
+	<l1138>tagastamine</l1138>
+	<l1139>Tänane müügitagastuste</l1139>
+	<l1140>Tänane Ostutagastus</l1140>
+	<l1141>Otsi müük Tagasi kuupäeva</l1141>
+	<l1142>Otsi Ostutagastus kuupäeva</l1142>
+	<l1143>Otsi müük Tagasi kaupa</l1143>
+	<l1144>Otsi Ostutagastus kaupa</l1144>
+	<l1145>krediit</l1145>
+	<l1146>Tänane kogumise</l1146>
+	<l1147>Tänane makse</l1147>
+	<l1148>Otsi kogumise kuupäeva</l1148>
+	<l1149>Otsi makse kuupäev</l1149>
+	<l1150>Otsi Pakkuja</l1150>
+	<l1151>töötaja</l1151>
+	<l1152>töötaja loetelu</l1152>
+	<l1153>Otsi osalemise kuupäeva</l1153>
+	<l1154>Otsi makse kuupäev</l1154>
+	<l1155>Otsi töötaja makse kuupäev</l1155>
+	<l1156>kulu</l1156>
+	<l1157>Otsi kulul kuupäeva</l1157>
+	<l1158>kasutaja seaded</l1158>
+	<l1159>Loo kasutajad (millel on erinevad eelised)</l1159>
+	<l1160>kasutajanimi</l1160>
+	<l1161>Täisnimi</l1161>
+	<l1162>parool</l1162>
+	<l1163>Sisesta parool uuesti</l1163>
+	<l1164>privileeg</l1164>
+	<l1165>kasutaja õiguste</l1165>
+	<l1166>LISAMA</l1166>
+	<l1167>MUUTMA</l1167>
+	<l1168>DELETE</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Tehaselähtestus</l1170>
+	<l1171>Kasuta seda moodulit väga hoolikalt. Kui andmebaas on reset, siis varasemad andmed ei saa taastada igal juhul.</l1171>
+	<l1172>Grupp</l1172>
+	<l1173>See sisaldab järgmisi välju säilitada eset rühma.</l1173>
+	<l1174>Grupi nimi</l1174>
+	<l1175>kulud konto</l1175>
+	<l1176>See sisaldab järgmisi välju säilitada Kulud Konto:</l1176>
+	<l1177>Kasutaja nimi</l1177>
+	<l1178>Mäleta mind</l1178>
+	<l1179>Muuda salasõna</l1179>
+	<l1180>See sisaldab järgmisi välju säilitada muuda parool:</l1180>
+	<l1181>Praegune salasõna</l1181>
+	<l1182>ID</l1182>
+	<l1183>hind</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>Registreerimiskuupäev</l1186>
+	<l1187>Kliendi ID</l1187>
+	<l1188>Pakkuja ID</l1188>
+	<l1189>Luba puudub.</l1189>
+	<l1190>Teave on edukalt salvestatud.</l1190>
+	<l1191>Teave on edukalt uuendatud.</l1191>
+	<l1192>Teave on edukalt kustutatud.</l1192>
+	<l1193>Andmeid ei leitud</l1193>
+	<l1194>See toode on juba lisatud Stock.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>KASUMI</l1196>
+	<l1197>TINGIMUSED ja seisukorras</l1197>
+	<l1198>Kõik kaubad tagastada asendamine peab olema minev seisukorras originaal pakend.</l1198>
+	<l1199>Me ei vastuta mis tahes transiidi kahju kahju või lekke.</l1199>
+	<l1200>Kohaletoimetamise aadress</l1200>
+	<l1201>Arve Aadress</l1201>
+	<l1202>esindaja allkiri</l1202>
+	<l1203>Kommentaarid</l1203>
+	<l1204>brutohinnale</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>KOGUHIND</l1206>
+	<l1207>UNIT KM</l1207>
+	<l1208>KM kokku</l1208>
+	<l1209>maksuarve</l1209>
+	<l1210>KAUPADE KUI ei saa müüdud tagastada ega vahetada.</l1210>
+</language>

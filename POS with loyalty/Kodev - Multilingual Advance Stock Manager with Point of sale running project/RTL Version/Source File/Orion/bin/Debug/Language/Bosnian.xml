@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Mi istražuje svoj san pružajući najbolje rješenje</comments>
+	<ctrlSave>SAVE</ctrlSave>
+	<ctrlClose>ZATVORI</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>DELETE</ctrlDelete>
+	<ctrlReset>RESETOVATI</ctrlReset>
+	<ctrlRefresh>OSVJEŽITI</ctrlRefresh>
+	<ctrlBrowsePhoto>browse Foto</ctrlBrowsePhoto>
+	<ctrlPreview>PREVIEW</ctrlPreview>
+	<ctrlRemoveAll>UKLONITI SVE</ctrlRemoveAll>
+	<ctrlSearch>TRAŽI</ctrlSearch>
+	<ctrlComplete>KOMPLETNA</ctrlComplete>
+	<ctrlNew>NOVO</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>Naplate i dostave</ctrlShipping>
+	<ctrlAdd>DODATI</ctrlAdd>
+	<ctrlSaveOnly>sačuvati samo</ctrlSaveOnly>
+	<ctrlDeleteAll>IZBRISATI SVE</ctrlDeleteAll>
+	<ctrlCollect>SKUPITI</ctrlCollect>
+	<ctrlRefund>REFUND</ctrlRefund>
+	<ctrlLogin>ULOGOVATI SE</ctrlLogin>
+	<lnkChangePassword>Promjena lozinke</lnkChangePassword>
+	<btnSetUp>POSTAVITI</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>STOCK</btnStock>
+	<btnSale>PRODAJA</btnSale>
+	<btnPurchase>KUPOVINA</btnPurchase>
+	<btnReturn>POVRATAK</btnReturn>
+	<btnCredit>KREDITNI</btnCredit>
+	<btnEmployee>ZAPOSLENI</btnEmployee>
+	<btnExpense>TROŠKOVI</btnExpense>
+	<btnReport>IZVJEŠTAJ</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>ALATI</btnTools>
+	<linkLogOut>ODJAVITI SE</linkLogOut>
+	<tsmlBusinessInformation>Poslovne informacije</tsmlBusinessInformation>
+	<tsmlCustomer>kupac</tsmlCustomer>
+	<tsmlSupplier>dobavljač</tsmlSupplier>
+	<tsmlVAT>PDV-a</tsmlVAT>
+	<tsmlWareHouse>WareHouse</tsmlWareHouse>
+	<tsmlShelf>Polica</tsmlShelf>
+	<tsmlItemInformation>stavka Informacije</tsmlItemInformation>
+	<tsmlListOfItem>List stavke</tsmlListOfItem>
+	<tsmlImport>uvoz</tsmlImport>
+	<tsmlBarcode>barkod</tsmlBarcode>
+	<tsmlStock>zaliha</tsmlStock>
+	<tsmlExpiredItem>Istekao Stavka</tsmlExpiredItem>
+	<tsmlBadStock>Bad Stock</tsmlBadStock>
+	<tsmlStockTransfer>Prijenos zaliha</tsmlStockTransfer>
+	<tsmlSales>prodajni</tsmlSales>
+	<tsmlPOS>Mjestu prodaje</tsmlPOS>
+	<tsmlInvoiceList>Račun List</tsmlInvoiceList>
+	<tsmlPurchase>kupovina</tsmlPurchase>
+	<tsmlPurchaseList>Kupovina List</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Povratak</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Kupovina Povratak</tsmlPurchaseReturn>
+	<tsmlCreditSale>kredit Prodaja</tsmlCreditSale>
+	<tsmlCreditPurchase>kredit Kupovina</tsmlCreditPurchase>
+	<tsmlEmployee>zaposlenik</tsmlEmployee>
+	<tsmlAttendance>pohađanje</tsmlAttendance>
+	<tsmlEmployeeSalary>zaposlenik Plaća</tsmlEmployeeSalary>
+	<tsmlItemReport>Predmeti</tsmlItemReport>
+	<tsmlStockReport>zaliha</tsmlStockReport>
+	<tsmlSalesReport>prodajni</tsmlSalesReport>
+	<tsmlPurchaseReport>kupovina</tsmlPurchaseReport>
+	<tsmlReturnReport>povratak</tsmlReturnReport>
+	<tsmlCreditReport>kredit</tsmlCreditReport>
+	<tsmlEmployeeReport>zaposlenik</tsmlEmployeeReport>
+	<tsmlExpenseReport>troškovi</tsmlExpenseReport>
+	<tsmlLanguage>jezik</tsmlLanguage>
+	<tsmlResetDB>Reset Database</tsmlResetDB>
+	<l1000>Poslovne informacije</l1000>
+	<l1001>Od vas se traži da popuni sljedeće podatke Društva:</l1001>
+	<l1002>Ime kompanije</l1002>
+	<l1003>Pravni ime</l1003>
+	<l1004>adresa</l1004>
+	<l1005>telefon</l1005>
+	<l1006>E-mail</l1006>
+	<l1007>sajt</l1007>
+	<l1008>slogan</l1008>
+	<l1009>Customer Information</l1009>
+	<l1010>Za potencijalne kupce: Molimo Vas da ispunite ovaj obrazac u potpunosti moguće.</l1010>
+	<l1011>klijent Naziv</l1011>
+	<l1014>Datum otvaranja</l1014>
+	<l1015>Balance</l1015>
+	<l1016>Supplier Information</l1016>
+	<l1017>To Prospective Suppliers: Please fill out this form as completely as possible</l1017>
+	<l1018>Supplier Name</l1018>
+	<l1019>PDV-a</l1019>
+	<l1020>Tax can be defined as the percentage of money</l1020>
+	<l1021>VAT (%)</l1021>
+	<l1022>Warehouse</l1022>
+	<l1023>It contains the following fields to warehouse</l1023>
+	<l1024>Warehouse Name</l1024>
+	<l1025>Polica</l1025>
+	<l1026>It contains the following fields to maintain shelf:</l1026>
+	<l1027>Shelf Name</l1027>
+	<l1028>stavka Informacije</l1028>
+	<l1029>You are required to fill the following details of the item:</l1029>
+	<l1030>Item Name</l1030>
+	<l1031>Unit</l1031>
+	<l1032>Batch</l1032>
+	<l1033>Group Name</l1033>
+	<l1034>barkod</l1034>
+	<l1035>Auto generate Barcode</l1035>
+	<l1036>VAT Applicable</l1036>
+	<l1037>Purchase Cost</l1037>
+	<l1038>Sales Price</l1038>
+	<l1039>Reorder Point</l1039>
+	<l1040>Default Warehouse</l1040>
+	<l1041>Opening Stock</l1041>
+	<l1042>Warehouse</l1042>
+	<l1043>Polica</l1043>
+	<l1044>Opening Unit</l1044>
+	<l1045>An expiration date</l1045>
+	<l1046>Expiry date</l1046>
+	<l1047>List of Item</l1047>
+	<l1048>To alter or delete, double-click on the item information.</l1048>
+	<l1049>Import Item from Excel</l1049>
+	<l1050>.xlsx file can import it in Orion.</l1050>
+	<l1051>barkod</l1051>
+	<l1052>You can print barcodes according to your needs</l1052>
+	<l1053>Quantity</l1053>
+	<l1054>Include company name</l1054>
+	<l1055>zaliha</l1055>
+	<l1056>Da biste izmenili ili izbrisali, dvaput kliknite na broj fakture.</l1056>
+	<l1057>Expired Inventory</l1057>
+	<l1058>Prijenos zaliha</l1058>
+	<l1059>To  delete, double-click on the item information.</l1059>
+	<l1060>From Warehouse</l1060>
+	<l1061>To Warehouse</l1061>
+	<l1062>Reason</l1062>
+	<l1063>Transfer Date</l1063>
+	<l1064>Expired Inventory</l1064>
+	<l1065>Date</l1065>
+	<l1066>TAX INVOICE</l1066>
+	<l1067>INVOICE NO</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>PDV-a</l1069>
+	<l1070>DISCOUNT</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>CASH</l1073>
+	<l1074>CARD</l1074>
+	<l1075>PAYMENT</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Customer Display</l1077>
+	<l1078>Item Display</l1078>
+	<l1079>Račun List</l1079>
+	<l1080>From</l1080>
+	<l1081>To</l1081>
+	<l1082>SHIPPING ADDRESS</l1082>
+	<l1083>BILLING ADDRESS</l1083>
+	<l1084>COMMENTS</l1084>
+	<l1085>Name</l1085>
+	<l1086>kupovina</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>Kupovina List</l1088>
+	<l1089>Sales Povratak</l1089>
+	<l1090>Sales Item List</l1090>
+	<l1091>Return Item List</l1091>
+	<l1092>Kupovina Povratak</l1092>
+	<l1093>Purchase Item List</l1093>
+	<l1094>Collection</l1094>
+	<l1095>Total Due</l1095>
+	<l1096>Sales Date</l1096>
+	<l1097>Sold By</l1097>
+	<l1098>Payment</l1098>
+	<l1099>Purchase Date</l1099>
+	<l1100>Payment Date</l1100>
+	<l1101>Purchase No</l1101>
+	<l1102>Employee Information</l1102>
+	<l1103>It contains the following fields to maintain employee records:</l1103>
+	<l1104>Employee Name</l1104>
+	<l1105>Designation</l1105>
+	<l1106>pohađanje</l1106>
+	<l1107>Manual attendance data entry form</l1107>
+	<l1108>Attendance Date</l1108>
+	<l1109>Status</l1109>
+	<l1110>Present</l1110>
+	<l1111>Absent</l1111>
+	<l1112>Remarks</l1112>
+	<l1113>Employee Payment</l1113>
+	<l1114>It contains the following fields to maintain employee payment records:</l1114>
+	<l1115>Description</l1115>
+	<l1116>Paid Amount</l1116>
+	<l1117>Expense</l1117>
+	<l1118>It contains the following fields to maintain Expense</l1118>
+	<l1119>Expenditure Account</l1119>
+	<l1120>Paid Date</l1120>
+	<l1121>Item</l1121>
+	<l1122>All item list</l1122>
+	<l1123>Search by Group</l1123>
+	<l1124>zaliha</l1124>
+	<l1125>Search by Warehouse</l1125>
+	<l1126>Search by Shelf</l1126>
+	<l1127>Sale</l1127>
+	<l1128>Today's</l1128>
+	<l1129>Use Criteria ................</l1129>
+	<l1130>Search by POS</l1130>
+	<l1131>Search by QuickSale</l1131>
+	<l1132>Best Product Sale</l1132>
+	<l1133>Search by Customer</l1133>
+	<l1134>Search by Item</l1134>
+	<l1135>kupovina</l1135>
+	<l1136>Search by Date</l1136>
+	<l1137>Search by Supplier</l1137>
+	<l1138>povratak</l1138>
+	<l1139>Today's sales Return</l1139>
+	<l1140>Today's purchase Return</l1140>
+	<l1141>Search sales Return by date</l1141>
+	<l1142>Search purchase Return by date</l1142>
+	<l1143>Search sales Return by item</l1143>
+	<l1144>Search purchase Return by item</l1144>
+	<l1145>kredit</l1145>
+	<l1146>Today's collection</l1146>
+	<l1147>Today's payment</l1147>
+	<l1148>Search collection by date</l1148>
+	<l1149>Search payment by date</l1149>
+	<l1150>Search by Supplier</l1150>
+	<l1151>zaposlenik</l1151>
+	<l1152>Employee List</l1152>
+	<l1153>Search attendance by date</l1153>
+	<l1154>Search payment by date</l1154>
+	<l1155>Search employee payment by date</l1155>
+	<l1156>Expense</l1156>
+	<l1157>Search expense by date</l1157>
+	<l1158>User Settings</l1158>
+	<l1159>Create users (having different privileges)</l1159>
+	<l1160>User Name</l1160>
+	<l1161>Full Name</l1161>
+	<l1162>Password</l1162>
+	<l1163>Re-enter password</l1163>
+	<l1164>Privilege</l1164>
+	<l1165>User Rights</l1165>
+	<l1166>DODATI</l1166>
+	<l1167>MODIFY</l1167>
+	<l1168>DELETE</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Factory Data Reset</l1170>
+	<l1171>Use this module with very carefully. If the database is reset, then previous data can not be recovered anyhow.</l1171>
+	<l1172>Group</l1172>
+	<l1173>It contains the following fields to maintain item group.</l1173>
+	<l1174>Group Name</l1174>
+	<l1175>Expenditure Account</l1175>
+	<l1176>It contains the following fields to maintain Expenditure Account:</l1176>
+	<l1177>Account Name</l1177>
+	<l1178>Remember Me</l1178>
+	<l1179>Change Password</l1179>
+	<l1180>It contains the following fields to maintain change password:</l1180>
+	<l1181>Current Password</l1181>
+	<l1182>ID</l1182>
+	<l1183>cijena</l1183>
+	<l1184>TERMINAL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>datum registracije</l1186>
+	<l1187>ID kupca</l1187>
+	<l1188>ID dobavljača</l1188>
+	<l1189>Bez dozvole.</l1189>
+	<l1190>Informacije su uspješno sačuvan.</l1190>
+	<l1191>Informacije je uspješno ažuriran.</l1191>
+	<l1192>Informacije je uspješno obrisan.</l1192>
+	<l1193>Nema podataka</l1193>
+	<l1194>Ovaj proizvod je već dodan u Stock.</l1194>
+	<l1195>VRIJEME</l1195>
+	<l1196>PROFIT</l1196>
+	<l1197>Rokova i uslova</l1197>
+	<l1198>Sva roba se vratio za zamjenu mora biti u prodati stanju sa originalnom pakovanju.</l1198>
+	<l1199>Mi nismo odgovorni za bilo kakav gubitak tranzit oštećenja ili curenja.</l1199>
+	<l1200>Adresa za dostavu</l1200>
+	<l1201>Adresa računa</l1201>
+	<l1202>Ovlašteni potpis</l1202>
+	<l1203>Komentari</l1203>
+	<l1204>s PDV-om</l1204>
+	<l1205>UNIT</l1205>
+	<l1206>UKUPNA CIJENA</l1206>
+	<l1207>PDV</l1207>
+	<l1208>UKUPNO PDV-a</l1208>
+	<l1209>TAX INVOICE</l1209>
+	<l1210>ROBE JEDNOM PRODANO se ne mogu vratiti ili zamijeniti.</l1210>
+</language>

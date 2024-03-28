@@ -1,0 +1,2 @@
+MySQL Connector (Product Version:- 6.3.6)
+https://downloads.mysql.com/archives/c-net/

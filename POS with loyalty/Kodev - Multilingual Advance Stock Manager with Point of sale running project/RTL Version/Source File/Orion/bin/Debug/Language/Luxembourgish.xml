@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>Mir inspizeiert Är Dram vun beschte Léisung, déi</comments>
+	<ctrlSave>Späicheren</ctrlSave>
+	<ctrlClose>ZOUMAACHEN</ctrlClose>
+	<ctrlAlter>ALTER</ctrlAlter>
+	<ctrlDelete>läschen</ctrlDelete>
+	<ctrlReset>zréckgesat</ctrlReset>
+	<ctrlRefresh>Update</ctrlRefresh>
+	<ctrlBrowsePhoto>Kuckt Photo</ctrlBrowsePhoto>
+	<ctrlPreview>Virschau</ctrlPreview>
+	<ctrlRemoveAll>LESCHEN ALLEGUER</ctrlRemoveAll>
+	<ctrlSearch>SEARCH</ctrlSearch>
+	<ctrlComplete>STAGE</ctrlComplete>
+	<ctrlNew>NEW</ctrlNew>
+	<ctrlPrint>PRINT</ctrlPrint>
+	<ctrlShipping>SHIPPING AN Type</ctrlShipping>
+	<ctrlAdd>SETZT</ctrlAdd>
+	<ctrlSaveOnly>Späicheren JUST</ctrlSaveOnly>
+	<ctrlDeleteAll>läschen ALLEGUER</ctrlDeleteAll>
+	<ctrlCollect>sammelen</ctrlCollect>
+	<ctrlRefund>Remboursement</ctrlRefund>
+	<ctrlLogin>Login</ctrlLogin>
+	<lnkChangePassword>PASSWUERT ÄNNEREN</lnkChangePassword>
+	<btnSetUp>AGERIICHT</btnSetUp>
+	<btnItem>ITEM</btnItem>
+	<btnStock>Stock</btnStock>
+	<btnSale>VERKAUF</btnSale>
+	<btnPurchase>AKAAF</btnPurchase>
+	<btnReturn>zréck</btnReturn>
+	<btnCredit>CREDIT</btnCredit>
+	<btnEmployee>BEAMTEN</btnEmployee>
+	<btnExpense>Käschte</btnExpense>
+	<btnReport>Dobäi</btnReport>
+	<btnAdmin>Administrator</btnAdmin>
+	<btnTools>Handwierksgeschir</btnTools>
+	<linkLogOut>AUSLOGGEN</linkLogOut>
+	<tsmlBusinessInformation>Business Informatiounen</tsmlBusinessInformation>
+	<tsmlCustomer>Client</tsmlCustomer>
+	<tsmlSupplier>Zouliwwerer</tsmlSupplier>
+	<tsmlVAT>TVA</tsmlVAT>
+	<tsmlWareHouse>Depôt</tsmlWareHouse>
+	<tsmlShelf>Regal</tsmlShelf>
+	<tsmlItemInformation>Punkt Informatiounen</tsmlItemInformation>
+	<tsmlListOfItem>Lëscht vun Element</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>Barcode-</tsmlBarcode>
+	<tsmlStock>Stock</tsmlStock>
+	<tsmlExpiredItem>ofgelaaf Element</tsmlExpiredItem>
+	<tsmlBadStock>schlecht Stock</tsmlBadStock>
+	<tsmlStockTransfer>Stock Transfer</tsmlStockTransfer>
+	<tsmlSales>Sales</tsmlSales>
+	<tsmlPOS>Point vun Verkaf</tsmlPOS>
+	<tsmlInvoiceList>Rechnung Lëscht</tsmlInvoiceList>
+	<tsmlPurchase>Akaf</tsmlPurchase>
+	<tsmlPurchaseList>Kaf Lëscht</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Zeréck</tsmlSalesReturn>
+	<tsmlPurchaseReturn>Kaf Zeréck</tsmlPurchaseReturn>
+	<tsmlCreditSale>Credit Sale</tsmlCreditSale>
+	<tsmlCreditPurchase>Credit Kaafen</tsmlCreditPurchase>
+	<tsmlEmployee>Employé</tsmlEmployee>
+	<tsmlAttendance>Participatioun</tsmlAttendance>
+	<tsmlEmployeeSalary>Employé Pai</tsmlEmployeeSalary>
+	<tsmlItemReport>heizou</tsmlItemReport>
+	<tsmlStockReport>Stock</tsmlStockReport>
+	<tsmlSalesReport>Sales</tsmlSalesReport>
+	<tsmlPurchaseReport>Akaf</tsmlPurchaseReport>
+	<tsmlReturnReport>zréck</tsmlReturnReport>
+	<tsmlCreditReport>Credit</tsmlCreditReport>
+	<tsmlEmployeeReport>Employé</tsmlEmployeeReport>
+	<tsmlExpenseReport>Ausgabe</tsmlExpenseReport>
+	<tsmlLanguage>Sprooch</tsmlLanguage>
+	<tsmlResetDB>zréckgesat Datebank</tsmlResetDB>
+	<l1000>Business Informatiounen</l1000>
+	<l1001>Dir sidd néideg dësen Detailer vun der Company zu fëllt:</l1001>
+	<l1002>Firmen Numm</l1002>
+	<l1003>juristesch Numm</l1003>
+	<l1004>Adress</l1004>
+	<l1005>Telefon</l1005>
+	<l1006>Email</l1006>
+	<l1007>Websäit</l1007>
+	<l1008>Slogan</l1008>
+	<l1009>Client Informatiounen</l1009>
+	<l1010>Ze spéit Klients: Weg ausfëllen dëser Form esou komplett wéi méiglech.</l1010>
+	<l1011>Client Numm</l1011>
+	<l1014>Ouverture Datum</l1014>
+	<l1015>Gläichgewiicht</l1015>
+	<l1016>Fournisseur Informatiounen</l1016>
+	<l1017>Ze spéit Fournisseuren: Weg ausfëllen dëser Form esou komplett wéi méiglech</l1017>
+	<l1018>Fournisseur Numm</l1018>
+	<l1019>TVA</l1019>
+	<l1020>Steier kënnen als de Prozentsaz vun Sue definéiert ginn</l1020>
+	<l1021>TVA (%)</l1021>
+	<l1022>Depôt</l1022>
+	<l1023>Et enthält den folgenden Beräicher zu Depôt</l1023>
+	<l1024>Depôt Numm</l1024>
+	<l1025>Regal</l1025>
+	<l1026>Et enthält den folgenden Beräicher Regal ze erhalen:</l1026>
+	<l1027>Regal Numm</l1027>
+	<l1028>Punkt Informatiounen</l1028>
+	<l1029>Dir sidd néideg dësen Detailer vun der Punkt ze fëllen:</l1029>
+	<l1030>Äerem Numm</l1030>
+	<l1031>Eenheet</l1031>
+	<l1032>Konte gefouert</l1032>
+	<l1033>Group Numm</l1033>
+	<l1034>Barcode-</l1034>
+	<l1035>Auto Generéiere Barcode-</l1035>
+	<l1036>TVA zou</l1036>
+	<l1037>Kaf Cost</l1037>
+	<l1038>Sales Präis</l1038>
+	<l1039>geféiert Point</l1039>
+	<l1040>Default Warehouse</l1040>
+	<l1041>Ouverture Stock</l1041>
+	<l1042>Depôt</l1042>
+	<l1043>Regal</l1043>
+	<l1044>Ouverture Eenheetspräis</l1044>
+	<l1045>Eng deconnectéiert Datum</l1045>
+	<l1046>Verfallsdatum</l1046>
+	<l1047>Lëscht vun Element</l1047>
+	<l1048>Ze vergréisseren oder läschen, double-klickt op de Punkt Informatiounen.</l1048>
+	<l1049>Import Element vun Excel</l1049>
+	<l1050>.xlsx Fichier kann et zu Orion Import.</l1050>
+	<l1051>Barcode-</l1051>
+	<l1052>Dir kënnt barcodes no Äre Besoinen Drécken</l1052>
+	<l1053>Quantitéit</l1053>
+	<l1054>Och Firma Numm</l1054>
+	<l1055>Stock</l1055>
+	<l1056>Fir Äntwerte ze änneren, klickt op d'Rechnungsnummer doppelklickt.</l1056>
+	<l1057>ofgelaaf Stamminventar</l1057>
+	<l1058>Stock Transfer</l1058>
+	<l1059>Ze läschen, double-klickt op de Punkt Informatiounen.</l1059>
+	<l1060>vun Warehouse</l1060>
+	<l1061>fir Warehouse</l1061>
+	<l1062>Grond</l1062>
+	<l1063>Transfermaart Datum</l1063>
+	<l1064>ofgelaaf Stamminventar</l1064>
+	<l1065>Datum</l1065>
+	<l1066>TAX Rechnung</l1066>
+	<l1067>Rechnung KENG</l1067>
+	<l1068>GROSS</l1068>
+	<l1069>TVA</l1069>
+	<l1070>Remise</l1070>
+	<l1071>TOTAL</l1071>
+	<l1072>BY</l1072>
+	<l1073>boer</l1073>
+	<l1074>WEISEN</l1074>
+	<l1075>BEZUELUNG</l1075>
+	<l1076>DUE</l1076>
+	<l1077>Client Haaptsäit</l1077>
+	<l1078>Punkt Haaptsäit</l1078>
+	<l1079>Rechnung Lëscht</l1079>
+	<l1080>aus</l1080>
+	<l1081>ze</l1081>
+	<l1082>LIWWERADRESS</l1082>
+	<l1083>RECHNUNGSADRESS</l1083>
+	<l1084>COMMENTAIREN</l1084>
+	<l1085>Numm</l1085>
+	<l1086>Akaf</l1086>
+	<l1087>Grand Total</l1087>
+	<l1088>Kaf Lëscht</l1088>
+	<l1089>Sales Zeréck</l1089>
+	<l1090>Sales Element Lëscht</l1090>
+	<l1091>Retour Element Lëscht</l1091>
+	<l1092>Kaf Zeréck</l1092>
+	<l1093>Kaf Element Lëscht</l1093>
+	<l1094>Kollektioun</l1094>
+	<l1095>insgesamt wéinst</l1095>
+	<l1096>Sales Datum</l1096>
+	<l1097>verkaf Vun</l1097>
+	<l1098>Bezuelen</l1098>
+	<l1099>Kaf Datum</l1099>
+	<l1100>Bezuelen Datum</l1100>
+	<l1101>Akaaf nee</l1101>
+	<l1102>Employé Informatiounen</l1102>
+	<l1103>Et enthält den folgenden Beräicher Employé records ze erhalen:</l1103>
+	<l1104>Employé Numm</l1104>
+	<l1105>Bezeechnung</l1105>
+	<l1106>Participatioun</l1106>
+	<l1107>Manuell Participatioun Daten Element Form</l1107>
+	<l1108>Participatioun Datum</l1108>
+	<l1109>Status</l1109>
+	<l1110>presentéieren</l1110>
+	<l1111>feelen</l1111>
+	<l1112>Wuertmeldung</l1112>
+	<l1113>Employé Bezuelen</l1113>
+	<l1114>Et enthält den folgenden Beräicher Employé bezuelt records ze erhalen:</l1114>
+	<l1115>Beschreiwung</l1115>
+	<l1116>bezuelte Betrag</l1116>
+	<l1117>Käschte</l1117>
+	<l1118>Et enthält den folgenden Beräicher Käschte ze erhalen</l1118>
+	<l1119>Dépensen Kont</l1119>
+	<l1120>bezuelt Datum</l1120>
+	<l1121>Punkt</l1121>
+	<l1122>All Punkt Lëscht</l1122>
+	<l1123>Sich vun Group</l1123>
+	<l1124>Stock</l1124>
+	<l1125>Sich vun Warehouse</l1125>
+	<l1126>Sich vun Regal</l1126>
+	<l1127>Verkaafen</l1127>
+	<l1128>haut d'</l1128>
+	<l1129>Benotzen Critèrë ................</l1129>
+	<l1130>Sich vun Sekonn</l1130>
+	<l1131>Sich vun QuickSale</l1131>
+	<l1132>Beschte Product Sale</l1132>
+	<l1133>Sich vun Clientsdéngscht</l1133>
+	<l1134>Sich vun Element</l1134>
+	<l1135>Akaf</l1135>
+	<l1136>Sich vum Datum</l1136>
+	<l1137>Sich vun Zouliwwerer</l1137>
+	<l1138>zréck</l1138>
+	<l1139>Haut d'Ofsaz Zeréck</l1139>
+	<l1140>Haut de Kaf Zeréck</l1140>
+	<l1141>Sich Ofsaz Zeréck vum Datum</l1141>
+	<l1142>Sich Kaf Zeréck vum Datum</l1142>
+	<l1143>Sich Ofsaz Zeréck vun Äerem</l1143>
+	<l1144>Sich Kaf Zeréck vun Äerem</l1144>
+	<l1145>Credit</l1145>
+	<l1146>Haut d'Kollektioun</l1146>
+	<l1147>Haut d'Bezuelen</l1147>
+	<l1148>Sich Kollektioun vum Datum</l1148>
+	<l1149>Sich Bezuelen vun Datum</l1149>
+	<l1150>Sich vun Zouliwwerer</l1150>
+	<l1151>Employé</l1151>
+	<l1152>Employé Lëscht</l1152>
+	<l1153>Sich Participatioun vum Datum</l1153>
+	<l1154>Sich Bezuelen vun Datum</l1154>
+	<l1155>Sich Employé Bezuelen vun Datum</l1155>
+	<l1156>Käschte</l1156>
+	<l1157>Sich Käschte vum Datum</l1157>
+	<l1158>Benotzer Parameteren</l1158>
+	<l1159>Schafen Benotzer (mussen verschidden Privilegien)</l1159>
+	<l1160>Usernumm</l1160>
+	<l1161>Ganzen Numm</l1161>
+	<l1162>Passwuert</l1162>
+	<l1163>Passwuert nach eng Kéier aginn</l1163>
+	<l1164>Privileg</l1164>
+	<l1165>Benotzerrechter</l1165>
+	<l1166>SETZT</l1166>
+	<l1167>MODIFY</l1167>
+	<l1168>läschen</l1168>
+	<l1169>PRINT</l1169>
+	<l1170>Factory Data Reset</l1170>
+	<l1171>Benotzen dëse Modul ganz virsiichteg mat. Wann d'Datebank zréckgesat ass, da kann virdrun Donnéeën net verlooss wéint ginn.</l1171>
+	<l1172>Group</l1172>
+	<l1173>Et enthält den folgenden Beräicher Punkt Grupp ze erhalen.</l1173>
+	<l1174>Group Numm</l1174>
+	<l1175>Dépensen Kont</l1175>
+	<l1176>Et enthält den folgenden Beräicher Grad esou Account ze erhalen:</l1176>
+	<l1177>Benotzernumm</l1177>
+	<l1178>Erënner dech u mech</l1178>
+	<l1179>Passwuert änneren</l1179>
+	<l1180>Et enthält den folgenden Beräicher änneren Passwuert ze erhalen:</l1180>
+	<l1181>Aktuellt Passwuert</l1181>
+	<l1182>ID</l1182>
+	<l1183>Präis</l1183>
+	<l1184>Terminal</l1184>
+	<l1185>BEZUELEN ID</l1185>
+	<l1186>Aschreiwungen Datum</l1186>
+	<l1187>Client ID</l1187>
+	<l1188>Fournisseur ID</l1188>
+	<l1189>Keng Erlaabnis.</l1189>
+	<l1190>Informatiounen gouf erfollegräich gerett.</l1190>
+	<l1191>Informatiounen gouf erfollegräich aktualiséiert.</l1191>
+	<l1192>Informatiounen gouf erfollegräich geläscht.</l1192>
+	<l1193>Keng Daten fonnt</l1193>
+	<l1194>Dësen Artikel ass scho fir d'Bourse notéiert ginn.</l1194>
+	<l1195>TIME</l1195>
+	<l1196>Gewënn</l1196>
+	<l1197>GÉNÉRALES AN Zoustand</l1197>
+	<l1198>All Wueren zréck fir Ersatz muss mat original Uërtschaft zu salable Conditioun ginn.</l1198>
+	<l1199>Mir sinn net fir all Transitstreck Schued Verloscht oder Auslafe responsabel.</l1199>
+	<l1200>Liwweradress</l1200>
+	<l1201>Rechnungsadress</l1201>
+	<l1202>autoriséiert ënnerschriwwe</l1202>
+	<l1203>Comments</l1203>
+	<l1204>GROSS PRICE</l1204>
+	<l1205>Eenheet</l1205>
+	<l1206>TOTAL PRICE</l1206>
+	<l1207>Eenheet TVA</l1207>
+	<l1208>TOTAL TVA</l1208>
+	<l1209>TAX Rechnung</l1209>
+	<l1210>WUEREN EEMOL MOMENT NËT verkafen hannescht ODER realiséiert.</l1210>
+</language>

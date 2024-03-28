@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" translator="LinkBirdTech">
+	<comments>My zkoumá svůj sen tím, že poskytuje nejlepší řešení</comments>
+	<ctrlSave>ULOŽIT</ctrlSave>
+	<ctrlClose>ZAVŘÍT</ctrlClose>
+	<ctrlAlter>ZMĚNIT</ctrlAlter>
+	<ctrlDelete>VYMAZAT</ctrlDelete>
+	<ctrlReset>přesázet</ctrlReset>
+	<ctrlRefresh>OBNOVIT</ctrlRefresh>
+	<ctrlBrowsePhoto>Prohlížet Photo</ctrlBrowsePhoto>
+	<ctrlPreview>NÁHLED</ctrlPreview>
+	<ctrlRemoveAll>ODEBRAT VŠECHNY</ctrlRemoveAll>
+	<ctrlSearch>VYHLEDÁVÁNÍ</ctrlSearch>
+	<ctrlComplete>KOMPLETNÍ</ctrlComplete>
+	<ctrlNew>NOVÝ</ctrlNew>
+	<ctrlPrint>TISK</ctrlPrint>
+	<ctrlShipping>Dodací a fakturační</ctrlShipping>
+	<ctrlAdd>PŘIDAT</ctrlAdd>
+	<ctrlSaveOnly>pouze uložit</ctrlSaveOnly>
+	<ctrlDeleteAll>SMAZAT VŠECHNY</ctrlDeleteAll>
+	<ctrlCollect>SBÍRAT</ctrlCollect>
+	<ctrlRefund>NÁHRADA</ctrlRefund>
+	<ctrlLogin>PŘIHLÁSIT SE</ctrlLogin>
+	<lnkChangePassword>ZMĚNIT HESLO</lnkChangePassword>
+	<btnSetUp>ZALOŽIT</btnSetUp>
+	<btnItem>POLOŽKA</btnItem>
+	<btnStock>SKLADEM</btnStock>
+	<btnSale>PRODEJ</btnSale>
+	<btnPurchase>NÁKUP</btnPurchase>
+	<btnReturn>VRÁTIT SE</btnReturn>
+	<btnCredit>KREDIT</btnCredit>
+	<btnEmployee>ZAMĚSTNANEC</btnEmployee>
+	<btnExpense>NÁKLADY</btnExpense>
+	<btnReport>ZPRÁVA</btnReport>
+	<btnAdmin>ADMIN</btnAdmin>
+	<btnTools>NÁSTROJE</btnTools>
+	<linkLogOut>ODHLÁSIT SE</linkLogOut>
+	<tsmlBusinessInformation>Business Information</tsmlBusinessInformation>
+	<tsmlCustomer>Zákazník</tsmlCustomer>
+	<tsmlSupplier>dodavatel</tsmlSupplier>
+	<tsmlVAT>káď</tsmlVAT>
+	<tsmlWareHouse>Sklad</tsmlWareHouse>
+	<tsmlShelf>Police</tsmlShelf>
+	<tsmlItemInformation>Informace položka</tsmlItemInformation>
+	<tsmlListOfItem>Položka seznamu</tsmlListOfItem>
+	<tsmlImport>Import</tsmlImport>
+	<tsmlBarcode>čárový kód</tsmlBarcode>
+	<tsmlStock>Skladem</tsmlStock>
+	<tsmlExpiredItem>Prošlé položky</tsmlExpiredItem>
+	<tsmlBadStock>Bad Sklad</tsmlBadStock>
+	<tsmlStockTransfer>Sklad Přenos</tsmlStockTransfer>
+	<tsmlSales>Odbyt</tsmlSales>
+	<tsmlPOS>Místě prodeje</tsmlPOS>
+	<tsmlInvoiceList>faktura Seznam</tsmlInvoiceList>
+	<tsmlPurchase>Nákup</tsmlPurchase>
+	<tsmlPurchaseList>Seznam nákup</tsmlPurchaseList>
+	<tsmlSalesReturn>Sales Return</tsmlSalesReturn>
+	<tsmlPurchaseReturn>nákup Return</tsmlPurchaseReturn>
+	<tsmlCreditSale>Credit Prodej</tsmlCreditSale>
+	<tsmlCreditPurchase>Zakoupením kreditů</tsmlCreditPurchase>
+	<tsmlEmployee>Zaměstnanec</tsmlEmployee>
+	<tsmlAttendance>Účast</tsmlAttendance>
+	<tsmlEmployeeSalary>Plat zaměstnance</tsmlEmployeeSalary>
+	<tsmlItemReport>předměty</tsmlItemReport>
+	<tsmlStockReport>Skladem</tsmlStockReport>
+	<tsmlSalesReport>Odbyt</tsmlSalesReport>
+	<tsmlPurchaseReport>Nákup</tsmlPurchaseReport>
+	<tsmlReturnReport>Vrátit se</tsmlReturnReport>
+	<tsmlCreditReport>Kredit</tsmlCreditReport>
+	<tsmlEmployeeReport>Zaměstnanec</tsmlEmployeeReport>
+	<tsmlExpenseReport>výdaje</tsmlExpenseReport>
+	<tsmlLanguage>Jazyk</tsmlLanguage>
+	<tsmlResetDB>Reset Database</tsmlResetDB>
+	<l1000>Business Information</l1000>
+	<l1001>Jste povinni vyplnit následující údaje o společnosti:</l1001>
+	<l1002>Jméno společnosti</l1002>
+	<l1003>Legální jméno</l1003>
+	<l1004>Adresa</l1004>
+	<l1005>Telefon</l1005>
+	<l1006>E-mailem</l1006>
+	<l1007>webová stránka</l1007>
+	<l1008>Heslo</l1008>
+	<l1009>Informace o zákazníkovi</l1009>
+	<l1010>Aby potenciální zákazníci: Vyplňte prosím tento formulář co nejúplněji.</l1010>
+	<l1011>Jméno zákazníka</l1011>
+	<l1014>Datum zahájení</l1014>
+	<l1015>Zůstatek</l1015>
+	<l1016>dodavatel Informace</l1016>
+	<l1017>Do potenciálních dodavatelů: Vyplňte prosím tento formulář co nejúplněji</l1017>
+	<l1018>Jméno dodavatele</l1018>
+	<l1019>káď</l1019>
+	<l1020>Daň může být definována jako procento peněz</l1020>
+	<l1021>KÁĎ (%)</l1021>
+	<l1022>Sklad</l1022>
+	<l1023>Obsahuje následující pole do skladu</l1023>
+	<l1024>sklad Name</l1024>
+	<l1025>Police</l1025>
+	<l1026>Obsahuje následující pole k udržení polic:</l1026>
+	<l1027>Jméno police</l1027>
+	<l1028>Informace položka</l1028>
+	<l1029>Jste povinni vyplnit následující údaje o položky:</l1029>
+	<l1030>Název položky</l1030>
+	<l1031>Jednotka</l1031>
+	<l1032>várka</l1032>
+	<l1033>Skupinové jméno</l1033>
+	<l1034>čárový kód</l1034>
+	<l1035>Automatické generování čárového kódu</l1035>
+	<l1036>DPH Použitelný</l1036>
+	<l1037>kupní cena</l1037>
+	<l1038>Zlevněné ceny</l1038>
+	<l1039>Změna pořadí Point</l1039>
+	<l1040>výchozí Warehouse</l1040>
+	<l1041>otevření Sklad</l1041>
+	<l1042>Sklad</l1042>
+	<l1043>Police</l1043>
+	<l1044>otevření Unit</l1044>
+	<l1045>Datum expirace</l1045>
+	<l1046>datum ukončení platnosti</l1046>
+	<l1047>Seznam výtisku</l1047>
+	<l1048>Chcete-li změnit nebo odstranit, poklepejte na základě informací o položce.</l1048>
+	<l1049>Import položky z Excelu</l1049>
+	<l1050>XLSX soubor jej lze importovat v Orionu.</l1050>
+	<l1051>čárový kód</l1051>
+	<l1052>Můžete tisknout čárové kódy podle vašich potřeb</l1052>
+	<l1053>Množství</l1053>
+	<l1054>Obsahovat název společnosti</l1054>
+	<l1055>Skladem</l1055>
+	<l1056>Chcete-li změnit nebo odstranit, poklepejte na číslo faktury.</l1056>
+	<l1057>Prošlý Inventory</l1057>
+	<l1058>Sklad Přenos</l1058>
+	<l1059>Chcete-li odstranit, poklepejte na základě informací o položce.</l1059>
+	<l1060>ze skladu</l1060>
+	<l1061>do skladu</l1061>
+	<l1062>Důvod</l1062>
+	<l1063>Transfer Datum</l1063>
+	<l1064>Prošlý Inventory</l1064>
+	<l1065>datum</l1065>
+	<l1066>DAŇOVÝ DOKLAD</l1066>
+	<l1067>FAKTURA ČÍSLO</l1067>
+	<l1068>HRUBÝ</l1068>
+	<l1069>káď</l1069>
+	<l1070>SLEVA</l1070>
+	<l1071>CELKOVÝ</l1071>
+	<l1072>PODLE</l1072>
+	<l1073>HOTOVOST</l1073>
+	<l1074>KARTA</l1074>
+	<l1075>PLATBA</l1075>
+	<l1076>Z DŮVODU</l1076>
+	<l1077>Zákaznické displeje</l1077>
+	<l1078>Item Display</l1078>
+	<l1079>faktura Seznam</l1079>
+	<l1080>Z</l1080>
+	<l1081>Na</l1081>
+	<l1082>DORUČOVACÍ ADRESA</l1082>
+	<l1083>FAKTURAČNÍ ADRESA</l1083>
+	<l1084>KOMENTÁŘE</l1084>
+	<l1085>název</l1085>
+	<l1086>Nákup</l1086>
+	<l1087>Celkový součet</l1087>
+	<l1088>Seznam nákup</l1088>
+	<l1089>Sales Return</l1089>
+	<l1090>Seznam prodejní položky</l1090>
+	<l1091>Return Položka seznamu</l1091>
+	<l1092>nákup Return</l1092>
+	<l1093>Nákup Položka seznamu</l1093>
+	<l1094>Sbírka</l1094>
+	<l1095>Konečná cena</l1095>
+	<l1096>Sales Datum</l1096>
+	<l1097>Prodáno</l1097>
+	<l1098>Platba</l1098>
+	<l1099>Datum nákupu</l1099>
+	<l1100>Datum splatnosti</l1100>
+	<l1101>nákup č</l1101>
+	<l1102>Informace zaměstnanec</l1102>
+	<l1103>Obsahuje následující pole uchovávat záznamy o zaměstnancích:</l1103>
+	<l1104>jméno zaměstnance</l1104>
+	<l1105>Označení</l1105>
+	<l1106>Účast</l1106>
+	<l1107>Manuální obsluha zadávání dat forma</l1107>
+	<l1108>docházka Date</l1108>
+	<l1109>Postavení</l1109>
+	<l1110>Současnost, dárek</l1110>
+	<l1111>nepřítomný</l1111>
+	<l1112>Poznámky</l1112>
+	<l1113>platba zaměstnanec</l1113>
+	<l1114>Obsahuje následující pole k udržení platební zaměstnanec záznamů:</l1114>
+	<l1115>Popis</l1115>
+	<l1116>Uhrazená suma</l1116>
+	<l1117>výdaj</l1117>
+	<l1118>Obsahuje následující pole k udržení Expense</l1118>
+	<l1119>výdaje na účet</l1119>
+	<l1120>zaplacena Datum</l1120>
+	<l1121>Položka</l1121>
+	<l1122>All položka seznamu</l1122>
+	<l1123>Hledání podle skupiny</l1123>
+	<l1124>Skladem</l1124>
+	<l1125>Hledání podle skladu</l1125>
+	<l1126>Hledání podle šelfu</l1126>
+	<l1127>Prodej</l1127>
+	<l1128>dnešní</l1128>
+	<l1129>Použít kritéria ................</l1129>
+	<l1130>Hledání podle POS</l1130>
+	<l1131>Hledání podle QuickSale</l1131>
+	<l1132>Best Product Prodej</l1132>
+	<l1133>Vyhledávání Zákazníkem</l1133>
+	<l1134>Hledání podle bodu</l1134>
+	<l1135>Nákup</l1135>
+	<l1136>Vyhledávání podle data</l1136>
+	<l1137>Vyhledávání podle dodavatele</l1137>
+	<l1138>Vrátit se</l1138>
+	<l1139>Dnešní prodeje Return</l1139>
+	<l1140>Dnešní nákup Return</l1140>
+	<l1141>Vyhledávací prodeje Return podle data</l1141>
+	<l1142>Vyhledávání nákup Return podle data</l1142>
+	<l1143>Vyhledávací prodeje Návrat do bodu</l1143>
+	<l1144>Vyhledávání nákup Návrat do bodu</l1144>
+	<l1145>Kredit</l1145>
+	<l1146>Dnešní sbírka</l1146>
+	<l1147>Dnešní platba</l1147>
+	<l1148>Vyhledávání podle data collection</l1148>
+	<l1149>Vyhledávání platba podle data</l1149>
+	<l1150>Vyhledávání podle dodavatele</l1150>
+	<l1151>Zaměstnanec</l1151>
+	<l1152>Seznam zaměstnanec</l1152>
+	<l1153>Search účast podle data</l1153>
+	<l1154>Vyhledávání platba podle data</l1154>
+	<l1155>Platba Search zaměstnanec podle data</l1155>
+	<l1156>výdaj</l1156>
+	<l1157>Vyhledávat náklady podle data</l1157>
+	<l1158>Uživatelské nastavení</l1158>
+	<l1159>Vytvoření uživatelů (které mají různé výsady)</l1159>
+	<l1160>Uživatelské jméno</l1160>
+	<l1161>Celé jméno</l1161>
+	<l1162>Heslo</l1162>
+	<l1163>Znovu zadejte heslo</l1163>
+	<l1164>Privilegium</l1164>
+	<l1165>uživatelských práv</l1165>
+	<l1166>PŘIDAT</l1166>
+	<l1167>MODIFIKOVAT</l1167>
+	<l1168>VYMAZAT</l1168>
+	<l1169>TISK</l1169>
+	<l1170>Obnovení továrních dat</l1170>
+	<l1171>Použít tento modul s velmi opatrně. V případě, že databáze je obnovena, pak předchozí data nelze obnovit v každém případě.</l1171>
+	<l1172>Skupina</l1172>
+	<l1173>Obsahuje následující pole k udržení skupinu položek.</l1173>
+	<l1174>Skupinové jméno</l1174>
+	<l1175>výdaje na účet</l1175>
+	<l1176>Obsahuje následující pole k udržení Účet výdajů na:</l1176>
+	<l1177>Jméno účtu</l1177>
+	<l1178>Zapamatuj si mě</l1178>
+	<l1179>Změnit heslo</l1179>
+	<l1180>Obsahuje následující pole k udržení změny hesla:</l1180>
+	<l1181>Aktuální heslo</l1181>
+	<l1182>ID</l1182>
+	<l1183>Cena</l1183>
+	<l1184>TERMINÁL</l1184>
+	<l1185>PAY ID</l1185>
+	<l1186>datum registrace</l1186>
+	<l1187>zákaznické identifikační číslo</l1187>
+	<l1188>dodavatel ID</l1188>
+	<l1189>Bez povolení.</l1189>
+	<l1190>Informace byly úspěšně uloženy.</l1190>
+	<l1191>Informace byla úspěšně aktualizována.</l1191>
+	<l1192>Informace byla úspěšně odstraněna.</l1192>
+	<l1193>Nenalezena žádná data</l1193>
+	<l1194>Tento produkt již byl přidán do zásoby.</l1194>
+	<l1195>ČAS</l1195>
+	<l1196>ZISK</l1196>
+	<l1197>USTANOVENÍ A PODMÍNKY</l1197>
+	<l1198>Veškeré zboží se vrátil pro náhradu musí být prodány s originálním balení.</l1198>
+	<l1199>Nejsme zodpovědní za jakoukoliv ztrátu transit poškození nebo prosakování.</l1199>
+	<l1200>doručovací adresa</l1200>
+	<l1201>fakturační adresa</l1201>
+	<l1202>Podpis oprávněné osoby</l1202>
+	<l1203>Komentáře</l1203>
+	<l1204>HRUBÁ CENA</l1204>
+	<l1205>JEDNOTKA</l1205>
+	<l1206>CELKOVÁ CENA</l1206>
+	<l1207>UNIT DPH</l1207>
+	<l1208>TOTAL DPH</l1208>
+	<l1209>DAŇOVÝ DOKLAD</l1209>
+	<l1210>Zboží, jakmile SOLD nemůže být vráceno nebo výměnu.</l1210>
+</language>

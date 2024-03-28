@@ -1,0 +1,2 @@
+SQLite Connectors
+https://system.data.sqlite.org/downloads/1.0.105.2/sqlite-netFx45-setup-bundle-x86-2012-1.0.105.2.exe
